@@ -2,7 +2,9 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import path from 'path';
 import { remark } from 'remark';
+import gfm from 'remark-gfm';
 import html from 'remark-html';
+import styles from './page.module.scss';
 
 const contentRoot = path.join(process.cwd(), 'content');
 
@@ -24,11 +26,19 @@ function findFilePath(currentDir: string, slugParts: string[]): string | null {
     const isMatch = toKebabCase(rawName) === slugParts[0];
 
     if (entry.isDirectory() && isMatch) {
-      const deeper = findFilePath(path.join(currentDir, entry.name), slugParts.slice(1));
+      const deeper = findFilePath(
+        path.join(currentDir, entry.name),
+        slugParts.slice(1)
+      );
       if (deeper) return deeper;
     }
 
-    if (entry.isFile() && entry.name.endsWith('.md') && isMatch && slugParts.length === 1) {
+    if (
+      entry.isFile() &&
+      entry.name.endsWith('.md') &&
+      isMatch &&
+      slugParts.length === 1
+    ) {
       return path.join(currentDir, entry.name);
     }
   }
@@ -42,17 +52,24 @@ export default async function Page(props: { params: { slug: string[] } }) {
   const filePath = findFilePath(contentRoot, slug);
 
   if (!filePath) {
-    return <div className="p-10 text-red-400">404 — File not found.</div>;
+    return <div className='p-10 text-red-400'>404 — File not found.</div>;
   }
 
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
-  const processed = await remark().use(html).process(content);
+
+  const processed = await remark()
+    .use(gfm) // ← enable GFM
+    .use(html)
+    .process(content);
 
   return (
-    <div className="prose prose-invert mx-auto p-10">
+    <div className='prose prose-invert mx-auto p-10'>
       <h1>{data.title || slug.join(' / ')}</h1>
-      <article dangerouslySetInnerHTML={{ __html: processed.toString() }} />
+      <article
+        className={styles.markdown}
+        dangerouslySetInnerHTML={{ __html: processed.toString() }}
+      />
     </div>
   );
 }
