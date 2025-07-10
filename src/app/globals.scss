@@ -87,11 +87,21 @@ body[theme] {
 }
 
 body[theme] * {
+  color: var(--color-text);
+  border-color: var(--color-secondary);
+  transition: background-color $transition-duration-medium
+      $transition-ease-snappy,
+    scrollbar-color $transition-duration-medium $transition-ease-snappy,
+    color $transition-duration-medium $transition-ease-snappy;
+}
+
+body[theme] * .solid {
   background-color: var(--color-bg);
   color: var(--color-text);
   border-color: var(--color-secondary);
   transition: background-color $transition-duration-medium
       $transition-ease-snappy,
+    scrollbar-color $transition-duration-medium $transition-ease-snappy,
     color $transition-duration-medium $transition-ease-snappy;
 }
 

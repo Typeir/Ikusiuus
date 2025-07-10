@@ -2,7 +2,12 @@ import fs from 'fs';
 import { NextResponse } from 'next/server';
 import path from 'path';
 
-const IGNORED_FOLDERS = new Set(['.obsidian', '.git', 'node_modules', '.vscode']);
+const IGNORED_FOLDERS = new Set([
+  '.obsidian',
+  '.git',
+  'node_modules',
+  '.vscode',
+]);
 
 function toKebabCase(str: string) {
   return str
@@ -31,7 +36,10 @@ export async function GET(req: Request) {
 
       if (entry.isDirectory()) {
         walk(fullPath, kebabPath);
-      } else if (entry.name.endsWith('.md') && fileName.toLowerCase().includes(q)) {
+      } else if (
+        entry.name.endsWith('.md') &&
+        fileName.toLowerCase().includes(q)
+      ) {
         matches.push({ name: fileName, path: kebabPath });
       }
     }

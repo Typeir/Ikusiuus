@@ -95,8 +95,8 @@ export default async function RootLayout({
     <html lang='en'>
       {/* @ts-ignore */}
       <body theme={theme}>
-        <div className='sidebar-container flex min-h-screen bg-zinc-950 text-zinc-100'>
-          <aside className='sidebar w-80 p-6 border-r border-zinc-800 bg-zinc-900 sticky top-0 h-screen overflow-y-auto'>
+        <div className='sidebar-container flex min-h-screen'>
+          <aside className='sidebar w-80 p-6 border-r sticky top-0 h-screen overflow-y-auto solid'>
             <div className='flex flex-col gap-4'>
               <Link href='/' className='text-lg font-semibold hover:underline'>
                 <div className=' flex flex-row gap-4'>
@@ -116,7 +116,7 @@ export default async function RootLayout({
               <Sidebar items={tree} />
             </div>
           </aside>
-          <main className='flex-1 p-10 '>{children}</main>
+          <main className='flex-1 p-10 solid'>{children}</main>
         </div>
       </body>
     </html>

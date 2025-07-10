@@ -40,16 +40,14 @@ export default function Home() {
         placeholder='Search the Library...'
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        className='w-full p-3 bg-zinc-800 border border-zinc-700 text-white rounded'
+        className='w-full p-3rounded'
       />
 
-      {loading && <p className='text-sm text-zinc-500'>Searching...</p>}
+      {loading && <p className='text-sm'>Searching...</p>}
 
       {results.length > 0 && (
-        <div className='max-h-96 overflow-y-auto border border-zinc-700 rounded p-4 bg-zinc-900'>
-          <h3 className='text-sm font-semibold mb-2 text-zinc-400'>
-            Local Results
-          </h3>
+        <div className='max-h-96 overflow-y-auto borderrounded p-4'>
+          <h3 className='text-sm font-semibold mb-2'>Local Results</h3>
           <ul className='space-y-1 text-sm'>
             {results.map((r) => (
               <li key={r.path}>
@@ -61,7 +59,7 @@ export default function Home() {
               </li>
             ))}
           </ul>
-          <h3 className='text-sm font-semibold mb-2 text-zinc-400'>
+          <h3 className='text-sm font-semibold mb-2'>
             Results from beyond the Clone Worlds
           </h3>
         </div>

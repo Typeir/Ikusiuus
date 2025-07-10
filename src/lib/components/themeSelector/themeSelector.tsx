@@ -38,7 +38,7 @@ export const ThemeSelector = ({
   );
 
   return (
-    <div className='flex flex-col items-start gap-2 mb-4'>
+    <div className='flex flex-col items-start gap-2 mb-4 solid'>
       <button
         onClick={() => {
           const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1); // Cycle within bounds
@@ -46,7 +46,7 @@ export const ThemeSelector = ({
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);
         }}
-        className='px-6 py-3 rounded border text-lg font-medium transition-all duration-700 border-zinc-600 bg-zinc-800 text-zinc-200 hover:bg-zinc-700'>
+        className='px-6 py-3 rounded border text-lg font-medium transition-all duration-700'>
         Theme: {THEMES[themeIndex % THEMES.length]}
       </button>
     </div>
