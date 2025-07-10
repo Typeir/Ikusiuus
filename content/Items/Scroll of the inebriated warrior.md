@@ -1,6 +1,6 @@
-# Scroll of the Inebriated Warrior  
+# Scroll of the Inebriated Warrior
 
-*Wondrous item (Scroll), legendary, nonmagical*
+_Wondrous item (Scroll), legendary, nonmagical_
 
 ---
 
@@ -28,11 +28,11 @@ While your Inebriation Level is **12+**, you gain the following benefits:
 
 As your Inebriation Level rises above 18, you begin to suffer the following effects:
 
-| Inebriation Level | Effect |
-|-------------------|--------|
+| Inebriation Level | Effect                                           |
+| ----------------- | ------------------------------------------------ |
 | 24                | Disadvantage on Wisdom checks and saving throws. |
-| 30                | Gain **1 level of exhaustion**. |
-| 36                | Gain **another level of exhaustion**. |
+| 30                | Gain **1 level of exhaustion**.                  |
+| 36                | Gain **another level of exhaustion**.            |
 
 You cannot exceed a level of 36. Your body simply cannot contain more.
 
@@ -48,22 +48,22 @@ You can spend **1 ki point** and use an **action** to forcibly purge your alcoho
 
 If you are attuned to the **Gourd of the Eternal Drunkard**, you gain access to the following:
 
-### Breath of the Drunkard – Fire Belch  
+### Breath of the Drunkard – Fire Belch
 
-*Requires Inebriation Level 12+*  
+_Requires Inebriation Level 12+_  
 Replace one of your attacks or use your action to exhale fire in a **15-ft cone**.  
-**Dexterity save (DC = 8 + Proficiency + Wisdom mod)**  
+**Dexterity save (DC = 8 + Proficiency + Wisdom mod)**
 
-- On fail: **6d6 fire damage** and ignite (1d6 fire at start of next turn)  
-- On success: Half damage, no ignite  
+- On fail: **6d6 fire damage** and ignite (1d6 fire at start of next turn)
+- On success: Half damage, no ignite
 - **Costs 6 Inebriation** points
 
-### Belch of the Deep Still – Toxic Cone  
+### Belch of the Deep Still – Toxic Cone
 
-*Requires Inebriation Level 24+*  
+_Requires Inebriation Level 24+_  
 Replace one of your attacks or use your action to unleash a **15-ft cone** of intoxicating vapor.  
-**Constitution save (DC = 8 + Proficiency + Wisdom mod)**  
+**Constitution save (DC = 8 + Proficiency + Wisdom mod)**
 
-- On fail: **5d6 poison damage**, **Poisoned (1 minute)**, and must use reaction to stumble 10 ft in a random direction  
-- On success: Half damage, no poison  
+- On fail: **5d6 poison damage**, **Poisoned (1 minute)**, and must use reaction to stumble 10 ft in a random direction
+- On success: Half damage, no poison
 - **Costs 6 Inebriation** points

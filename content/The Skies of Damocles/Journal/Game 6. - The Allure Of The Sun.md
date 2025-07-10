@@ -1,94 +1,97 @@
 # 📜 Session 6: The Allure Of The Sun
 
-## 📍 **Location**  
+## 📍 **Location**
 
-- **Borossan Northlands**, near the **Aurican Keep**, overlooking the occupied city of **Dhanas**.  
+- **Borossan Northlands**, near the **Aurican Keep**, overlooking the occupied city of **Dhanas**.
 
-## 🎭 **Assisting Players**  
+## 🎭 **Assisting Players**
 
-- **Ukko of the Storm Fist** - Human Monk Four Elements (Level 3)  
-- **Sigus** - Sunborn (Tortle) Warlock [Hexblade] (Level 3)  
-- **Niccolo** - Human Ranger [Hunter] (Level 3)  
-- **Lystig** - Pieni (Halfling) Artificer [Alchemist] (Level 3)  
+- **Ukko of the Storm Fist** - Human Monk Four Elements (Level 3)
+- **Sigus** - Sunborn (Tortle) Warlock [Hexblade] (Level 3)
+- **Niccolo** - Human Ranger [Hunter] (Level 3)
+- **Lystig** - Pieni (Halfling) Artificer [Alchemist] (Level 3)
 
-## 🏛 **Notable NPCs**  
+## 🏛 **Notable NPCs**
 
-- **Ludriq** - White Raven mercenary, seasoned pit fighter, acting as the party's guide in the mountain approach to the keep.  
-- **The Man in Gold** - The **Brumean commander** who stole Sigus’s tarot cards in Session 2.  
-- **Carranza** - A **Brumean officer**, wields a heavily adorned **great épée**.  
-- **Narvaez** - A **Brumean warrior**, carries an **unusual quiver of metallic arrows**, but no bow.  
-- **Captured Brumean Soldier** - The only surviving prisoner, interrogated by Sigus.  
+- **Ludriq** - White Raven mercenary, seasoned pit fighter, acting as the party's guide in the mountain approach to the keep.
+- **The Man in Gold** - The **Brumean commander** who stole Sigus’s tarot cards in Session 2.
+- **Carranza** - A **Brumean officer**, wields a heavily adorned **great épée**.
+- **Narvaez** - A **Brumean warrior**, carries an **unusual quiver of metallic arrows**, but no bow.
+- **Captured Brumean Soldier** - The only surviving prisoner, interrogated by Sigus.
 
-## ⚔ **Encounters & Combat**  
+## ⚔ **Encounters & Combat**
 
-### **1. Mountain Ambush**  
+### **1. Mountain Ambush**
 
-- **Enemies:** 5 **Brumean riflemen**.  
-- **Outcome:**  
-  - Niccolo was almost **killed**, but **Sigus reluctantly saved him**, despite their prior tension.  
-  - **Three hostages** were taken, but **two refused to talk**—Sigus **brutalized them** until the last one spilled information.  
-  - The survivor revealed **details about the Sunglobe’s location** and the **whereabouts of their commander**.  
+- **Enemies:** 5 **Brumean riflemen**.
+- **Outcome:**
+  - Niccolo was almost **killed**, but **Sigus reluctantly saved him**, despite their prior tension.
+  - **Three hostages** were taken, but **two refused to talk**—Sigus **brutalized them** until the last one spilled information.
+  - The survivor revealed **details about the Sunglobe’s location** and the **whereabouts of their commander**.
 
-### **2. The Cave of the Old Script**  
+### **2. The Cave of the Old Script**
 
-- **Discovery:** The party explored **a cave along the ridge**, revealing:  
-  - **Ancient script** similar to that in **The Golden Path and the Hunt of Päivätär**.  
-  - **Drawings of creatures** resembling the **Golden Claspers**.  
-  - **Unnerving depictions of the sun god** in decay.  
-- **Outcome:**  
-  - The party **failed to fully decipher** the meaning beyond some **baseline facts**—namely that **monsters** are being **born from the fallen god**.  
+- **Discovery:** The party explored **a cave along the ridge**, revealing:
+  - **Ancient script** similar to that in **The Golden Path and the Hunt of Päivätär**.
+  - **Drawings of creatures** resembling the **Golden Claspers**.
+  - **Unnerving depictions of the sun god** in decay.
+- **Outcome:**
+  - The party **failed to fully decipher** the meaning beyond some **baseline facts**—namely that **monsters** are being **born from the fallen god**.
 
-### **3. The Camp and the Shrimp-Humanoid**  
+### **3. The Camp and the Shrimp-Humanoid**
 
-- **Preparation:**  
-  - **Ukko and Niccolo hunted and gathered** supplies (boar meat, berries, firewood).  
-  - **Ukko cooked** for the group.  
-- **Strange Encounter:**  
-  - Niccolo was **awakened by a humanoid, shrimp-like creature**, resembling the **Golden Claspers**.  
-  - The creature **spoke in eerie, broken words**, warning: **"Stay away from the sun."**  
-  - It pointed towards the **keep** before **vanishing into the shadows**.  
-  - **Niccolo did not tell the party.**  
+- **Preparation:**
+  - **Ukko and Niccolo hunted and gathered** supplies (boar meat, berries, firewood).
+  - **Ukko cooked** for the group.
+- **Strange Encounter:**
+  - Niccolo was **awakened by a humanoid, shrimp-like creature**, resembling the **Golden Claspers**.
+  - The creature **spoke in eerie, broken words**, warning: **"Stay away from the sun."**
+  - It pointed towards the **keep** before **vanishing into the shadows**.
+  - **Niccolo did not tell the party.**
 
-### **4. Stealth Assault on the Aurican Keep**  
+### **4. Stealth Assault on the Aurican Keep**
 
-- **Approach:**  
-  - The party **left their horses in a forest** beneath the ridges of the keep.  
-  - They **waited until sunset** to launch their infiltration.  
+- **Approach:**
 
-- **Stealth Actions:**  
-  - **Lystig gave Ukko a potion of Alter Self**, improving his capabilities.  
-  - **Ukko and Niccolo climbed the castle walls** undetected.  
-  - They **silently eliminated** 4 **Brumean guards** and **threw them off the cliff**.  
+  - The party **left their horses in a forest** beneath the ridges of the keep.
+  - They **waited until sunset** to launch their infiltration.
 
-- **Espionage:**  
-  - Niccolo **climbed to the belltower roof** and **overheard a strategy meeting**:  
-    - The **Man in Gold** was discussing an **upcoming invasion plan**.  
-    - The **Brumeans were planning to install a major fleet port in Dhanas**.  
-    - He spoke with **Carranza** (the épée wielder) and **Narvaez** (the quiver wielder).  
+- **Stealth Actions:**
 
-- **Final Actions:**  
-  - **Ukko positioned himself on the middle floor**, waiting in ambush.  
-  - **Niccolo sneaked into the uppermost floor**, tiptoeing along the **belltower shingles**.  
-  - He **began disassembling the massive Sunglobe** as we ended the session.  
+  - **Lystig gave Ukko a potion of Alter Self**, improving his capabilities.
+  - **Ukko and Niccolo climbed the castle walls** undetected.
+  - They **silently eliminated** 4 **Brumean guards** and **threw them off the cliff**.
 
-## 💰 **Loot Acquired**  
+- **Espionage:**
 
-- None yet.  
+  - Niccolo **climbed to the belltower roof** and **overheard a strategy meeting**:
+    - The **Man in Gold** was discussing an **upcoming invasion plan**.
+    - The **Brumeans were planning to install a major fleet port in Dhanas**.
+    - He spoke with **Carranza** (the épée wielder) and **Narvaez** (the quiver wielder).
 
-## 📈 **Total XP Gained**  
+- **Final Actions:**
+  - **Ukko positioned himself on the middle floor**, waiting in ambush.
+  - **Niccolo sneaked into the uppermost floor**, tiptoeing along the **belltower shingles**.
+  - He **began disassembling the massive Sunglobe** as we ended the session.
 
-- **500 XP each**.  
+## 💰 **Loot Acquired**
 
-## 📖 **Session Recap**  
+- None yet.
 
-The party **joined the White Ravens** to **investigate the Aurican Keep**, taking **a mountain route** instead of the main road.  
+## 📈 **Total XP Gained**
 
-They were **ambushed by Brumean riflemen**, nearly **killing Niccolo** before **Sigus reluctantly saved him**. Capturing three survivors, **Sigus brutally tortured two**, forcing the third to reveal **intel on the Sunglobe and their commander**.  
+- **500 XP each**.
 
-Exploring **mountainside caves**, they found **pictographs of Golden Claspers** and **ancient sun god imagery**, but **failed to decipher their full meaning**.  
+## 📖 **Session Recap**
 
-That night, **Niccolo was visited by a humanoid, shrimp-like creature**. It eerily whispered, **“Stay away from the sun,”** pointing toward the keep. **Niccolo told no one.**  
+The party **joined the White Ravens** to **investigate the Aurican Keep**, taking **a mountain route** instead of the main road.
 
-At **sunset**, they **stealthed into the keep**, with **Ukko and Niccolo picking off guards** while **Niccolo climbed to the belltower**, overhearing **the commander, Carranza, and Narvaez discussing an invasion plan**.  
+They were **ambushed by Brumean riflemen**, nearly **killing Niccolo** before **Sigus reluctantly saved him**. Capturing three survivors, **Sigus brutally tortured two**, forcing the third to reveal **intel on the Sunglobe and their commander**.
 
-The session ended as **Niccolo began disassembling the Sunglobe**.  
+Exploring **mountainside caves**, they found **pictographs of Golden Claspers** and **ancient sun god imagery**, but **failed to decipher their full meaning**.
+
+That night, **Niccolo was visited by a humanoid, shrimp-like creature**. It eerily whispered, **“Stay away from the sun,”** pointing toward the keep. **Niccolo told no one.**
+
+At **sunset**, they **stealthed into the keep**, with **Ukko and Niccolo picking off guards** while **Niccolo climbed to the belltower**, overhearing **the commander, Carranza, and Narvaez discussing an invasion plan**.
+
+The session ended as **Niccolo began disassembling the Sunglobe**.

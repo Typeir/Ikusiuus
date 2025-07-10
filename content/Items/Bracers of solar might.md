@@ -1,6 +1,6 @@
-### **Bracers of Solar Might**  
+### **Bracers of Solar Might**
 
-*Wondrous item, rare (requires attunement)*  
+_Wondrous item, rare (requires attunement)_
 
 These bracers are crafted from solidified **Torchtree sap**, a rare and volatile amber-like substance bled from the husks of parasitized **great trees** deep in the Brume. These strange trees sprout blazing leaves every few years, disrupting the natural night and day cycle across the land. The sap, when carefully refined, holds a fraction of that seasonal solar brilliance.
 
@@ -8,9 +8,10 @@ These bracers are crafted from solidified **Torchtree sap**, a rare and volatile
 
 ### **Effects**
 
-- **Solar guidance**  
-  - Every day, **at sunrise**, the bracers regain their power.,  
-  - When you make an **attack roll**, you may **expend their power** to gain a **+10 bonus** to that roll.  
+- **Solar guidance**
+
+  - Every day, **at sunrise**, the bracers regain their power.,
+  - When you make an **attack roll**, you may **expend their power** to gain a **+10 bonus** to that roll.
   - This bonus **stacks** with other effects, but **only one bracer** can be expended per attack.
 
 - **Stackable Infusion**  
@@ -18,6 +19,6 @@ These bracers are crafted from solidified **Torchtree sap**, a rare and volatile
 
 ---
 
-### **Appearance**  
+### **Appearance**
 
 Forged from **translucent gold-orange resin**, the bracers shimmer faintly in darkness. Threads of old vine growth remain trapped within the sap, and **when a charge is expended**, the bracers briefly **pulse like a sunrise**, emitting a faint warmth.

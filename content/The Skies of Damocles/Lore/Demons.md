@@ -2,7 +2,7 @@
 
 ---
 
-## *Common*
+## _Common_
 
 **Demons**, known as **Hiisi** by those of the southern states of Thule, and the citizens of Anthule (users of the old tongues) are erratic beings most often associated with popular songs and folklore, whose existence is not usually given any real credence.
 
@@ -12,7 +12,7 @@ During the yearly harvest festivals in the southern states, dancers will dress u
 
 ---
 
-## *Advanced*
+## _Advanced_
 
 **Demons** are real creatures, they exist among the citizens of each and every culture, most of them benign, farmers whose crops grow unnaturaly fast and of better quality than others, beekepers whose bees behave and never escape their enclosure, lawyers that always seem to get favorable veredicts or rulings...
 
@@ -22,7 +22,7 @@ Some of the **Hiisi** are vicious creatures that only work for ulterior motives,
 
 ---
 
-## *Deep*
+## _Deep_
 
 **Hiisi** are the bastard children of the sun god **Päivätär**, they were discarded after their births and roamed the **Hidden Kingdom**, horrifying it's denizens for eons. After the **Interlocking**, most **Hiisi** chose to stay within the eternally stretching ruins of the shifted landscapes, making them their homes, but some escaped the **Hidden Kingdom**. Those who stayed, eventually grew a sedentary, scholarly culture, and became known as **The Silent Ones**, those who left, simply became **Demons** to the denizens of **Damocles**.
 
@@ -35,7 +35,7 @@ Of the **Hiisi** which escaped the **Hidden Kingdom**, four are most prominent, 
 
 ---
 
-## *Truth*
+## _Truth_
 
 **The Four** were scions of the **Dream Catcher** having heard it's call through the veil. They broke the veil in an attempt to find it and give it back to it's destined owner, **The White Homunculus** of legend, their deeds were as follows:
 

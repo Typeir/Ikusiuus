@@ -2,8 +2,8 @@
 
 ---
 
-## *Common*
-  
+## _Common_
+
 Almost everyone knows of **Päivätär's** old name or **Päimär**, a newer name resulting from the conflation of the sea and sun as a similar entity because of Borossa's adjacency to the sea. **Päimär** is often understood as a female deity due to the belief that they birthed the **Sunborn**. Even with this, a non-insignificant percentage of their followers believe them to be male, and the birth of the **Sunborn** to be a phenomenon of a more spiritual nature.
 
 As a sun god, **Päivätär** is often praised as a creature of law and goodness, associated with concepts such as nurturing the living and punishing evil, heavily implied to be in charge of the hunting and fishing cycles, but not of the harvest ones.
@@ -12,19 +12,19 @@ As a sun god, **Päivätär** is often praised as a creature of law and goodness
 
 ---
 
-## *Advanced*
+## _Advanced_
 
 **Päivätär** was killed or maimed during the initial expansion of the ancient Thulean empire, and is almost surely dead. Their resting place seems to be located somewhere along what is called "the golden path." What exactly this path is eludes scholars. **Päivätär** is most certainly not a god in the true sense of the word, rather a creature of tremendous power with a large worship as a consequence. Its connections to the sun probably stem from its entirely diurnal habits, as there's no source for sightings of it during the night.
 
 ---
 
-## *Deep*
+## _Deep_
 
 **Päivätär** is also known as the "Keeper of Sunlight," "Birthing Sun," and "Sickening Radiance," a creature that escaped the **Hidden Kingdom** during the **Interlocking**. It was responsible for the eternal daylight of the **Hidden Kingdom**. The creature is believed to have been chasing **Kuutar**, the eternal womb. Its scales shed a cursed, sickening light that imprisoned the beasts of black blood which lived among the true beasts of **Damocles**, in a humanlike form, that of the **Sunborn**, after it was slain by the first incursion of the **Empyreans**, and its corpse destroyed a large portion of **Thule** and turned the entire western half of the continent into an uninhabitable wasteland. It also kickstarted the **Scarring** and the **Eternity of the Four**.
 
 ---
 
-## *Truth*
+## _Truth_
 
 **Päivätär** is an intensely evil creature, sibling to **Kuutar** and bastard child to the **"One True Heir"**, also known as **"Truth"** or **"Creation"** by its warlocks, and **"The Dragon"** by ancient Thulean scholars. **Päivätär** could only birth imperfect aberrations that would lay waste to the **Hidden Kingdom**, so it became jealous of **Kuutar**, who birthed all of the **Pieni**.
 

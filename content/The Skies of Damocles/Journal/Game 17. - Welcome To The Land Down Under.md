@@ -1,44 +1,44 @@
-# 📜 Session 17: Welcome To The Land Down Under  
+# 📜 Session 17: Welcome To The Land Down Under
 
-## 📍 **Location**  
+## 📍 **Location**
 
-- **Tripoda**, outskirts of **Caldia**, near the **Tripodan wilderness**.  
+- **Tripoda**, outskirts of **Caldia**, near the **Tripodan wilderness**.
 
-## 🎭 **Assisting Players**  
+## 🎭 **Assisting Players**
 
-- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 5)  
-- **Niccolo** - Human Ranger (Hunter) (Level 5)  
-- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 5)  
-- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 5)  
+- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 5)
+- **Niccolo** - Human Ranger (Hunter) (Level 5)
+- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 5)
+- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 5)
 
-## 🏛 **Notable NPCs**  
+## 🏛 **Notable NPCs**
 
-- **Unidentified Figures** - Two **men discussing a wasp hive**, possibly **trying to mislead travelers**.  
-- **Tripodan Blue Wasps ("Horned Horrors")** - **Massive, aggressive insects** that inhabit the wilderness.  
+- **Unidentified Figures** - Two **men discussing a wasp hive**, possibly **trying to mislead travelers**.
+- **Tripodan Blue Wasps ("Horned Horrors")** - **Massive, aggressive insects** that inhabit the wilderness.
 
-## ⚔ **Encounters & Combat**  
+## ⚔ **Encounters & Combat**
 
-1. **Swarm of Horned Horrors**  
-   - **Enemies:** **A large swarm of Tripodan Blue Wasps**, known for their **deadly stingers and paralyzing venom**.  
-   - **Outcome:**  
-     - **Sigus was knocked unconscious for an entire day.**  
-     - **The party barely managed to survive**, but successfully harvested **7 wasp stingers**.  
-     - **Lystig crafted 7 paralysis arrows** from the harvested venom.  
+1. **Swarm of Horned Horrors**
+   - **Enemies:** **A large swarm of Tripodan Blue Wasps**, known for their **deadly stingers and paralyzing venom**.
+   - **Outcome:**
+     - **Sigus was knocked unconscious for an entire day.**
+     - **The party barely managed to survive**, but successfully harvested **7 wasp stingers**.
+     - **Lystig crafted 7 paralysis arrows** from the harvested venom.
 
-## 💰 **Loot Acquired**  
+## 💰 **Loot Acquired**
 
-- **7 Paralysis Arrows** - **Inflict paralysis upon striking a target**.  
+- **7 Paralysis Arrows** - **Inflict paralysis upon striking a target**.
 
-## 📈 **Total XP Gained**  
+## 📈 **Total XP Gained**
 
-- **XP Awarded:** 1000 XP Each.  
+- **XP Awarded:** 1000 XP Each.
 
-## 📖 **Session Recap**  
+## 📖 **Session Recap**
 
-After returning to **Tripoda**, the party set off into the **dangerous outskirts**, navigating through **towering sunflower-like trees** under Niccolo’s guidance.  
+After returning to **Tripoda**, the party set off into the **dangerous outskirts**, navigating through **towering sunflower-like trees** under Niccolo’s guidance.
 
-During their travels, they encountered an **abandoned mill**, where they overheard **two men discussing a wasp hive blocking the road**. While **Niccolo believed them**, the rest of the party **suspected a ruse**, as signs of a **past magical battle** were present. Rather than risk an **ambush**, the party opted for a **safer route through a waterfall pass**—though **it soon proved to be just as deadly**.  
+During their travels, they encountered an **abandoned mill**, where they overheard **two men discussing a wasp hive blocking the road**. While **Niccolo believed them**, the rest of the party **suspected a ruse**, as signs of a **past magical battle** were present. Rather than risk an **ambush**, the party opted for a **safer route through a waterfall pass**—though **it soon proved to be just as deadly**.
 
-As they made their way through, they were **ambushed by a swarm of Horned Horrors**, **massive Tripodan Blue Wasps** whose **stingers contained a potent paralyzing venom**. The fight was **brutal**, and **Sigus was stung multiple times**, causing him to **collapse into a deep, venom-induced slumber for an entire day**.  
+As they made their way through, they were **ambushed by a swarm of Horned Horrors**, **massive Tripodan Blue Wasps** whose **stingers contained a potent paralyzing venom**. The fight was **brutal**, and **Sigus was stung multiple times**, causing him to **collapse into a deep, venom-induced slumber for an entire day**.
 
-Despite their injuries, the party **managed to harvest 7 stingers**, which **Lystig later used to craft paralysis arrows**. With **Sigus still unconscious**, the group set up camp and prepared to push forward deeper into **Tripoda’s treacherous wilderness**.  
+Despite their injuries, the party **managed to harvest 7 stingers**, which **Lystig later used to craft paralysis arrows**. With **Sigus still unconscious**, the group set up camp and prepared to push forward deeper into **Tripoda’s treacherous wilderness**.

@@ -1,27 +1,28 @@
 # The duties of my lord
 
 ---
+
 The starry skies of the Pyknos rainforest do not feel as homely as they usually do today.
 For the first time in a while, the **Light of Creation** has not been visible for over two nights,
 and the **opaline belt's** shine has obscured the master's astroscope, along with his acquaintances.
 
-*Master Anaximandro* has been away for a while; in his absence, **Aristides** has been taking care of the stead.
+_Master Anaximandro_ has been away for a while; in his absence, **Aristides** has been taking care of the stead.
 But almost half a tenday ago, **Aristides** left without a sign. We believe he must have gone out in the night to fetch
 Master's beacon, so he can safely find his way back now that the preparations are in order. Tomorrow is a special day;
 Master's research has been proven true, and it will be put into action.
-*We knows not of magicks, for that is Anaximandro's realm. Aristides seems to know a fair bit more, but he never shares.*
+_We knows not of magicks, for that is Anaximandro's realm. Aristides seems to know a fair bit more, but he never shares._
 
 Before you go to sleep, you find a letter-contract resting by your bedside; you do not know how it got here, but the writing is pristine.
 Maybe some other servant or worker left it here in preparation for tomorrow.
 
 ---
 
-*To my beloved companions and coworkers*
+_To my beloved companions and coworkers_
 
-*As it stands, we have to manage the day of morrow entirely by ourselves. Tomorrow midnight when master returns, the stead must be
-pristine; he is not cruel, but we would want not to disappoint him.*
+_As it stands, we have to manage the day of morrow entirely by ourselves. Tomorrow midnight when master returns, the stead must be
+pristine; he is not cruel, but we would want not to disappoint him._
 
-*The tasks remaining for the day are the following:*
+_The tasks remaining for the day are the following:_
 
 - **Clean the stables:**
 
@@ -40,7 +41,7 @@ pristine; he is not cruel, but we would want not to disappoint him.*
 - **Prepare dinner:**
 
   A trip to the cellar is granted. Lots of food remaining, but we will have to forage herbs, mushrooms, and the like.
-  *Anaximandro likes chicken of the woods. Reminds him of the cycle of life and death; he finds solace in them.*
+  _Anaximandro likes chicken of the woods. Reminds him of the cycle of life and death; he finds solace in them._
 
 - **Remove the dead crops:**
 
@@ -57,16 +58,16 @@ pristine; he is not cruel, but we would want not to disappoint him.*
   Door frames were damaged all across the property when **Aristides** left; there was a terrible storm that day, and the wind howled as hard
   as the mightiest worg.
 
-*I shall be taking care of urgent business elsewhere, but I expect the stead to be pristine for when master returns.
-If anything goes wrong, please search not for tools in the lower chambers; they are flooded and dangerous. Just fix the door frame and let it be.*
+_I shall be taking care of urgent business elsewhere, but I expect the stead to be pristine for when master returns.
+If anything goes wrong, please search not for tools in the lower chambers; they are flooded and dangerous. Just fix the door frame and let it be._
 
-*Each of these tasks shouldn't take more than two or three hours at most; by Twilight, everything should be done.*
+_Each of these tasks shouldn't take more than two or three hours at most; by Twilight, everything should be done._
 
 **Your signature:**
 
-- *[THE SOLDIER]*
-- *[THE OLD HAND]*
-- *[THE NEW HAND]*
-- *[THE APOTHECARY]*
-- *[THE DOCTOR]*
-- *[THE FARMHAND]*
+- _[THE SOLDIER]_
+- _[THE OLD HAND]_
+- _[THE NEW HAND]_
+- _[THE APOTHECARY]_
+- _[THE DOCTOR]_
+- _[THE FARMHAND]_

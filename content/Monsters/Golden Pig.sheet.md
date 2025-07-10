@@ -1,14 +1,14 @@
 ### **Golden Pig**
 
-*Large Aberration, neutral*
+_Large Aberration, neutral_
 
-| **Armor Class** | **Hit Points** | **Speed** |
-|------------------|----------------|-----------|
-| 16 (natural armor) | 170 (16d8 + 98) | 25 ft. |
+| **Armor Class**    | **Hit Points**  | **Speed** |
+| ------------------ | --------------- | --------- |
+| 16 (natural armor) | 170 (16d8 + 98) | 25 ft.    |
 
-**STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**  
---- | --- | --- | --- | --- | ---  
-16 (+3) | 12 (+1) | 20 (+5) | 1 (-5) | 10 (+0) | 22 (+6)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 12 (+1) | 20 (+5) | 1 (-5)  | 10 (+0) | 22 (+6) |
 
 **Saving Throws**: Dex +5, Con +9, Cha +10  
 **Skills**: Insight +6, Persuasion +10, Deception +10  
@@ -16,7 +16,7 @@
 **Condition Immunities**: Charmed, Poisoned  
 **Senses**: Darkvision 60 ft., passive Perception 12  
 **Languages**: Understands the languages of its nurturer but cannot speak.  
-**Challenge**: 11 (7,200 XP)  
+**Challenge**: 11 (7,200 XP)
 
 **Traits**:
 
@@ -33,7 +33,7 @@ The Golden Pig can take 3 legendary actions, choosing from the options below. On
 
 2. **Mocking Laughter**: The pig emits a mocking laugh. Each creature of its choice within 20 feet must succeed on a DC 18 Wisdom saving throw or take 10 (3d6) psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-3. **Crown of Thorns** (Costs 2 Actions):  *Range: 120 feet, Duration: Concentration, up to 1 minute* One humanoid of the pig's choice that the pig can see within range must succeed on a Wisdom saving throw or become charmed by the pig for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that the pig mentally chose. If there are no creatures, the target takes 8 (2d6) psychic damage and can act normally.
+3. **Crown of Thorns** (Costs 2 Actions): _Range: 120 feet, Duration: Concentration, up to 1 minute_ One humanoid of the pig's choice that the pig can see within range must succeed on a Wisdom saving throw or become charmed by the pig for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that the pig mentally chose. If there are no creatures, the target takes 8 (2d6) psychic damage and can act normally.
 
 4. **Degrading Whispers** (Costs 3 Actions): The pig speaks degrading words that penetrate the mind of a creature. a creature of the pig's choice within 30 feet must make a DC 18 Wisdom saving throw. On a failed save, the creature is stunned and prone until the end of its next turn.
 
@@ -43,12 +43,12 @@ The Golden Pig can take 3 legendary actions, choosing from the options below. On
 
 The Golden Pig is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following spells prepared:
 
-- **Cantrips (at will)**: *Minor Illusion, Vicious Mockery, Infestation, Toll the Dead, Chill Touch*
-- **1st level (4 slots)**: *Arms of Hadar, Charm Person, Silvery Barbs*
-- **2nd level (3 slots)**: *Hold Person, Mirror Image*
-- **3rd level (3 slots)**: *Fear, Counterspell, Hunger of Hadar*
-- **4th level (3 slots)**: *Greater Invisibility, Phantasmal Killer*
-- **5th level (2 slots)**: *Dominate Person, Cloudkill*
+- **Cantrips (at will)**: _Minor Illusion, Vicious Mockery, Infestation, Toll the Dead, Chill Touch_
+- **1st level (4 slots)**: _Arms of Hadar, Charm Person, Silvery Barbs_
+- **2nd level (3 slots)**: _Hold Person, Mirror Image_
+- **3rd level (3 slots)**: _Fear, Counterspell, Hunger of Hadar_
+- **4th level (3 slots)**: _Greater Invisibility, Phantasmal Killer_
+- **5th level (2 slots)**: _Dominate Person, Cloudkill_
 
 ---
 

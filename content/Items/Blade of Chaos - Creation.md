@@ -1,40 +1,43 @@
-### **Blade of Chaos: Creation**  
+### **Blade of Chaos: Creation**
 
-*Longsword +1*  
-*Wondrous item, rare (requires attunement)*  
-*Only usable by Pact of the Blade Warlocks or Hexblade Warlocks*  
-*Versatile*  
+_Longsword +1_  
+_Wondrous item, rare (requires attunement)_  
+_Only usable by Pact of the Blade Warlocks or Hexblade Warlocks_  
+_Versatile_
 
-This blade is forged in the image of the **White Steed of Fear and Creation**, eternally locked in conflict with the **Black Steed of Ambition and Destruction**, each vying for control of the **long-abandoned Golden Chariot of Eternal Motion**.  
+This blade is forged in the image of the **White Steed of Fear and Creation**, eternally locked in conflict with the **Black Steed of Ambition and Destruction**, each vying for control of the **long-abandoned Golden Chariot of Eternal Motion**.
 
-#### **Weapon Mastery:**  
+#### **Weapon Mastery:**
 
-- **Sap** *(Only available if the wielder has mastery with Longswords)*:  
-  After you successfully land an attack on a target, their **next attack roll is made at disadvantage**. This effect lasts **until the end of their next turn**.  
+- **Sap** _(Only available if the wielder has mastery with Longswords)_:  
+  After you successfully land an attack on a target, their **next attack roll is made at disadvantage**. This effect lasts **until the end of their next turn**.
 
-- **Fear Rend** *(1/Short rest, or PB/Short rest if the wielder has mastery with Longswords)*:  
-  You roll your **next attack at advantage**. If you **hit a creature with this attack**, the target must succeed on a **(Spell Save DC + 1) Intelligence saving throw** or become **Frightened** until the end of their next turn.  
-  - While **Frightened**, the target **cannot move closer** to the wielder and has **disadvantage** on attack rolls, saving throws, and skill checks.  
+- **Fear Rend** _(1/Short rest, or PB/Short rest if the wielder has mastery with Longswords)_:  
+  You roll your **next attack at advantage**. If you **hit a creature with this attack**, the target must succeed on a **(Spell Save DC + 1) Intelligence saving throw** or become **Frightened** until the end of their next turn.
+  - While **Frightened**, the target **cannot move closer** to the wielder and has **disadvantage** on attack rolls, saving throws, and skill checks.
 
-#### **Effects:**  
+#### **Effects:**
 
-- **Magical Weapon**:  
-  - This weapon has a **+1 bonus to attack and damage rolls** and is considered **magical for overcoming resistances and immunities**.  
+- **Magical Weapon**:
 
-- **Devastating Critical**:  
-  - This weapon **critically strikes on a roll of 19-20**.  
-  - If a target is **afflicted by Hexblade's Curse**, it also **crits on an 18**.  
-  - When this weapon **critically strikes**, it deals **Force damage** along with an additional **1d12 Force damage**.  
+  - This weapon has a **+1 bonus to attack and damage rolls** and is considered **magical for overcoming resistances and immunities**.
 
-- **Obligate Pact Weapon**:  
-  - This weapon **must be used as the wielder’s pact weapon** or wielded in the main hand by a **Hexblade**.  
+- **Devastating Critical**:
 
-- **Paired Weapon**:  
-  - This weapon **chains itself to another**, making **both count as the wielder’s pact weapon** and gain all the benefits of the feature.  
-  - This weapon **will not gain a +1 modifier** from being used as a pact weapon.  
+  - This weapon **critically strikes on a roll of 19-20**.
+  - If a target is **afflicted by Hexblade's Curse**, it also **crits on an 18**.
+  - When this weapon **critically strikes**, it deals **Force damage** along with an additional **1d12 Force damage**.
 
-#### **Weapon Properties:**  
+- **Obligate Pact Weapon**:
 
-- **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **3 lb.**, **Martial**  
+  - This weapon **must be used as the wielder’s pact weapon** or wielded in the main hand by a **Hexblade**.
+
+- **Paired Weapon**:
+  - This weapon **chains itself to another**, making **both count as the wielder’s pact weapon** and gain all the benefits of the feature.
+  - This weapon **will not gain a +1 modifier** from being used as a pact weapon.
+
+#### **Weapon Properties:**
+
+- **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **3 lb.**, **Martial**
 
 ---

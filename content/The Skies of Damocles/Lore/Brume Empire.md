@@ -1,61 +1,60 @@
-
 # **The Holy Empire of the Brume:**
 
-## *Knowledge tiers*
+## _Knowledge tiers_
 
-### *Common*
+### _Common_
 
-  The **Brume** functions as a theocratic society, but there is no widespread faith beyond the belief that to leave a mark on the land is to taint it, and thus one must conceal their flesh from the world. Their philosophy is often referred to as "The Miracle."
-  
-  The **Brume** is a highly militarized vigilance society, its army only beaten in headcount by that of the **Binturae** of the north. Citizens of the **Brume** wear highly ornamental clothing and rarely expose their skin when outside.
-  
-  In the **Brume**, to bleed or leave a mark of oneself in public spaces is considered a great offense and is often punished with brutal violence. Criminals can choose to work in the mines below the city to avoid being violently punished by the city guards.
-  
-  City Guards are known as **Comanda** or **Teachers**. They hold an oath of silence, and their interventions, though uncommon, rarely end with something other than violence.
-  
-  The city holds uncountable public activities of all kinds, most of them free, although for a pittance of coin one can get a premium spot. There are public banquets held in every church as soon as dawn comes.
-  
-  The **Brume** is a slave state, but it does not trade its slaves.
+The **Brume** functions as a theocratic society, but there is no widespread faith beyond the belief that to leave a mark on the land is to taint it, and thus one must conceal their flesh from the world. Their philosophy is often referred to as "The Miracle."
 
-  The **Brume** established itself as a superpower after it defeated the **Binturean** federation and the "kingdom" of **Cavar** in a herculean war effort known as **The war of the Mists**
+The **Brume** is a highly militarized vigilance society, its army only beaten in headcount by that of the **Binturae** of the north. Citizens of the **Brume** wear highly ornamental clothing and rarely expose their skin when outside.
 
----
+In the **Brume**, to bleed or leave a mark of oneself in public spaces is considered a great offense and is often punished with brutal violence. Criminals can choose to work in the mines below the city to avoid being violently punished by the city guards.
 
-### *Advanced*
+City Guards are known as **Comanda** or **Teachers**. They hold an oath of silence, and their interventions, though uncommon, rarely end with something other than violence.
 
-  The **Brume's** highest title is "**The Benefactor**". Their name is never disclosed, but they usually reach this title very late in their life, and are usually males. The **Benefactor's** personal bodyguard is known as the **High Magii**, usually groups of three or four sorcerer swordsmen, although the position is currently held by just one. Their identity is undisclosed.
+The city holds uncountable public activities of all kinds, most of them free, although for a pittance of coin one can get a premium spot. There are public banquets held in every church as soon as dawn comes.
 
-  The mines under the city are inhabited by the **Bilupines**, self-recreating stone constructs resembling two large mastiffs sharing a single humanoid body. The **Bilupines** are enslaved by the **Brume**, although some managed to escape and settle along the **Brumish** plains of South Eclestia.
+The **Brume** is a slave state, but it does not trade its slaves.
 
-  There are three factions in the political sphere of **The Brume**: the **Despots** or **Traditionalists**, who are conservative in nature; the **Pentients**, a faction of military higher-ups that want to get rid of the **Miracle** beliefs and the **Benefactor** system altogether, transforming the **Brume** into a military republic-empire; and the **Golden Ones**, who believe the **Miracle** to be a deformed version of the **Päivätär** faith, and are the main proponents of the invasion of the southern states. There's also an ambassador to **The Benefactor** that's a part of the **Bilupine**, although not much is disclosed about him.
-
-  The **Cult of Kuutar** is strictly forbidden in the **Brume**, as its bloodletting practices and worship of childbirth are in stark contrast to **The Miracle**. The **Brume** is believed to have been founded by religious pilgrims who lost their faith upon finding such a geological formation and became scholars.
+The **Brume** established itself as a superpower after it defeated the **Binturean** federation and the "kingdom" of **Cavar** in a herculean war effort known as **The war of the Mists**
 
 ---
 
-### *Deep*
+### _Advanced_
 
-  The **Bilupine** ambassador the was given the honorary title of **Lord**, which means that he is considered the sole owner of himself. **Lordship** can only be granted to slaves and is seen as a halfway point between commonership and nobility, where commoners are considered property of the state and in servitude to the state, and nobles are considered not in service to the state but its property.
+The **Brume's** highest title is "**The Benefactor**". Their name is never disclosed, but they usually reach this title very late in their life, and are usually males. The **Benefactor's** personal bodyguard is known as the **High Magii**, usually groups of three or four sorcerer swordsmen, although the position is currently held by just one. Their identity is undisclosed.
 
-  **Lords** are not considered a property of the state, but to attain **Lordship** they must swear fealty to the **Brume**, effectively rendering them special military and political assets. **Lordship** is often referred to as "Second Enslavement," and most of them attempt to flee the city when faced with the choice to become a **Lord**. The **Bilupine** ambassador's name is **Romo**, and he was a leader for the **Bilupine** before being granted **Lordship**.
+The mines under the city are inhabited by the **Bilupines**, self-recreating stone constructs resembling two large mastiffs sharing a single humanoid body. The **Bilupines** are enslaved by the **Brume**, although some managed to escape and settle along the **Brumish** plains of South Eclestia.
 
-  The **Bilupines** do not age, as they are constructs, and the ambassador was the first-ever **Lord**.
-  
-  The current **High Magus** is the sole survivor of a terrorist attack of unknown origin, the other three **Magii** were killed.
+There are three factions in the political sphere of **The Brume**: the **Despots** or **Traditionalists**, who are conservative in nature; the **Pentients**, a faction of military higher-ups that want to get rid of the **Miracle** beliefs and the **Benefactor** system altogether, transforming the **Brume** into a military republic-empire; and the **Golden Ones**, who believe the **Miracle** to be a deformed version of the **Päivätär** faith, and are the main proponents of the invasion of the southern states. There's also an ambassador to **The Benefactor** that's a part of the **Bilupine**, although not much is disclosed about him.
+
+The **Cult of Kuutar** is strictly forbidden in the **Brume**, as its bloodletting practices and worship of childbirth are in stark contrast to **The Miracle**. The **Brume** is believed to have been founded by religious pilgrims who lost their faith upon finding such a geological formation and became scholars.
 
 ---
 
-### *Truth*
+### _Deep_
 
-  The other three **Magii** were killed by **Romo** and the surviving **Magus**, as a ploy to weaken all the factions except the **Penitents**, who, in exchange, would undo the slave status of the **Bilupine** were they to reach governance over the **Empire**. They would not, however, stop the expansionist wars in the north and south of **Thule**.
+The **Bilupine** ambassador the was given the honorary title of **Lord**, which means that he is considered the sole owner of himself. **Lordship** can only be granted to slaves and is seen as a halfway point between commonership and nobility, where commoners are considered property of the state and in servitude to the state, and nobles are considered not in service to the state but its property.
 
-  The surviving **Magus** is **Miekka Hirvi**, daughter of **Hirvi of the Storm Fist**, renowned martial artist from **Anthule**, and sister to **Ukko Hirvi**, militiaman from **Borossa**.
-  
-  The mesa above which the **Sanctuary City** rests was built by the **Bilupine** long before the **Brume** was established, and is not a geological formation. It connects to **Thealas**, but its lower halls are roamed by **The Chase** still.
+**Lords** are not considered a property of the state, but to attain **Lordship** they must swear fealty to the **Brume**, effectively rendering them special military and political assets. **Lordship** is often referred to as "Second Enslavement," and most of them attempt to flee the city when faced with the choice to become a **Lord**. The **Bilupine** ambassador's name is **Romo**, and he was a leader for the **Bilupine** before being granted **Lordship**.
 
-  The city was originally funded over a decamillenial ago by rogues and mercenaries guided by **Gorgias**, third lord of the Dead and ruler of **Taeda**. **Gorgias** conspired with **Xanthous** in an attempt to reach the **world-seed** by forcing the **Empyreans** to use the **Blade of Damocles**. The city was destroyed by the demon **Xanthous** after his plans were thwarted by the Smith warriors of legend. Millenia later, a regretful **Xanthous** re-built the city, creating the faith of **The Miracles** and making sure his rogue state would not fail him this time.
+The **Bilupines** do not age, as they are constructs, and the ambassador was the first-ever **Lord**.
 
-  The **Bilupine** are old mason and warrior constructs from the **Empyrean Empire**, but they were put in a deep slumber after **The Scarring**. The new **Brume** was founded by a group of mercenaries and adventurers trying to get to the **Scar**, which ended up settling on top of the vast **Brume Mesa**, halfway to the **Scar**, and not by pilgrims as it is believed.
+The current **High Magus** is the sole survivor of a terrorist attack of unknown origin, the other three **Magii** were killed.
+
+---
+
+### _Truth_
+
+The other three **Magii** were killed by **Romo** and the surviving **Magus**, as a ploy to weaken all the factions except the **Penitents**, who, in exchange, would undo the slave status of the **Bilupine** were they to reach governance over the **Empire**. They would not, however, stop the expansionist wars in the north and south of **Thule**.
+
+The surviving **Magus** is **Miekka Hirvi**, daughter of **Hirvi of the Storm Fist**, renowned martial artist from **Anthule**, and sister to **Ukko Hirvi**, militiaman from **Borossa**.
+
+The mesa above which the **Sanctuary City** rests was built by the **Bilupine** long before the **Brume** was established, and is not a geological formation. It connects to **Thealas**, but its lower halls are roamed by **The Chase** still.
+
+The city was originally funded over a decamillenial ago by rogues and mercenaries guided by **Gorgias**, third lord of the Dead and ruler of **Taeda**. **Gorgias** conspired with **Xanthous** in an attempt to reach the **world-seed** by forcing the **Empyreans** to use the **Blade of Damocles**. The city was destroyed by the demon **Xanthous** after his plans were thwarted by the Smith warriors of legend. Millenia later, a regretful **Xanthous** re-built the city, creating the faith of **The Miracles** and making sure his rogue state would not fail him this time.
+
+The **Bilupine** are old mason and warrior constructs from the **Empyrean Empire**, but they were put in a deep slumber after **The Scarring**. The new **Brume** was founded by a group of mercenaries and adventurers trying to get to the **Scar**, which ended up settling on top of the vast **Brume Mesa**, halfway to the **Scar**, and not by pilgrims as it is believed.
 
 ---
 
@@ -113,7 +112,7 @@ These factions constantly compete for influence, with shifting alliances and sec
 
 ## **2. The Forgotten History of the Sanctuary City and the Black Halls**
 
-The **Sanctuary City of the Brume**'s  origins are far more complex and steeped in myth than most of its citizens understand. Far from the unified theocratic society it is today, the **Brume** began as a rogue state—a rebellion founded in secret under the influence of an ancient and powerful demon known as **Xanthous**, one of the four prominent **Hiisi** or demons of **Damocles**. The city’s foundation and early development were driven by cosmic forces far beyond human comprehension, with **Xanthous** at the center of it all, conspiring to create a power that would eventually jailbreak him from his **clone-world**.
+The **Sanctuary City of the Brume**'s origins are far more complex and steeped in myth than most of its citizens understand. Far from the unified theocratic society it is today, the **Brume** began as a rogue state—a rebellion founded in secret under the influence of an ancient and powerful demon known as **Xanthous**, one of the four prominent **Hiisi** or demons of **Damocles**. The city’s foundation and early development were driven by cosmic forces far beyond human comprehension, with **Xanthous** at the center of it all, conspiring to create a power that would eventually jailbreak him from his **clone-world**.
 
 ### **2.1 The Hiisi and Xanthous: Demonic Origins of the Brume**
 
@@ -121,7 +120,7 @@ The **Hiisi**—a name given to demons in the southern states of **Thule** and *
 
 In reality, the **Hiisi** are far more than folklore. They are the bastard offspring of the sun god **Päivätär**, creatures of immense power who were cast away within the **Hidden Kingdom** long ago. After the event known as the **Interlocking**, the **Hiisi** split into two factions: those who stayed behind in the twisted ruins of the **Hidden Kingdom**, becoming known as the **Silent Ones**, and those who escaped into the mortal world, becoming the demons that mortals now fear and bargain with.
 
-Among the **Hiisi** that escaped, four were especially prominent: **Nigredo**, **Albedo**,  **Xanthous**, and **Rubedo**. These four demons were scions of the **Dream Catcher**, having heard its call through the veil that separates **Damocles** from the **Hidden Kingdom**. Each of these demons had their own ambitions, and each played a role in shaping the course of human history, particularly in the event's leading to the **Scarring**, and it's aftermath. Of these four, **Xanthous** was the one most responsible for the rise of the **Sacred Brume Empire**.
+Among the **Hiisi** that escaped, four were especially prominent: **Nigredo**, **Albedo**, **Xanthous**, and **Rubedo**. These four demons were scions of the **Dream Catcher**, having heard its call through the veil that separates **Damocles** from the **Hidden Kingdom**. Each of these demons had their own ambitions, and each played a role in shaping the course of human history, particularly in the event's leading to the **Scarring**, and it's aftermath. Of these four, **Xanthous** was the one most responsible for the rise of the **Sacred Brume Empire**.
 
 ### **2.2 Xanthous and the Foundation of the Brume**
 

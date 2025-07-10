@@ -2,29 +2,29 @@
 
 ---
 
-## *Common*
+## _Common_
 
-  **Borossa** is a nation located in the ocean that separates Thule from Anthule, very close to Thulean coasts. It is considered the melting pot of the world and a safe haven for traders and criminals alike. **Borossa** is a highly religious monarchy, but it is very permissive regarding individual rights.
-  
-  Most of **Borossa's** inhabitants are **Sunborn**, granting them many Thulean enemies. **Borossa** praises the sun god **Päivätär**, but there is religious freedom. Most of these suborn are of feline appearence, seeming to hail from the war-torn land of **Cavar**.
-  
-  **Borossa** has its roots in piracy and is very proud of its sailors and pirates, often granting piracy rights to militias. **Borossa** has a weak army and relies mostly on an over-budgeted navy and militias to protect itself.
-  
-  It is governed by King **Boros the tenth** and Queen **Camile of Cavar**, a human woman of about 30 years. **Boros** has two kids, **Boros the eleventh** and **Cedos the first**. **Boros** and **Cedos** are known to be at odds.
+**Borossa** is a nation located in the ocean that separates Thule from Anthule, very close to Thulean coasts. It is considered the melting pot of the world and a safe haven for traders and criminals alike. **Borossa** is a highly religious monarchy, but it is very permissive regarding individual rights.
 
----
+Most of **Borossa's** inhabitants are **Sunborn**, granting them many Thulean enemies. **Borossa** praises the sun god **Päivätär**, but there is religious freedom. Most of these suborn are of feline appearence, seeming to hail from the war-torn land of **Cavar**.
 
-## *Advanced*
+**Borossa** has its roots in piracy and is very proud of its sailors and pirates, often granting piracy rights to militias. **Borossa** has a weak army and relies mostly on an over-budgeted navy and militias to protect itself.
 
-  **Borossa** is mostly controlled by gangs and mafias, most of them playing the part of peacekeepers, and most city guards are not officials but henchmen. **Boros the eleventh** is the son of **Boros the tenth** and his deceased wife, **Joanna**. **Cedos** is an adopted child, hailing from an undisclosed location in the west. **Cedos** is suspected to be the main orchestrator of the **Cedossan Liberation Movement**. **Borossa** is currently engaged in a defensive war against the **Brumish Empire** that's being concealed from the general populace.
-
-  **Borossa** is home to the biggest precursor mine beyond **The Wound**, located in the **Erebian Crags**. **Tripoda**, located in the **Borossan Archipelago**, is home to a family of beasts unique to the region. **Tripoda** has a second family of native beasts, known as **Sun Cats**. They are smart creatures that can use but not make simple tools, and communicate with roars and sounds similar to those of string instruments, produced with their petal-like manes. **Borossa** boasts one of the largest underground systems of **Damocles**; most of it is abandoned and dangerous, but some parts are used as underground boat canals.
-
-  **Camile of Cavar** is a powerful sorceress and is often seen as a bodyguard to the king.
+It is governed by King **Boros the tenth** and Queen **Camile of Cavar**, a human woman of about 30 years. **Boros** has two kids, **Boros the eleventh** and **Cedos the first**. **Boros** and **Cedos** are known to be at odds.
 
 ---
 
-## *Deep*
+## _Advanced_
+
+**Borossa** is mostly controlled by gangs and mafias, most of them playing the part of peacekeepers, and most city guards are not officials but henchmen. **Boros the eleventh** is the son of **Boros the tenth** and his deceased wife, **Joanna**. **Cedos** is an adopted child, hailing from an undisclosed location in the west. **Cedos** is suspected to be the main orchestrator of the **Cedossan Liberation Movement**. **Borossa** is currently engaged in a defensive war against the **Brumish Empire** that's being concealed from the general populace.
+
+**Borossa** is home to the biggest precursor mine beyond **The Wound**, located in the **Erebian Crags**. **Tripoda**, located in the **Borossan Archipelago**, is home to a family of beasts unique to the region. **Tripoda** has a second family of native beasts, known as **Sun Cats**. They are smart creatures that can use but not make simple tools, and communicate with roars and sounds similar to those of string instruments, produced with their petal-like manes. **Borossa** boasts one of the largest underground systems of **Damocles**; most of it is abandoned and dangerous, but some parts are used as underground boat canals.
+
+**Camile of Cavar** is a powerful sorceress and is often seen as a bodyguard to the king.
+
+---
+
+## _Deep_
 
 **Amon Grimalkin** is the true father of **Cedos the first**. **Joanna** was a member of the **Grimalkin** family. **Galán**, the mafia kingpin from the **Courier Guild**, holds immense political power and is in charge of most higher-ups, with the king being relegated to a symbolic position.
 
@@ -38,7 +38,7 @@ The **Society of Hidden Knowledge**, an informal group of researchers and wizard
 
 ---
 
-## *Truth*
+## _Truth_
 
 **Borossa** was originally built by escapees from the belows, through a series of tunnels and crevices that connected to the **Grand City of Thealas**. The tunnels that connect it to the **Grand City** still exist but are roamed by **The Chase** and are thus extremely dangerous. **Borossa** was mostly comprised of tunnels and hidden settler architecture back then.
 

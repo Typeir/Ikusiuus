@@ -10,7 +10,7 @@
 
   - The pools are shallow, but each room varies slightly in depth and width, giving a disorienting feeling as if each step might plunge them into deeper waters. Occasionally, they glimpse **white fractal growths** extending from the walls and into the pools, creating a web of algae-like tendrils that float just below the surface.
 
-  - When investigators peer into the pools, they must succeed in a **Sanity roll** (2/2d6 loss) as they see distorted reflections of themselves that appear to have additional limbs, elongated faces, or eyes with multiple pupils. 
+  - When investigators peer into the pools, they must succeed in a **Sanity roll** (2/2d6 loss) as they see distorted reflections of themselves that appear to have additional limbs, elongated faces, or eyes with multiple pupils.
 
 - ### c
 

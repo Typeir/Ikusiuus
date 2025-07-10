@@ -1,13 +1,13 @@
-# **Gourd of the Eternal Drunkard**  
+# **Gourd of the Eternal Drunkard**
 
-*Wondrous item, rare (requires attunement by a Monk with the Drunken Master subclass)*  
+_Wondrous item, rare (requires attunement by a Monk with the Drunken Master subclass)_
 
 A lacquered gourd carved with laughing oni and inscribed with the proverb:  
 **“Truth lies at the bottom of this cup.”**
 
 This artifact was created by a rogue **Pieni** gnome named **Barley Gutpuddle**, a fermentation theorist from the **Hidden Kingdom** exiled for attempting to distill spiritual purity into liquid form. Barley, naturally unbothered by shame, found an unclaimed floating island in the skies above **Ikuisuus** and transformed it into a brewery by flooding it with a concoction of substances so vile no mortal should hear them spoken of.
 
-The result was **a floating lake of alcohol**, potent enough to kill a demigod—or inspire one. To contain his creation, Barley bound the entire island to a transdimensional urn carved from a forgotten tree and lacquered with black resin harvested from sleeping Silent Ones. That urn is the **Gourd of the Eternal Drunkard**, now a siphon for the greatest brew to ever exist, which Barley modestly called *“The Truth.”*
+The result was **a floating lake of alcohol**, potent enough to kill a demigod—or inspire one. To contain his creation, Barley bound the entire island to a transdimensional urn carved from a forgotten tree and lacquered with black resin harvested from sleeping Silent Ones. That urn is the **Gourd of the Eternal Drunkard**, now a siphon for the greatest brew to ever exist, which Barley modestly called _“The Truth.”_
 
 The gourd smells like fire, regret, and enlightenment.
 
@@ -16,7 +16,7 @@ The gourd smells like fire, regret, and enlightenment.
 ## **Effects:**
 
 - **Bonus Action – Drink Deep:**  
-  As a bonus action, a creature can take a drink from the gourd. If the drinker is attuned and a **Drunken Master Monk**, they gain **1 level of Inebriation** (see *Scroll of the Inebriated Warrior*).  
+  As a bonus action, a creature can take a drink from the gourd. If the drinker is attuned and a **Drunken Master Monk**, they gain **1 level of Inebriation** (see _Scroll of the Inebriated Warrior_).
 
 - **Poisonous to Others:**  
   If a creature not attuned or not a Drunken Master drinks from the gourd, they must succeed a **DC 16 Constitution saving throw** or become **Poisoned for 1 hour**, and suffer **1 level of Exhaustion** on a failed save. On a success, they are still **Poisoned for 10 minutes**.

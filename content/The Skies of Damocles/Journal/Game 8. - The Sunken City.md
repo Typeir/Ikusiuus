@@ -1,79 +1,91 @@
-# 📜 **Session 8: The Sunken City**  
+# 📜 **Session 8: The Sunken City**
 
-## 📍 **Location**  
-- **The Aquifer Beneath Aurican Keep**, a collapsed subterranean cavern system, partially flooded and illuminated only by faint starlight filtering through the ruined ceiling.  
+## 📍 **Location**
 
-## 🎭 **Assisting Players**  
-- **Ukko of the Storm Fist** - Human **Monk (Way of the Four Elements)** (Level 4)  
-- **Sigus** - Sunborn (Tortle) **Warlock (Hexblade) 3 / Bard 1**  
-- **Niccolo** - Human **Ranger (Monster Slayer)** (Level 4)  
-- **Lystig** - Pieni (Halfling) **Artificer (Alchemist)** (Level 4)  
+- **The Aquifer Beneath Aurican Keep**, a collapsed subterranean cavern system, partially flooded and illuminated only by faint starlight filtering through the ruined ceiling.
 
-## 🏛 **Notable NPCs**  
-- **The Golden Rider** - Heavily wounded, later encased in a **chrysalis of golden-white enamel** by the Claspers.  
-- **Ludriq** - Remained at the surface, later reunited with the party.  
+## 🎭 **Assisting Players**
 
-## ⚔ **Encounters & Combat**  
+- **Ukko of the Storm Fist** - Human **Monk (Way of the Four Elements)** (Level 4)
+- **Sigus** - Sunborn (Tortle) **Warlock (Hexblade) 3 / Bard 1**
+- **Niccolo** - Human **Ranger (Monster Slayer)** (Level 4)
+- **Lystig** - Pieni (Halfling) **Artificer (Alchemist)** (Level 4)
 
-### **1. Looting the Sunken Keep**  
-- The party **escaped the freezing waters** of the aquifer and began **searching for useful supplies** from the corpses scattered among the ruins.  
-- **Notable loot:**  
-  - **Carranza’s Great Épée** – A magical weapon taken by Niccolo.  
-  - **Narvaez’s Mighty Quiver** – A linked magical quiver, taken by Sigus.  
-- **Strange effect:**  
-  - When the weapons were near each other (within **30 feet**), they were **weightless**.  
-  - When separated, they became **unbearably heavy**.  
+## 🏛 **Notable NPCs**
 
-### **2. Clasper Burial Grounds**  
-- The party discovered a **large chamber filled with dessicated Clasper corpses**, arranged in **ceremonial fashion**.  
-- **Signs of ritual sacrifice:**  
-  - **Human remains were found inside the husks**, all **missing their limbs**.  
-  - The Claspers appeared **less deformed** than the ones encountered on the battlefield.  
-  - Possible implications: **A ritual either to create Claspers from humans, or a form of burial practice.**  
+- **The Golden Rider** - Heavily wounded, later encased in a **chrysalis of golden-white enamel** by the Claspers.
+- **Ludriq** - Remained at the surface, later reunited with the party.
 
-### **3. Pieni Ruins**  
-- Lystig **discovered remnants of an ancient structure**, buried beneath the aquifer.  
-- **Signs of civilization:**  
-  - Worn-down **Pieni script** covering the walls.  
-  - **Drawings of monstrous creatures**, some resembling **Golden Claspers**.  
-  - **Depictions of a sun-like figure**, with **limbs extending into the earth**.  
-- Fearing danger, **Lystig did not inform the party** and left the ruins undisturbed.  
+## ⚔ **Encounters & Combat**
 
-### **4. The Stone Louse Clasper**  
-- The party followed a faint current of air through a **dark, narrow tunnel**, leading out of the cave.  
-- **Ambush:** A **Stone Louse Clasper** (a **burrowing, heavily armored variant**) attacked, tunneling through the walls.  
-- **Combat Highlights:**  
-  - **Lystig fled into the darkness**, using **muzzle flashes** to navigate.  
-  - **Niccolo and Sigus were both knocked unconscious.**  
-  - **Ukko singlehandedly defeated the beast** and stabilized the others.  
+### **1. Looting the Sunken Keep**
 
-### **5. The Ocean-Side Alcove**  
-- After **escaping the tunnels**, the party emerged **high above the ocean**, overlooking the **coast of Dhanas**.  
-- **Witnessed a horrifying transformation:**  
-  - Below, **Brumean soldiers surrounded the wounded Golden Rider**.  
-  - **Golden Claspers** swarmed him, **secreting a white-gold enamel**, forming a **shell-like chrysalis** around him.  
-  - The cocoon **pulsated grotesquely**, as if **something was being born inside**.  
-- **Ukko recognized the Rider’s fighting style**, **similar to his father’s**, leading to suspicions that the Rider **knew him personally**.  
+- The party **escaped the freezing waters** of the aquifer and began **searching for useful supplies** from the corpses scattered among the ruins.
+- **Notable loot:**
+  - **Carranza’s Great Épée** – A magical weapon taken by Niccolo.
+  - **Narvaez’s Mighty Quiver** – A linked magical quiver, taken by Sigus.
+- **Strange effect:**
+  - When the weapons were near each other (within **30 feet**), they were **weightless**.
+  - When separated, they became **unbearably heavy**.
 
-### **6. The Rider’s Resurrection**  
-- Hours later, a **Brumean skirmish ship arrived**, soldiers cutting open the **Chrysalis**.  
-- **A twisted figure emerged** – the Rider, **horribly altered**, barely able to walk.  
-- **He was taken aboard the ship**, alongside the **remaining Brumean mercenaries**.  
-- The **Brumean forces retreated**, suffering **their first major defeat**.  
-- Lystig had a dream of a **magical compressor** that would greatlky improve his handgun 
+### **2. Clasper Burial Grounds**
 
-## 💰 **Loot Acquired**  
-- **Carranza’s Great Épée** (Taken by Niccolo)  
-- **Narvaez’s Mighty Quiver** (Taken by Sigus)  
+- The party discovered a **large chamber filled with dessicated Clasper corpses**, arranged in **ceremonial fashion**.
+- **Signs of ritual sacrifice:**
+  - **Human remains were found inside the husks**, all **missing their limbs**.
+  - The Claspers appeared **less deformed** than the ones encountered on the battlefield.
+  - Possible implications: **A ritual either to create Claspers from humans, or a form of burial practice.**
 
-## 📈 **Total XP Gained**  
-- **1,200 XP per player**  
+### **3. Pieni Ruins**
 
-## 📖 **Session Recap**  
-- The **party survived the collapse of Aurican Keep**, escaping from the **freezing aquifer below**.  
-- **Discovered the remains of an ancient Clasper burial site**, suggesting **ritualistic transformation or offerings**.  
-- **Lystig uncovered Pieni ruins**, but **chose not to share his findings**.  
-- **Fought and barely survived an ambush** by a **Stone Louse Clasper**.  
-- **Watched as the Brumean commander was encased in a Clasper cocoon**, only to be reborn as **something monstrous**.  
-- **Brumean forces retreated**, marking **a major victory** for Borossa.  
-- **Party reunited with Ludriq**, preparing to report back to the **Borossan military recruitment service**.  
+- Lystig **discovered remnants of an ancient structure**, buried beneath the aquifer.
+- **Signs of civilization:**
+  - Worn-down **Pieni script** covering the walls.
+  - **Drawings of monstrous creatures**, some resembling **Golden Claspers**.
+  - **Depictions of a sun-like figure**, with **limbs extending into the earth**.
+- Fearing danger, **Lystig did not inform the party** and left the ruins undisturbed.
+
+### **4. The Stone Louse Clasper**
+
+- The party followed a faint current of air through a **dark, narrow tunnel**, leading out of the cave.
+- **Ambush:** A **Stone Louse Clasper** (a **burrowing, heavily armored variant**) attacked, tunneling through the walls.
+- **Combat Highlights:**
+  - **Lystig fled into the darkness**, using **muzzle flashes** to navigate.
+  - **Niccolo and Sigus were both knocked unconscious.**
+  - **Ukko singlehandedly defeated the beast** and stabilized the others.
+
+### **5. The Ocean-Side Alcove**
+
+- After **escaping the tunnels**, the party emerged **high above the ocean**, overlooking the **coast of Dhanas**.
+- **Witnessed a horrifying transformation:**
+  - Below, **Brumean soldiers surrounded the wounded Golden Rider**.
+  - **Golden Claspers** swarmed him, **secreting a white-gold enamel**, forming a **shell-like chrysalis** around him.
+  - The cocoon **pulsated grotesquely**, as if **something was being born inside**.
+- **Ukko recognized the Rider’s fighting style**, **similar to his father’s**, leading to suspicions that the Rider **knew him personally**.
+
+### **6. The Rider’s Resurrection**
+
+- Hours later, a **Brumean skirmish ship arrived**, soldiers cutting open the **Chrysalis**.
+- **A twisted figure emerged** – the Rider, **horribly altered**, barely able to walk.
+- **He was taken aboard the ship**, alongside the **remaining Brumean mercenaries**.
+- The **Brumean forces retreated**, suffering **their first major defeat**.
+- Lystig had a dream of a **magical compressor** that would greatlky improve his handgun
+
+## 💰 **Loot Acquired**
+
+- **Carranza’s Great Épée** (Taken by Niccolo)
+- **Narvaez’s Mighty Quiver** (Taken by Sigus)
+
+## 📈 **Total XP Gained**
+
+- **1,200 XP per player**
+
+## 📖 **Session Recap**
+
+- The **party survived the collapse of Aurican Keep**, escaping from the **freezing aquifer below**.
+- **Discovered the remains of an ancient Clasper burial site**, suggesting **ritualistic transformation or offerings**.
+- **Lystig uncovered Pieni ruins**, but **chose not to share his findings**.
+- **Fought and barely survived an ambush** by a **Stone Louse Clasper**.
+- **Watched as the Brumean commander was encased in a Clasper cocoon**, only to be reborn as **something monstrous**.
+- **Brumean forces retreated**, marking **a major victory** for Borossa.
+- **Party reunited with Ludriq**, preparing to report back to the **Borossan military recruitment service**.

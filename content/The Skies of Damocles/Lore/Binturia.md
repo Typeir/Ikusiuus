@@ -1,6 +1,6 @@
 # **Binturia**
 
-## *Common*
+## _Common_
 
 **Binturia** is a northern secular nation characterized by its militaristic ethos and the unique cultural identity of its inhabitants, the **Sunborn**. This federation comprises several states that have come together under a loose alliance, primarily for mutual defense and shared economic interests.
 
@@ -10,7 +10,7 @@ In everyday life, Binturians participate in communal activities that celebrate t
 
 ---
 
-## *Advanced*
+## _Advanced_
 
 At the helm of **Binturia** is the **High Comairle**, a governing body comprised of the most esteemed military leaders from each of the member states. This council operates under a framework that allows for shared governance, but ultimately, the northen toll-town of **Gemraedgh** with it's recently acquired veto power is the de-facto ruler of **Binturia**.
 
@@ -18,7 +18,7 @@ At the helm of **Binturia** is the **High Comairle**, a governing body comprised
 
 ---
 
-## *Deep*
+## _Deep_
 
 Unlike the **Borossan Kingdom**, where **Sunborn** are seen as equal to humans, Binturians perceive them as somewhat superior, viewing their unique traits and powers as evidence of their elevated status.
 
@@ -28,7 +28,7 @@ During their occupation of **The Moon's gambit**, the **Binturian Federation** r
 
 ---
 
-## *Truth*
+## _Truth_
 
 **Aislinget Lirinargh** of **Gemraedgh**, de-facto ruler of **Binturia**, along with other Binturian **state-province** rulers such as, **Cillianet Chaoim** of **Faolett**, or **Sorchargh Chaoim** of **Byrnen**, have communed with the **Blood Queen**, now simply known as **Mother moon**, and have supplied her with resources and information regarding the **Golden Path**, in exchange of perfecting their new **Moon-touched** systems and providing them with a steady supply of **Bloodletters** and **Lunar Kystepods** to use in their upcoming war efforts against the **Brume**.
 

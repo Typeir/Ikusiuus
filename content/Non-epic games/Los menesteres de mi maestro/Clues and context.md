@@ -1,4 +1,3 @@
-
 # Clues
 
 ---
@@ -48,7 +47,7 @@
 
 - ### a
 
-  - A **brutalized horse,** stomped with hooves, is found here. *Sanity loss.* There is a huge hole in the wall sewn with black silk. A **Hard Spot Hidden roll** reveals the full extent of the damage.
+  - A **brutalized horse,** stomped with hooves, is found here. _Sanity loss._ There is a huge hole in the wall sewn with black silk. A **Hard Spot Hidden roll** reveals the full extent of the damage.
   - The sight of the **horse** results in a 2/2d10 sanity loss. A **Hard Natural World roll** allows for an **Occult roll**; **Hard Natural World** reveals the wounds are of unknown origin, and **Occult** confirms that they are not natural but offers no further explanation.
 
 ---
@@ -65,12 +64,12 @@
 
   - After 6 PM, **Nigredo** will grow tired of waiting for **Anaximandro** to return and will bust the door open. He will not directly harm any of the investigators and will try to hide from them if he hasn't been found yet. If found, he will talk with the investigators and provoke them to attack him first, but he will warn them that the only way he can hurt them directly is if they try to hurt him first.
   - **Nigredo** cannot lie, but he can choose not to reply. He will block the entrance to the room.
-  - *A combat with Nigredo is certain death.*
+  - _A combat with Nigredo is certain death._
 
 - ### c
 
   - If the investigators manage to get inside before **Nigredo** opens the door or get through him, he will either stalk or pester them while they wade through the laboratory.
-  - *Merely being in the laboratory is as harmful as being in the tunnels from the farmland.* The same effects apply here.
+  - _Merely being in the laboratory is as harmful as being in the tunnels from the farmland._ The same effects apply here.
   - There are a lot of **whitelight shards** floating about near every desk. **Nigredo** does not go near them, nor does he approach the investigators holding whitelight torches or the halberd.
 
 - ### d
@@ -81,7 +80,7 @@
 
 - ### e
 
-  - **Aristides's corpse** can be found here too. **Nigredo** will puppet it around if the players have been overly hostile to him. *1/1d10 sanity loss or 4/4d6 loss if it's being puppeted.*
+  - **Aristides's corpse** can be found here too. **Nigredo** will puppet it around if the players have been overly hostile to him. _1/1d10 sanity loss or 4/4d6 loss if it's being puppeted._
   - Additionally, if **Nigredo** is pressured to stop, a combat encounter against **Aristides** will occur. He will use the ghoul stats.
 
 - ### f

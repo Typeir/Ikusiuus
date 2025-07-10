@@ -1,45 +1,45 @@
-# 📜 Session 15: A Trip to Tripoda  
+# 📜 Session 15: A Trip to Tripoda
 
-## 📍 **Location**  
+## 📍 **Location**
 
-- **Caldia**, the capital of **Tripoda**, a Borossan province northwest of Borossa.  
-- **White Ravens' Encampment**, located near **Caldia's coast**.  
+- **Caldia**, the capital of **Tripoda**, a Borossan province northwest of Borossa.
+- **White Ravens' Encampment**, located near **Caldia's coast**.
 
-## 🎭 **Assisting Players**  
+## 🎭 **Assisting Players**
 
-- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 5)  
-- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 5)  
-- **Niccolo** - Human Ranger (Hunter) (Level 5)  
-- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 5)  
+- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 5)
+- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 5)
+- **Niccolo** - Human Ranger (Hunter) (Level 5)
+- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 5)
 
-## 🏛 **Notable NPCs**  
+## 🏛 **Notable NPCs**
 
-- **White Ravens** - The mercenary group the party has allied with.  
-- **Annabelle** - Leader of the **White Ravens**, overseeing war preparations.  
+- **White Ravens** - The mercenary group the party has allied with.
+- **Annabelle** - Leader of the **White Ravens**, overseeing war preparations.
 
-## ⚔ **Encounters & Combat**  
+## ⚔ **Encounters & Combat**
 
-- No combat occurred during this session.  
+- No combat occurred during this session.
 
-## 💰 **Loot Acquired**  
+## 💰 **Loot Acquired**
 
-- **Niccolo’s Magical Amulet** - A **gift from his father**, granting the ability to **take on the appearance of another person**, though its full nature remains unknown.  
-- **Alchemy Jug** - A versatile **alchemical tool**, acquired by Niccolo during his absence.  
+- **Niccolo’s Magical Amulet** - A **gift from his father**, granting the ability to **take on the appearance of another person**, though its full nature remains unknown.
+- **Alchemy Jug** - A versatile **alchemical tool**, acquired by Niccolo during his absence.
 
-## 📈 **Total XP Gained**  
+## 📈 **Total XP Gained**
 
-- **XP Awarded:** 500 XP Each.  
+- **XP Awarded:** 500 XP Each.
 
-## 📖 **Session Recap**  
+## 📖 **Session Recap**
 
-The party traveled to **Tripoda**, reaching the capital **Caldia**, where they reconnected with **Niccolo**, who had acquired new magical items during his absence. They then visited the **White Ravens' encampment**, situated near the **Tripodan coast**, to inform them that they would be taking the full **six-month preparation period** to pursue personal matters. **Annabelle and the Ravens agreed**, allowing them to operate independently while the **Borossan forces** continued their preparations for war.  
+The party traveled to **Tripoda**, reaching the capital **Caldia**, where they reconnected with **Niccolo**, who had acquired new magical items during his absence. They then visited the **White Ravens' encampment**, situated near the **Tripodan coast**, to inform them that they would be taking the full **six-month preparation period** to pursue personal matters. **Annabelle and the Ravens agreed**, allowing them to operate independently while the **Borossan forces** continued their preparations for war.
 
-While in Caldia, **Sigus received an invitation** from **Camille of Cavar**, asking him to visit **Verbrune**, the **volcanic mountain at the heart of Tripoda**. The message suggested that the **Society of Hidden Knowledge**, a group of scholars and wizards, sought to **conduct "benign experiments" on him** to further understand his connection to his master.  
+While in Caldia, **Sigus received an invitation** from **Camille of Cavar**, asking him to visit **Verbrune**, the **volcanic mountain at the heart of Tripoda**. The message suggested that the **Society of Hidden Knowledge**, a group of scholars and wizards, sought to **conduct "benign experiments" on him** to further understand his connection to his master.
 
-Meanwhile, Lystig **reflected on the strange engine he had discovered in Borossa’s National Museum**, which bore **his own artificer signature** despite his amnesia. He noted that it had been **recovered from the coast of Horngrove, near the Cerulean Forests**, raising more questions about his past.  
+Meanwhile, Lystig **reflected on the strange engine he had discovered in Borossa’s National Museum**, which bore **his own artificer signature** despite his amnesia. He noted that it had been **recovered from the coast of Horngrove, near the Cerulean Forests**, raising more questions about his past.
 
-As the party prepared for their next steps, they realized they would need a **ship** to reach **Sigus’s master**. Among their options was a **Brumean signora offering passage**, but they ultimately **decided against it** and instead **stole a ship** that had made an emergency landing. Thanks to **Ukko’s sailing experience**, they successfully commandeered the vessel.  
+As the party prepared for their next steps, they realized they would need a **ship** to reach **Sigus’s master**. Among their options was a **Brumean signora offering passage**, but they ultimately **decided against it** and instead **stole a ship** that had made an emergency landing. Thanks to **Ukko’s sailing experience**, they successfully commandeered the vessel.
 
-As they **sailed toward Anthule**, Sigus noted something odd—**the ocean seemed unnaturally calm**, with **waves dying before reaching the ship**, as if **guided by unseen forces**.  
+As they **sailed toward Anthule**, Sigus noted something odd—**the ocean seemed unnaturally calm**, with **waves dying before reaching the ship**, as if **guided by unseen forces**.
 
-The session ended as the party ventured deeper into open waters, bound for their next destination.  
+The session ended as the party ventured deeper into open waters, bound for their next destination.

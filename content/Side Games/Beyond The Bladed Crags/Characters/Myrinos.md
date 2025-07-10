@@ -1,6 +1,6 @@
-## Myrinos, the Cloud-Eyed  
+## Myrinos, the Cloud-Eyed
 
-*Empyrean Elder • Bearer of Memory • Witness of the True World*
+_Empyrean Elder • Bearer of Memory • Witness of the True World_
 
 > “This is not the world. This is the dream of its apology. This world speaks with borrowed teeth, the real world is screaming in agony.”
 
@@ -36,9 +36,10 @@ He has seen it only once, and only from far away—**a machine so vast, so layer
 He does not know what it does.  
 He only knows it is **both gate and key** to the **True World**.
 
-- “It does not turn for us.  
-- We are dust in its joints, dreams caught in its machinery.  
+- “It does not turn for us.
+- We are dust in its joints, dreams caught in its machinery.
 - But if it notices you—just once—you might become part of its purpose.”
+
 ---
 
 ### How He Speaks
@@ -46,13 +47,13 @@ He only knows it is **both gate and key** to the **True World**.
 Myrinos is slow, deliberate. He pauses in the middle of sentences, not from confusion, but because **he’s listening**—to things no one else can hear.  
 He often refers to people by the **role he sees them playing**, not their name.
 
-- “You carry a decision in your mouth.”  
-- “You are a locked gate, but the wrong key is inside you.”  
+- “You carry a decision in your mouth.”
+- “You are a locked gate, but the wrong key is inside you.”
 - “She walks like the Canvas is trying to remember her.”
 
-He gives directions in metaphors:  
+He gives directions in metaphors:
 
-- “To reach Ordovica, you walk until time forgets your name.”  
+- “To reach Ordovica, you walk until time forgets your name.”
 - “Go down, until you are no longer sure what was up.”
 
 ---
@@ -69,8 +70,8 @@ He does not push them to follow. He simply walks **in the direction of the truth
 
 ### Mechanics and Impact
 
-- **Zero combat value.** He will die if caught in a fight.  
-- **Unshakable resolve.** Can walk through fear, illusion, and despair with clarity.  
+- **Zero combat value.** He will die if caught in a fight.
+- **Unshakable resolve.** Can walk through fear, illusion, and despair with clarity.
 - **Knows forgotten passages**, particularly those leading deep into wound-tunnels, dead cities, or hidden access points.
 
 ---

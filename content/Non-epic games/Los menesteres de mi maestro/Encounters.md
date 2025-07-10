@@ -6,16 +6,16 @@ The following encounters occur every three hours as the Investigators explore th
 
 #### **Encounter Table**
 
-| **Roll** | **Encounter** |
-|----------|---------------|
+| **Roll** | **Encounter**                                                                                                                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1        | **Travelling Merchant**: A travelling merchant with a curious moon-shaped mask shows up. He offers a **white light torch** and a **sword with a crescent moon hilt** in exchange for shelter. If he is offered food, and the food is blighted, he will reappear as a **ghoul** in the final encounter. |
-| 2        | **Blighted Mandrake**: A lone blighted mandrake attacks the Investigator closest to the secondary pantry. This creature has a hanging fruit. The fruit heals blight if consumed, but it drains 4/3d6 Sanity. |
-| 3-5      | **Rainstorm**: A rainstorm starts. Outdoor terrain becomes slippery, requiring successful **DEX** rolls to sprint through safely. Sounds become muffled from room to room, heightening tension and confusion. |
-| 6        | **Pack of Deer**: A pack of deer gets into the property, trampling crops and breaking objects. The Investigators spend 2d4 15-minute intervals clearing the mess up. |
-| 7        | **Falling Tree**: The centerpiece tree collapses onto the barracks. Any Investigator inside must succeed on a **Hard DEX roll** or take 3d6 damage from the falling debris. |
-| 8        | **Bandits**: A group of 3 bandits shows up, demanding entry and all the goods and valuables inside. If led into **Nigredo's** lair, they will sign a contract with him and become blighted. They will reappear as enemies in a subsequent encounter. |
-| 9        | **Gnome**: A gnome slips through the rift. If the door is not open, it will hide until it is, waiting for the right moment to cause mischief or reveal itself. |
-| 10       | **Massive Landshark**: A **massive landshark** suddenly burrows up from the ground into the property, creating chaos and terror. The landshark is a territorial herbivore. It has the following features: |
+| 2        | **Blighted Mandrake**: A lone blighted mandrake attacks the Investigator closest to the secondary pantry. This creature has a hanging fruit. The fruit heals blight if consumed, but it drains 4/3d6 Sanity.                                                                                           |
+| 3-5      | **Rainstorm**: A rainstorm starts. Outdoor terrain becomes slippery, requiring successful **DEX** rolls to sprint through safely. Sounds become muffled from room to room, heightening tension and confusion.                                                                                          |
+| 6        | **Pack of Deer**: A pack of deer gets into the property, trampling crops and breaking objects. The Investigators spend 2d4 15-minute intervals clearing the mess up.                                                                                                                                   |
+| 7        | **Falling Tree**: The centerpiece tree collapses onto the barracks. Any Investigator inside must succeed on a **Hard DEX roll** or take 3d6 damage from the falling debris.                                                                                                                            |
+| 8        | **Bandits**: A group of 3 bandits shows up, demanding entry and all the goods and valuables inside. If led into **Nigredo's** lair, they will sign a contract with him and become blighted. They will reappear as enemies in a subsequent encounter.                                                   |
+| 9        | **Gnome**: A gnome slips through the rift. If the door is not open, it will hide until it is, waiting for the right moment to cause mischief or reveal itself.                                                                                                                                         |
+| 10       | **Massive Landshark**: A **massive landshark** suddenly burrows up from the ground into the property, creating chaos and terror. The landshark is a territorial herbivore. It has the following features:                                                                                              |
 
 ---
 
@@ -23,17 +23,17 @@ The following encounters occur every three hours as the Investigators explore th
 
 - Huge Monstrosity, Unaligned
 
-| **Hit Points** | **Movement** | **Armor** |
-|----------------|--------------|-----------|
+| **Hit Points** | **Movement** | **Armor**  |
+| -------------- | ------------ | ---------- |
 | 38 (1d6+20)    | 8            | Thick Hide |
 
-| **Skill**          | **Value**  |
-|--------------------|------------|
-| **Brawl**          | 50%        |
-| **Burrow**         | 30%        |
-| **Tremorsense**    | 40%        |
-| **Spot Hidden**    | 40%        |
-| **Stealth (underground)** | 30%  |
+| **Skill**                 | **Value** |
+| ------------------------- | --------- |
+| **Brawl**                 | 50%       |
+| **Burrow**                | 30%       |
+| **Tremorsense**           | 40%       |
+| **Spot Hidden**           | 40%       |
+| **Stealth (underground)** | 30%       |
 
 - **Sanity Loss**: 1/1d6 if witnessed bursting from the ground.
 

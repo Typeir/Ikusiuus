@@ -1,48 +1,57 @@
 # 📜 Session 1: The Stench of War
 
 ## 📍 **Location**
+
 - **Borossan Northlands**, near the beaches of **Dhanas**, west of the **Capital of Borossa**.
 
 ## 🎭 **Assisting Players**
+
 - **Ukko of the Storm Fist** - Human Monk (Level 1)
 - **Sigus** - Sunborn (Tortle) Warlock [Hexblade] (Level 1)
 - **Niccolo** - Human Ranger (Level 1)
 - **Lystig** - Pieni (Halfling) Artificer (Level 1)
 
 ## 🏛 **Notable NPCs**
+
 - **Darius** - Mercenary leader, sent the party on what should have been a death mission due to miscalculations.
 - **Bellie** - Sugar glider Sunborn Ranger, assisted the party briefly but had to leave to tend to the wounded.
 - **Rodgier** - Stoat Wizard, currently incapacitated due to a broken ankle.
 - **Lacón** - Pig Rifleman, aided the party throughout the mission.
 
 ## ⚔ **Encounters & Combat**
-1. **Skirmish at the Mountain’s Edge**  
-   - **Enemies:** 5 Brumish militiamen (rifle-armed).  
-   - **Outcome:** The party **eliminated the patrol**, securing their approach to the beaches.  
 
-2. **The Battle at the Mill**  
-   - **Enemies:** 10 Brumish militiamen, including a squad leader.  
-   - **Notable Moments:**  
-     - Niccolo **scored a critical hit**, instantly killing the leader.  
-     - Sigus **pushed two fighters into the sawblades**, ensuring a swift demise.  
-     - Lystig **set fire to the mill**, denying further enemy reinforcements.  
+1. **Skirmish at the Mountain’s Edge**
 
-3. **The Golden Clasper**  
-   - **Enemies:** **One massive Golden Clasper**—a **lobster-like creature**, grotesquely fused with **human appendages**, seemingly directed by **Brumish forces**.  
-   - **Signs of its arrival:**  
-     - **A grotesque stench**, like burning oil and rotting meat.  
-     - **A strange static hum in the air**, as though reality itself were fraying at the edges.  
-     - **The sound of clicking mandibles and scraping limbs**—a chitinous horror approaching from the shore.  
-   - **Outcome:**  
-     - The party **brought the creature down**, but **Sigus felt an eerie connection** to it. Something **deep in his bloodline reacted to its presence**, but he could not yet understand why.  
+   - **Enemies:** 5 Brumish militiamen (rifle-armed).
+   - **Outcome:** The party **eliminated the patrol**, securing their approach to the beaches.
+
+2. **The Battle at the Mill**
+
+   - **Enemies:** 10 Brumish militiamen, including a squad leader.
+   - **Notable Moments:**
+     - Niccolo **scored a critical hit**, instantly killing the leader.
+     - Sigus **pushed two fighters into the sawblades**, ensuring a swift demise.
+     - Lystig **set fire to the mill**, denying further enemy reinforcements.
+
+3. **The Golden Clasper**
+   - **Enemies:** **One massive Golden Clasper**—a **lobster-like creature**, grotesquely fused with **human appendages**, seemingly directed by **Brumish forces**.
+   - **Signs of its arrival:**
+     - **A grotesque stench**, like burning oil and rotting meat.
+     - **A strange static hum in the air**, as though reality itself were fraying at the edges.
+     - **The sound of clicking mandibles and scraping limbs**—a chitinous horror approaching from the shore.
+   - **Outcome:**
+     - The party **brought the creature down**, but **Sigus felt an eerie connection** to it. Something **deep in his bloodline reacted to its presence**, but he could not yet understand why.
 
 ## 💰 **Loot Acquired**
+
 - No traditional loot, except for **the innards of the beast**, which may hold **mystical or alchemical significance**.
 
 ## 📈 **Total XP Gained**
+
 - Enough to reach **Level 2**.
 
 ## 📖 **Session Recap**
+
 The party—each a stranger to the other—was recruited as **mercenaries in service to the Borossan monarchy**, assigned to **defend their homeland** against the **Brumean invasion**. Their first mission was simple: **reinforce the northern front**, ensuring no Brumean forces made it past the mountains and onto Borossan soil.
 
 At the **mountain’s edge**, they fought off a **Brumean patrol**, **rifle-armed but otherwise unremarkable**. After a brief skirmish, they continued their march toward the beaches.
@@ -51,16 +60,16 @@ Their next battle took place at an **old mill**, where **a larger Brumean force*
 
 Yet the **real horror** came afterward.
 
-A **foul stench** carried on the wind. The **air itself warped** as something **unnatural** approached. Then came the **crepitation**—a sound that set the **party’s nerves on edge**, like **insects burrowing beneath their skin**. 
+A **foul stench** carried on the wind. The **air itself warped** as something **unnatural** approached. Then came the **crepitation**—a sound that set the **party’s nerves on edge**, like **insects burrowing beneath their skin**.
 
 Then it emerged—a **Golden Clasper**.
 
-The **Brumeans had somehow unleashed this thing**—a **massive crustacean**, fused with **sickly human limbs**, scuttling forward with an almost **mindless hunger**. It fought **not like a trained war-beast**, but as **something barely restrained**, driven forward by the vague commands of its handlers.  
+The **Brumeans had somehow unleashed this thing**—a **massive crustacean**, fused with **sickly human limbs**, scuttling forward with an almost **mindless hunger**. It fought **not like a trained war-beast**, but as **something barely restrained**, driven forward by the vague commands of its handlers.
 
 The battle was **brutal**. The **Golden Clasper’s chitin resisted their strikes**, and its **massive claws** threatened to **tear them apart**. But through coordinated effort, they **felled the beast**—though not without scars.
 
-As the **creature convulsed in its final moments**, Sigus felt **something stir inside him**. There was **an inexplicable familiarity**—not recognition, but a **deep, nauseating certainty** that **this thing was connected to him**. 
+As the **creature convulsed in its final moments**, Sigus felt **something stir inside him**. There was **an inexplicable familiarity**—not recognition, but a **deep, nauseating certainty** that **this thing was connected to him**.
 
-To his **blood**.  
+To his **blood**.
 
 To his **father**.

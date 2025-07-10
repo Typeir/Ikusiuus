@@ -19,7 +19,7 @@ He has heard rumors of a group of adventurers who once managed to neutralize **X
 
 ---
 
-**Alignment:** *Lawful Neutral*  
+**Alignment:** _Lawful Neutral_  
 **Disposition:** Detached, clinical, relentlessly focused  
 **Philosophy:**  
 Agamen does not hate or love. He does not judge or absolve.  

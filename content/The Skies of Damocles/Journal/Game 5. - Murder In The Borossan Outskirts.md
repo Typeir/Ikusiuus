@@ -1,82 +1,82 @@
 # 📜 Session 5: Murder In The Borossan Outskirts
 
-## 📍 **Location**  
+## 📍 **Location**
 
-- **Underground Well** → **Gregory’s Inn** → **Seven Rats Tavern** → **Streets of Borossa**  
+- **Underground Well** → **Gregory’s Inn** → **Seven Rats Tavern** → **Streets of Borossa**
 
-## 🎭 **Assisting Players**  
+## 🎭 **Assisting Players**
 
-- **Ukko of the Storm Fist** - Human Monk Four Elements(Level 3)  
-- **Sigus** - Sunborn (Tortle) Warlock [Hexblade] (Level 3)  
-- **Niccolo** - Human Ranger [Hunter] (Level 3)  
-- **Lystig** - Pieni (Halfling) Artificer [Alchemist] (Level 3)  
+- **Ukko of the Storm Fist** - Human Monk Four Elements(Level 3)
+- **Sigus** - Sunborn (Tortle) Warlock [Hexblade] (Level 3)
+- **Niccolo** - Human Ranger [Hunter] (Level 3)
+- **Lystig** - Pieni (Halfling) Artificer [Alchemist] (Level 3)
 
-## 🏛 **Notable NPCs**  
+## 🏛 **Notable NPCs**
 
-- **Amon Grimalkin** – **Obsessive noble scholar**, fixated on the stolen book. Challenged the party to a duel and was **instantly killed by Tarcus**.  
-- **Grimalkin Junior** – **Son of Amon**, mourned his father but ultimately **accepted his death as necessary**. Helped the party **cover up the murder**.  
-- **Tarcus** – Third-in-command of the **White Ravens**, executed Amon **in a single strike**, then **forced the party to dispose of the body**.  
-- **Buholingo** – Sigus' accomplice, **put on trial** for **scamming a young woman** with fake fortune readings. Avoided jail thanks to Sigus’ intervention.  
-- **Petunia** – A **demon in disguise** as a **harmless pigeon-like Sunborn**, Ukko's tailor and an **information broker** via her **seekersilk spider farm**.  
+- **Amon Grimalkin** – **Obsessive noble scholar**, fixated on the stolen book. Challenged the party to a duel and was **instantly killed by Tarcus**.
+- **Grimalkin Junior** – **Son of Amon**, mourned his father but ultimately **accepted his death as necessary**. Helped the party **cover up the murder**.
+- **Tarcus** – Third-in-command of the **White Ravens**, executed Amon **in a single strike**, then **forced the party to dispose of the body**.
+- **Buholingo** – Sigus' accomplice, **put on trial** for **scamming a young woman** with fake fortune readings. Avoided jail thanks to Sigus’ intervention.
+- **Petunia** – A **demon in disguise** as a **harmless pigeon-like Sunborn**, Ukko's tailor and an **information broker** via her **seekersilk spider farm**.
 
-## ⚔ **Encounters & Combat**  
+## ⚔ **Encounters & Combat**
 
-### **1️⃣ Phase Spider Ambush**  
+### **1️⃣ Phase Spider Ambush**
 
-- **Enemies:** **Phase Spiders**, creatures from **Beyond the Folds**, drawn to **the alchemical precursor** still clinging to Ukko and Lystig.  
-- **Event:**  
-  - The **spiders ambushed the resting party**, attacking from **folds in space**.  
-  - **Niccolo and Sigus were both knocked unconscious** during the fight.  
-  - The **party barely managed to defeat them**, learning that **creatures beyond reality** are drawn to misplaced energy.  
+- **Enemies:** **Phase Spiders**, creatures from **Beyond the Folds**, drawn to **the alchemical precursor** still clinging to Ukko and Lystig.
+- **Event:**
+  - The **spiders ambushed the resting party**, attacking from **folds in space**.
+  - **Niccolo and Sigus were both knocked unconscious** during the fight.
+  - The **party barely managed to defeat them**, learning that **creatures beyond reality** are drawn to misplaced energy.
 
-### **2️⃣ The Grimalkin Duel**  
+### **2️⃣ The Grimalkin Duel**
 
-- **Event:**  
-  - Upon **arriving at the Seven Rats Tavern**, the party was **intercepted by Amon Grimalkin**, demanding **the return of his book**.  
-  - He **challenged them to a duel**—their **lives for the book**.  
-  - The party **refused**, leading to **a fight**.  
-  - **Amon was vastly stronger than expected**, but before the fight could escalate, **Tarcus arrived** and **killed Amon instantly** with a **single piercing strike to the skull** (**60+ damage in one hit**).  
+- **Event:**
+  - Upon **arriving at the Seven Rats Tavern**, the party was **intercepted by Amon Grimalkin**, demanding **the return of his book**.
+  - He **challenged them to a duel**—their **lives for the book**.
+  - The party **refused**, leading to **a fight**.
+  - **Amon was vastly stronger than expected**, but before the fight could escalate, **Tarcus arrived** and **killed Amon instantly** with a **single piercing strike to the skull** (**60+ damage in one hit**).
 
-### **3️⃣ Covering Up Amon’s Death**  
+### **3️⃣ Covering Up Amon’s Death**
 
-- **Event:**  
-  - **Tarcus blamed the party** for Amon’s death, **forcing them to dispose of the body**.  
-  - **Grimalkin Junior arrived**, saw his father’s corpse, and **ultimately accepted his fate**.  
-  - He **helped stage the death** as an accident in the **manse fire**, ensuring **no suspicions**.  
+- **Event:**
+  - **Tarcus blamed the party** for Amon’s death, **forcing them to dispose of the body**.
+  - **Grimalkin Junior arrived**, saw his father’s corpse, and **ultimately accepted his fate**.
+  - He **helped stage the death** as an accident in the **manse fire**, ensuring **no suspicions**.
 
-## 💰 **Other Events & Roleplay**  
+## 💰 **Other Events & Roleplay**
 
-### **Buholingo’s Trial**  
+### **Buholingo’s Trial**
 
-- **Accused of scamming** a **young woman** with **fake future readings**.  
-- Sigus **secretly cast Sleep** on the woman and her accomplices, **ridiculing them in front of the judge** and **framing them as junkies**.  
-- The judge, **frustrated by the spectacle**, **fined Buholingo a symbolic sum** but **spared him from jail**.  
-- **As thanks, Buholingo promised Sigus a wand** when he next visited.  
+- **Accused of scamming** a **young woman** with **fake future readings**.
+- Sigus **secretly cast Sleep** on the woman and her accomplices, **ridiculing them in front of the judge** and **framing them as junkies**.
+- The judge, **frustrated by the spectacle**, **fined Buholingo a symbolic sum** but **spared him from jail**.
+- **As thanks, Buholingo promised Sigus a wand** when he next visited.
 
-### **Ukko’s Meeting with Petunia**  
+### **Ukko’s Meeting with Petunia**
 
-- **Petunia** is **not a true Sunborn**, but rather a **Silent One demon in disguise**.  
-- **Ukko has known her for years**, as she is **his personal tailor**.  
-- She runs a **seekersilk spider farm**, allowing her to **track people remotely**.  
-- **Ukko asked her to track Jaeger**, believing he may have **connections to the Borossan Courier Guild (the mafia holding information on Ukko’s missing sister and his father, Hirvi of the Storm Fist).**  
+- **Petunia** is **not a true Sunborn**, but rather a **Silent One demon in disguise**.
+- **Ukko has known her for years**, as she is **his personal tailor**.
+- She runs a **seekersilk spider farm**, allowing her to **track people remotely**.
+- **Ukko asked her to track Jaeger**, believing he may have **connections to the Borossan Courier Guild (the mafia holding information on Ukko’s missing sister and his father, Hirvi of the Storm Fist).**
 
-### **Other Downtime**  
+### **Other Downtime**
 
-- **Lystig** helped with **chores at Gregory’s Inn**.  
-- **Niccolo** went shopping and **bought a scimitar**.  
+- **Lystig** helped with **chores at Gregory’s Inn**.
+- **Niccolo** went shopping and **bought a scimitar**.
 
-## 📈 **Total XP Gained**  
+## 📈 **Total XP Gained**
 
-- **300 XP each**.  
+- **300 XP each**.
 
-## 📖 **Session Recap**  
+## 📖 **Session Recap**
 
-The party, covered in **alchemical precursor**, was **ambushed by Phase Spiders** drawn by the energy. **Niccolo and Sigus were knocked unconscious**, but **Ukko managed to kill the creatures** and stabilize the party.  
+The party, covered in **alchemical precursor**, was **ambushed by Phase Spiders** drawn by the energy. **Niccolo and Sigus were knocked unconscious**, but **Ukko managed to kill the creatures** and stabilize the party.
 
-Returning to **Gregory’s Inn**, they met **Tarcus** to deliver the stolen book. Before he arrived, **Amon Grimalkin confronted them**, demanding the book. A **fight broke out**, but before Amon could do serious harm, **Tarcus arrived and killed him instantly with a single strike**.  
+Returning to **Gregory’s Inn**, they met **Tarcus** to deliver the stolen book. Before he arrived, **Amon Grimalkin confronted them**, demanding the book. A **fight broke out**, but before Amon could do serious harm, **Tarcus arrived and killed him instantly with a single strike**.
 
-With **Amon dead**, Tarcus ordered them to **dispose of the body**, or they wouldn’t be rewarded. **Grimalkin Jr. helped stage Amon’s death as an accident** in the **manse fire**.  
+With **Amon dead**, Tarcus ordered them to **dispose of the body**, or they wouldn’t be rewarded. **Grimalkin Jr. helped stage Amon’s death as an accident** in the **manse fire**.
 
-Meanwhile, **Sigus helped Buholingo** avoid jail time in a **sham trial**, securing a **Wand of Sunlight** as a reward. **Ukko met with Petunia**, a **Silent One demon in disguise**, and **tasked her with tracking Jaeger**.  
+Meanwhile, **Sigus helped Buholingo** avoid jail time in a **sham trial**, securing a **Wand of Sunlight** as a reward. **Ukko met with Petunia**, a **Silent One demon in disguise**, and **tasked her with tracking Jaeger**.
 
-In the **underground pit fights**, **Ukko and Niccolo** entered under fake names. They **easily defeated their first opponents**, but then discovered **Ukko’s father, Hirvi, was also competing**.  
+In the **underground pit fights**, **Ukko and Niccolo** entered under fake names. They **easily defeated their first opponents**, but then discovered **Ukko’s father, Hirvi, was also competing**.

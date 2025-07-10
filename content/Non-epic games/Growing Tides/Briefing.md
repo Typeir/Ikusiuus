@@ -2,10 +2,10 @@ You read through the recording of the Briefing before you set out to work. Your 
 
 # Morning Briefing: Oil Rig A255-3
 
-**Location:** *Break Room, Oil Rig A255-3*  
-**Time:** *Early Morning Shift*  
+**Location:** _Break Room, Oil Rig A255-3_  
+**Time:** _Early Morning Shift_
 
-**Attendees:** *Petrocles (Supervisor), Rig Crew*
+**Attendees:** _Petrocles (Supervisor), Rig Crew_
 
 ---
 
@@ -47,7 +47,7 @@ He glanced around the room, ensuring he had everyone’s attention. “Uh, That 
 
   “Check the central pump’s pressure levels. If there’s a spike or a drop in flow rate, flag it. We can’t afford to have that pump going out on us in the middle of a shift.”
 
-- **Alchemical Precursor Storage Inspection:**  
+- **Alchemical Precursor Storage Inspection:**
 
   "I need someone to head down to the lower bathysphere docks to check on the alchemical precursor storage. Those chemicals are volatile, and we can’t afford any leaks or contamination. Make sure all storage seals are intact and that the pressure indicators read normal. If anything seems off down there, report it right away and stay clear of the tanks."
 

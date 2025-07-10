@@ -9,7 +9,7 @@
   - **Some Cartographers tools** seem to trace a route to a few demi-islands around the rig, but these islands are not shown on the official maps.
 
   - **A telescope** can be found nearby, apparently pointing in the direction of these islands, but when the investigator uses it, a white, tumorous crab emerges from the lenses and attacks the investigator. The investigator must succeed on a Hard DEX roll or be startled and be considered outnumbered to the crab.
-  Additionally, they must make a **Sanity roll** (2/2d6) to check wether they notice the disturbing nature of the creature.
+    Additionally, they must make a **Sanity roll** (2/2d6) to check wether they notice the disturbing nature of the creature.
 
 - ### b
 
@@ -125,9 +125,9 @@
 
   - When an investigator approaches or interacts with the control, it suddenly **bursts open** with a loud hiss, and a **serpentine, shrimp-like creature** slithers out, writhing and undulating as it emerges. All investigators witnessing this must make a **Sanity roll** (3/3d6 loss) due to its unsettling, fractal-like appearance and movement.
 
-  - The creature will quickly **latch onto the nearest investigator**, attempting to wrap its segmented body around them and pull them toward the jagged, broken machinery. The investigator must make a **DEX or STR roll** to break free. Failing this roll results in the creature drawing them closer to the control mechanism, where they face *instant death* if fully pulled inside.
+  - The creature will quickly **latch onto the nearest investigator**, attempting to wrap its segmented body around them and pull them toward the jagged, broken machinery. The investigator must make a **DEX or STR roll** to break free. Failing this roll results in the creature drawing them closer to the control mechanism, where they face _instant death_ if fully pulled inside.
 
-  - *Surviving the grapple:* If an investigator escapes the grapple, the shrimp-creature will scuttle back into the broken machine, its limbs vanishing into an impossible fractal pattern within the dark opening. Any investigator who made physical contact with the creature and survived must make a **CON roll** to avoid becoming afflicted by **Albedo's curse**: an ongoing sensation of tightness and fractal growth beneath the skin, resulting in a **2/2d6 Sanity loss each day** until cured.
+  - _Surviving the grapple:_ If an investigator escapes the grapple, the shrimp-creature will scuttle back into the broken machine, its limbs vanishing into an impossible fractal pattern within the dark opening. Any investigator who made physical contact with the creature and survived must make a **CON roll** to avoid becoming afflicted by **Albedo's curse**: an ongoing sensation of tightness and fractal growth beneath the skin, resulting in a **2/2d6 Sanity loss each day** until cured.
 
   - The **drill release control** remains damaged beyond repair after this incident, sparking and emitting a foul-smelling vapor.
 
@@ -137,7 +137,7 @@
 
   - Nearby, a discarded **scuba suit** stands upright in the shadows, as if supported by an invisible force. If approached, investigators will see the suit is filled with **tiny, pale shrimp**, endlessly writhing inside its transparent helmet.
 
-  - The suit moves in short, jerky steps, occasionally stumbling, but otherwise appears *harmless*. If interacted with, the suit will make no aggressive movements but will follow the nearest investigator at a slow pace, maintaining a constant five-foot distance. Anyone observing the suit for prolonged periods must make a **Sanity roll** (2/2d6 loss) as the sight of it becomes increasingly disturbing.
+  - The suit moves in short, jerky steps, occasionally stumbling, but otherwise appears _harmless_. If interacted with, the suit will make no aggressive movements but will follow the nearest investigator at a slow pace, maintaining a constant five-foot distance. Anyone observing the suit for prolonged periods must make a **Sanity roll** (2/2d6 loss) as the sight of it becomes increasingly disturbing.
 
   - If ignored or left alone, the suit eventually settles into a corner of the room, the shrimp within continuing to wriggle in eerie silence.
 
@@ -198,5 +198,5 @@
 - ### c
 
   - Albedo may speak directly to investigators, their voice both unsettling and oddly gentle, offering to “embrace” them as part of their world. The sound compels all who hear it to make a **Hard INT roll** or feel an overwhelming urge to draw closer. Those who fail are entranced, believing Albedo’s “embrace” to be a merciful act, but it is fatal.
-  
+
   - Any survivors who flee the chasm or escape Albedo’s influence must make a final **Sanity roll** (10/10d10) as visions of fractal limbs and watchful, caring eyes haunt them long after the encounter.

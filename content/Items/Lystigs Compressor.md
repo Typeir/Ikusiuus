@@ -1,7 +1,7 @@
-
 ### **Lystig's Compressor** (Wondrous item)
 
 - "Believe me when I say Gunpowder, Alchemical Precursors, and a metal pot is one hell of a combination. Don't ask me how, just believe me."
+
   - Lystig Curio, hobbit mercenary
 
   Forgoing a short rest, a compressor which requires 100gp in materials and proficiency with tinkers and alchemist's tools can be crafted and fitted into a gun. A gun fitted with **Lystig's Compressor** will turn into a magical object.

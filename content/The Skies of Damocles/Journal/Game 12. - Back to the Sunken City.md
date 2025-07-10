@@ -1,47 +1,47 @@
-# 📜 Session 12: The Return to the Sunken City  
+# 📜 Session 12: The Return to the Sunken City
 
-## 📍 **Location**  
+## 📍 **Location**
 
-- **Dhanas**, ruins of the **Aurican Keep**, **Sunken City** beneath the aquifer.  
+- **Dhanas**, ruins of the **Aurican Keep**, **Sunken City** beneath the aquifer.
 
-## 🎭 **Assisting Players**  
+## 🎭 **Assisting Players**
 
-- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 4 → 5)  
-- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 4 → 5)  
-- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 4 → 5)  
+- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 4 → 5)
+- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 4 → 5)
+- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 4 → 5)
 
-## 📜 **Absent Players**  
+## 📜 **Absent Players**
 
-- **Niccolo** - Human Ranger (Monster Slayer) (Level 4 → 5)  
-  - Departed to **Tripoda** with the **White Ravens** to assist in setting up a base camp on the island.  
+- **Niccolo** - Human Ranger (Monster Slayer) (Level 4 → 5)
+  - Departed to **Tripoda** with the **White Ravens** to assist in setting up a base camp on the island.
 
-## 🏛 **Notable NPCs**  
+## 🏛 **Notable NPCs**
 
-- **Lacuna** - Kelpybara. Exhibited unexpected intelligence and **opposable thumbs**, preventing Lystig from **cutting the lift rope**.  
-- **Nuria** - Sigus' old friend, an **illegal fisher and smuggler**. She provided Sigus with **cold protection wands** she no longer needed.  
+- **Lacuna** - Kelpybara. Exhibited unexpected intelligence and **opposable thumbs**, preventing Lystig from **cutting the lift rope**.
+- **Nuria** - Sigus' old friend, an **illegal fisher and smuggler**. She provided Sigus with **cold protection wands** she no longer needed.
 
-## ⚔ **Encounters & Combat**  
+## ⚔ **Encounters & Combat**
 
-1. **Confrontation with the Lobster-Men**  
-   - **Enemies:** **Humanoid crustaceans**, resembling **Golden Claspers** but **partially intelligent**.  
-   - **Outcome:** The party **attempted to sneak past** but **failed**, leading to **combat**. The creatures were **hostile** and unwilling to negotiate.  
+1. **Confrontation with the Lobster-Men**
+   - **Enemies:** **Humanoid crustaceans**, resembling **Golden Claspers** but **partially intelligent**.
+   - **Outcome:** The party **attempted to sneak past** but **failed**, leading to **combat**. The creatures were **hostile** and unwilling to negotiate.
 
-## 💰 **Loot Acquired**  
+## 💰 **Loot Acquired**
 
-- **Cold Protection Wands** (from Nuria)  
-- No significant loot beyond **insights into the ruins**.  
+- **Cold Protection Wands** (from Nuria)
+- No significant loot beyond **insights into the ruins**.
 
-## 📈 **Total XP Gained**  
+## 📈 **Total XP Gained**
 
-- **XP Awarded:** **500 XP each**.  
-- **New Level:** **Level 5** reached after this session.  
+- **XP Awarded:** **500 XP each**.
+- **New Level:** **Level 5** reached after this session.
 
-## 📖 **Session Recap**  
+## 📖 **Session Recap**
 
-The party **returned to Dhanas** to descend back into the **Sunken City**, using a **lift system** constructed by the returning townsfolk. Along the way, they noticed that **Lacuna displayed unusual dexterity and intelligence**, subtly **stopping Lystig from cutting the lift rope**.  
+The party **returned to Dhanas** to descend back into the **Sunken City**, using a **lift system** constructed by the returning townsfolk. Along the way, they noticed that **Lacuna displayed unusual dexterity and intelligence**, subtly **stopping Lystig from cutting the lift rope**.
 
-Before setting off, **Sigus visited Nuria**, an old friend who had once smuggled him into Borossa. Now a seasoned illegal fisher, Nuria gifted Sigus **cold protection wands**, explaining that she no longer needed them, as she had grown accustomed to the **frigid waters of the Borossan coast**.  
+Before setting off, **Sigus visited Nuria**, an old friend who had once smuggled him into Borossa. Now a seasoned illegal fisher, Nuria gifted Sigus **cold protection wands**, explaining that she no longer needed them, as she had grown accustomed to the **frigid waters of the Borossan coast**.
 
-Upon reaching the ruins, the party encountered **the Lobster-Men**, who were seemingly **guarding** the entrance to deeper areas. A **failed stealth attempt led to combat**, and the party **fought their way through**.  
+Upon reaching the ruins, the party encountered **the Lobster-Men**, who were seemingly **guarding** the entrance to deeper areas. A **failed stealth attempt led to combat**, and the party **fought their way through**.
 
-Progressing further into the ruins, they found **ancient Colonial Hidden architecture**, indicating that the **Sunken City** was built **atop the Empyrean Thalassian tunnels**. After navigating the **maze-like structures**, the party reached a **massive chasm**, where a **faint golden light** illuminated **what seemed to be a city far below**.  
+Progressing further into the ruins, they found **ancient Colonial Hidden architecture**, indicating that the **Sunken City** was built **atop the Empyrean Thalassian tunnels**. After navigating the **maze-like structures**, the party reached a **massive chasm**, where a **faint golden light** illuminated **what seemed to be a city far below**.
