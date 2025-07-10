@@ -8,7 +8,12 @@ import styles from './page.module.scss';
 
 const contentRoot = path.join(process.cwd(), 'content');
 
-function toKebabCase(str: string) {
+/**
+ * Converts a string to kebab-case for consistent slug matching.
+ * @param str - The input string to convert.
+ * @returns The kebab-case string.
+ */
+function toKebabCase(str: string): string {
   return str
     .replace(/([a-z])([A-Z])/g, '$1-$2')
     .replace(/\s+/g, '-')
@@ -16,6 +21,12 @@ function toKebabCase(str: string) {
     .toLowerCase();
 }
 
+/**
+ * Recursively finds a file path that matches a given slug.
+ * @param currentDir - Directory to search in.
+ * @param slugParts - Segments of the URL slug.
+ * @returns The full file path or null if not found.
+ */
 function findFilePath(currentDir: string, slugParts: string[]): string | null {
   if (slugParts.length === 0) return null;
 
@@ -46,8 +57,19 @@ function findFilePath(currentDir: string, slugParts: string[]): string | null {
   return null;
 }
 
-export default async function Page(props: { params: { slug: string[] } }) {
-  const { slug } = await props.params;
+type PageProps = {
+  params: {
+    slug: string[];
+  };
+};
+
+/**
+ * Renders a markdown-based content page from the content folder based on the slug.
+ * @param props - Dynamic route parameters provided by Next.js.
+ * @returns The rendered markdown content or a 404 message.
+ */
+export default async function Page(props: PageProps) {
+  const { slug } = await props.params; // workaround for bugged compiler
 
   const filePath = findFilePath(contentRoot, slug);
 
@@ -58,10 +80,7 @@ export default async function Page(props: { params: { slug: string[] } }) {
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
 
-  const processed = await remark()
-    .use(gfm) // ← enable GFM
-    .use(html)
-    .process(content);
+  const processed = await remark().use(gfm).use(html).process(content);
 
   return (
     <div className='prose prose-invert mx-auto p-10'>
