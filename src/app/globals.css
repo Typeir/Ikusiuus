@@ -25,3 +25,49 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* globals.css */
+
+[theme='light'] {
+  --color-bg: #ffffff;
+  --color-text: #1e1e1e;
+  --color-accent: #0070f3;
+  --color-surface: #f4f4f5;
+}
+
+[theme='dark'] {
+  --color-bg: #0f0f0f;
+  --color-text: #f4f4f5;
+  --color-accent: #38bdf8;
+  --color-surface: #18181b;
+}
+
+[theme='damocles'] {
+  --color-bg: #151516;
+  --color-text: #d7d4c8;
+  --color-accent: #e9556d;
+  --color-surface: #1e1e1f;
+}
+
+body[theme] {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.6s ease, color 0.6s ease;
+}
+
+[theme] .search-bar {
+  background-color: var(--surface);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+[theme] .search-button {
+  background-color: var(--surface);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+[theme] .search-result {
+  background-color: var(--surface);
+  border-color: var(--accent);
+}

@@ -1,0 +1,64 @@
+# **Hound of Tindalos – Gaper**
+
+![Hound of Tindalos - Gaper  ](../../../Images/Gaper.png)
+
+Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their enormous, yawning torsos contain not flesh but prophecy — divine code etched into unknowable space. They are the whispering agents of the Canvas, and the only prayer they offer is annihilation.
+
+- Medium Celestial (Fold), Lawful Neutral  
+- **Challenge**: 3 (700 XP)  
+- **Proficiency Bonus**: +2
+
+| **Armor Class** | **Hit Points** | **Speed** |
+|-----------------|----------------|-----------|
+| 19 | 55 (9d8 + 15) | 15 ft. |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 8 (-1)  | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) | 8 (-1)  |
+
+- **Saving Throws**: Wis +5, Con +3  
+- **Skills**: Arcana +4, Perception +5  
+- **Damage Resistances**: Radiant, Thunder, Force, Necrotic  
+- **Damage Immunities**: Psychic  
+- **Condition Immunities**: Blinded, Charmed, Frightened  
+- **Senses**: Blindsight 60 ft., Darkvision 120 ft., Passive Perception 15  
+- **Languages**: Understands Celestial; cannot speak  
+
+---
+
+### **Traits**
+
+- **Gaping Maw of Revelation**  
+  Creatures that start their turn within 5 ft. must succeed on a DC 13 Wisdom saving throw or become **Charmed** until the end of their next turn. If already Charmed, they are instead **Paralyzed** for 1 round.
+
+- **Celestial Logic**  
+  When a creature fails a saving throw against one of the Gaper’s spells, it cannot take reactions until the start of its next turn.
+
+- **Hovering Stillness**  
+  If the Gaper does not move on its turn, it gains **+2 AC** and is immune to being Grappled or Restrained until the start of its next turn.
+
+---
+
+### **Actions**
+
+- **Twin Mantra (At-Will)**  
+  The Gaper casts two cantrips per round: one *Toll the Dead* (DC 13 Wis save) and one *Sacred Flame* (DC 13 Dex save), targeting different creatures within 60 ft.
+
+- **Fold Static (Recharge 5–6)**  
+  Unleashes fold energy in a 15 ft. cone. Each creature must make a DC 13 Constitution save or take 3d8 thunder damage and fall prone. Half on success.
+
+---
+
+### **Spellcasting**
+
+- **Spellcasting Ability**: Wisdom (DC 13, +5 to hit)  
+- **Components**: None required
+
+**Cantrips (At-Will)**:  
+*Toll the Dead*, *Sacred Flame*, *Thaumaturgy*
+
+**1st-Level (3/day)**:  
+*Sanctuary*, *Shield of Faith*, *Command*, *Detect Magic*
+
+**2nd-Level (2/day)**:  
+*Hold Person*, *Shatter*, *Misty Step*, *Silence*

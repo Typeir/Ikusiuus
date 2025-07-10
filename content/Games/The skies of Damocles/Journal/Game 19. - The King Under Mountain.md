@@ -1,0 +1,72 @@
+# 📜 Session 19: The King Under the Mountain  
+
+## 📍 **Location**  
+- **Tripoda**, **Verbrune**, **Castle of the Society of Occult Knowledge**  
+
+## 🎭 **Assisting Players**  
+- **Ukko of the Storm Fist** - Human Monk (Way of the Four Elements) (Level 5)  
+- **Sigus** - Sunborn (Tortle) Hexblade Warlock / Bard (Level 5)  
+- **Niccolo** - Human Ranger (Hunter) (Level 5)  
+- **Lystig** - Pieni (Halfling) Alchemist Artificer (Level 5)  
+
+## 🏛 **Notable NPCs**  
+- **Kipinoita** - Wizardly **Suncat**, challenged the party to a **race**, but failed spectacularly.  
+- **Loitsunmetsästäjä ("Loitsunme")** - Towering **four-armed lizardlike wizard**, reluctantly **allowed access to the mountain** after the race.  
+- **Camille of Cavar** - Queen Consort of Borossa, revealed as a **high-ranking member of the Society of Occult Knowledge**.  
+- **Father** - The **enigmatic regent** of the **Castle under Verbrune**, revealed to be a **monstrous, yet highly intelligent Silent One**.  
+- **Faucio, Minerva, Maurice** - High-ranking members of the **Society of Occult Knowledge**, introduced at the castle.  
+- **Rodgier** - Stoat Wizard, **unexpectedly found in Verbrune**, seemingly **recovered from his previous injury**.  
+
+## ⚔ **Encounters & Events**  
+
+1. **The Alchemical Race**  
+   - **Race Against Kipinoita** in **alchemical-precursor-powered vehicles**.  
+   - **Outcome:** Kipinoita **crashed every car she had**, leaving the party **victorious**. **Loitsunme reluctantly allowed them passage.**  
+   - **Reward:** Ludriq **paid the party 2,000 daggers** for distracting Kipinoita.  
+
+2. **Arrival at the Castle**  
+   - The party **met Camille, Faucio, Minerva, Maurice, and Rodgier**.  
+   - They were **escorted through the castle**, which was an **ancient relic from a bygone era**.  
+   - **Sigus was invited to meet "Father,"** the **castle's regent**.  
+
+3. **The Mineshaft Incident**  
+   - While exploring, **Lystig and Niccolo ventured deep into a mineshaft beneath the castle**.  
+   - **They discovered it was an ancient alchemical precursor mine**, sealed **for unknown reasons**.  
+   - **Lystig was stalked by a shadowy figure wielding a greatbow,** but it **fled before revealing itself**.  
+   - **They also encountered Phase Spiders**, reinforcing the **danger of the area**.  
+
+4. **Meeting "Father"**  
+   - The **party met the regent**, expecting a powerful human mage, but instead found a **gigantic, monstrous Silent One**.  
+   - **Despite his terrifying form, "Father" was well-read, articulate, and seemingly benign.**  
+   - He expressed **great interest in Sigus’s connection to the stars**, believing it could help open a **sealed waxen door in the castle**—a potential **gateway to the Hidden Kingdom**.  
+
+5. **Sigus’s Experiment**  
+   - **Sigus agreed to undergo an experiment**, allowing "Father" to probe his **connection to the Light of Creation**.  
+   - **Sigus experienced a vision of the World Seed**—an overwhelming **cosmic revelation**.  
+   - **Outcome:** Sigus **failed his saving throws** and developed a **mild phobia of vast spaces**.  
+
+6. **The Sewer Investigation**  
+   - **The party distrusted the Society of Occult Knowledge** and **snuck around the castle’s lower levels**.  
+   - They found a **series of sewer tunnels** leading to a **room filled with test tubes**.  
+   - **Near the drainage, they found lumps of flesh and hair, vaguely human**, hinting at **something horrifying occurring within the castle.**  
+
+## 💰 **Loot Acquired**  
+- **2,000 Daggers** from Ludriq (for distracting Kipinoita).  
+- **Ancient knowledge about the mines & alchemical precursor deposits.**  
+
+## 📈 **Total XP Gained**  
+- **XP Awarded:** **500 XP each**.  
+- **New Level:** **Remained at Level 5**.  
+
+## 📖 **Session Recap**  
+The **party arrived at Verbrune** and participated in **an alchemical-powered vehicle race against Kipinoita**. Despite her magical prowess, Kipinoita proved to be a **terrible driver**, losing the race after crashing repeatedly. **Loitsunme begrudgingly allowed them access to the castle.**  
+
+Inside the **Castle of the Society of Occult Knowledge**, the party was **introduced to several important figures, including Camille, Faucio, Minerva, Maurice, and the long-lost Rodgier**. The **castle itself was an ancient structure**, seemingly **preserved from a lost era**.  
+
+While **Sigus prepared for a meeting with the regent**, **Lystig and Niccolo explored a forbidden mineshaft beneath the castle**, discovering **it was once a source of alchemical precursor**. There, **Lystig was stalked by a shadowy, greatbow-wielding figure, but it disappeared before he could confront it**.  
+
+The party eventually **met "Father," the true regent of Verbrune—a monstrous, but highly intelligent Silent One**. He explained that **Sigus's connection to the stars could help open a strange waxen door within the castle**, possibly leading to **the Hidden Kingdom**.  
+
+**Sigus agreed to an experiment**, where "Father" attempted to probe his **celestial connection**. During the process, **Sigus glimpsed the World Seed**, an **immense cosmic revelation that nearly shattered his mind**, leaving him with **a new phobia of vast spaces**.  
+
+Growing **suspicious of the Society**, the **party sneaked into the castle’s sewer system**, where they found **human-like flesh and hair clogging the drainage near a room filled with test tubes**—a chilling sign that **something sinister was happening beneath Verbrune.**  

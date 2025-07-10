@@ -1,0 +1,69 @@
+# Scroll of the Inebriated Warrior  
+
+*Wondrous item (Scroll), legendary, nonmagical*
+
+---
+
+## Inebriation Tracker
+
+Your mastery of inebriation has become an artform. You now track your **Inebriation Level**, which ranges from **0 to 36**.
+
+- **Drinking alcohol** (such as a flask, bottle, or skin) counts as a **bonus action**, and increases your Inebriation Level by **1d6** (maximum 36).
+- At the **end of each of your turns**, your Inebriation Level **decreases by 6**, unless you drink again.
+
+---
+
+## Hammered Sweet Spot: Inebriation Level 12+
+
+While your Inebriation Level is **12+**, you gain the following benefits:
+
+- You can make **one additional attack** as part of your **Attack action** (stacks with Extra Attack).
+- Your **unarmed strikes deal an additional 1d4 force damage**, and deal extra damage equal to your **Wisdom modifier**.
+- You have **advantage on Dexterity (Acrobatics)** and **Charisma (Performance)** checks.
+- You gain **+1 to AC** and **+1 to all Saving Throws**.
+
+---
+
+## Overdrunk & Exhaustion
+
+As your Inebriation Level rises above 18, you begin to suffer the following effects:
+
+| Inebriation Level | Effect |
+|-------------------|--------|
+| 24                | Disadvantage on Wisdom checks and saving throws. |
+| 30                | Gain **1 level of exhaustion**. |
+| 36                | Gain **another level of exhaustion**. |
+
+You cannot exceed a level of 36. Your body simply cannot contain more.
+
+---
+
+## Sober Up
+
+You can spend **1 ki point** and use an **action** to forcibly purge your alcohol and reset your Inebriation Level to **0**. When you do, you take **1d10 poison damage**, ignoring resistance and immunity. Alternatively, a **short rest** also resets the level and removes any exhaustion gained from this feature.
+
+---
+
+## Gourd-Borne Techniques
+
+If you are attuned to the **Gourd of the Eternal Drunkard**, you gain access to the following:
+
+### Breath of the Drunkard – Fire Belch  
+
+*Requires Inebriation Level 12+*  
+Replace one of your attacks or use your action to exhale fire in a **15-ft cone**.  
+**Dexterity save (DC = 8 + Proficiency + Wisdom mod)**  
+
+- On fail: **6d6 fire damage** and ignite (1d6 fire at start of next turn)  
+- On success: Half damage, no ignite  
+- **Costs 6 Inebriation** points
+
+### Belch of the Deep Still – Toxic Cone  
+
+*Requires Inebriation Level 24+*  
+Replace one of your attacks or use your action to unleash a **15-ft cone** of intoxicating vapor.  
+**Constitution save (DC = 8 + Proficiency + Wisdom mod)**  
+
+- On fail: **5d6 poison damage**, **Poisoned (1 minute)**, and must use reaction to stumble 10 ft in a random direction  
+- On success: Half damage, no poison  
+- **Costs 6 Inebriation** points

@@ -1,0 +1,325 @@
+# Xanthous
+
+## *Hiisi of Eternal Failure, Scion of Sulphur, lord of Obsession, Miracle Incarnate*
+
+![Xanthous](../../../Images/Xanthous.png)
+
+*Gargantuan Aberration, Lawful Evil*
+
+- **Armor Class**: 25 (natural armor)
+- **Hit Points**: 850 (50d10 + 575)
+- **Speed**: 10 ft., fly 55 ft. (hover)
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 30 (+10) | 16 (+3) | 28 (+9) | 25 (+7) | 30 (+10) | 30 (+10) |
+
+**Saving Throws**: Str +24, Con +18, Int +16, Cha +24  
+**Skills**: Arcana +16, Deception +28, Insight +28, Intimidation +24, Perception +24, Persuasion +24, Religion +16  
+**Damage vulneravilities**: Cold.
+**Damage Resistances**: Lightning.
+**Damage Immunities**: Psychic, Poison, Acid; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered  
+**Condition Immunities**: Blinded, Charmed, Frightened, Paralyzed, Poisoned, Stunned  
+**Senses**: Darkvision 120 ft., truesight 60 ft., passive Perception 29  
+**Languages**: All, telepathy 120 ft.  
+**Challenge**: 29 (155,000 XP)  
+**Proficiency Bonus**: +9  
+
+---
+
+**Traits**:
+
+- **Angelical Link**: Xanthous can summon angels with which he shares a health pool. Anytime an angel takes damage, xanthous takes an equal ammount of indirect damage.
+
+- **Unbreakable Mind**: If Xanthous isn't dealt at least 100 direct damage in a round, he regenerates all the damage he took, including angelical link damage.
+
+- **Weakened form**: Xanthous is weakened in his current state, and cannot cast spells of 6th, 7th, 8th, or 9th level. Additionally, his multiattack strikes thrice instead of five times, additionally, he suffers a -5 penalty to all saving throws, attack rolls and skill checks. And he loses 5 AC, This effect lasts until the next day. Additionally, Xanthous spawns without any angels.
+
+- **Scourge of the mind**: Xanthous immediately knows when one is withholding informatiton, as it understands when something has not reached the cusp of it's being, even words, phrases, or truths, even if he does not know the truth itself.
+Additionally, Xanthous always knows each creature's vulneravilities or least developed areas.
+
+- **Aura of Devotion**: Any creature that starts its turn within 15 feet of Xanthous must succeed on a DC 24 Wisdom saving throw or be affected by the *Charm Person* spell until the end of its next turn. A creature can only be affected by this once every minute.
+
+- **Legendary Resistance (3/Day)**: If Xanthous fails a saving throw, it can choose to succeed instead.
+
+### Poison of the mind
+
+Xanthous's very pressence causes adverse effects. If a creature interacts with Xanthous in any way, such as speaking, touching, or being struck by him in any way, they must succeed on a DC13 Wisdom saving throw, or be affected by one of the following curse - illnesses. Characters immune to sickness and curses ignore this feature, and take 1d6 psychic damage instead.
+
+| **Roll** | **Effect**                                                         |
+|----------|--------------------------------------------------------------------|
+| 0~5      | **Memory Erosion**: The affected individual forgets a crucial piece of information, suffering a -2 penalty on Intelligence checks. |
+| 6~10     | **Self-Hatred**: The individuals gains the impulse to hurt themselves. Their hit die pool goes down by 1, of the largest hit die variety the character has. |
+| 11~15    | **Fleeting Triumph**: Their next roll of a d20 becomes a natural 20 without rolling. Five next rolls after that, are rolled with disadvantage. |
+| 16~20    | **Pig's tongue**: One of the creatures languages is replaced by Pigspeak, an useless language to communicate simple ideas with pigs. |
+| 21~25    | **Loss of coordination**: They lose a part of their subconsciouss. Everytime an attack roll lands on a "1", they hit themselves instead. |
+| 26~30    | **Paranoia of Betrayal**: Gain disadvantage on Persuasion, Insight and Animal handling checks, additionally, cannot be affected by the help action. |
+| 31~35    | **Chronic Regret**: The individual suffers a -1 penalty on Wisdom saving throws as they are distracted by their past decisions. |
+| 36~40    | **Compulsive Rituals**: Must perform a specific action before taking a long or short rest. Failure to do so results in exhaustion. |
+| 41~45    | **Muscle Memory Loss**: The creatures mind-muscle connection becomes less stable, their strength score drops by two. |
+| 46~50    | **Sulfurous Thoughts**: They become obsessed with sulfur, and must ingest at least one portion of it once a day or suffer a level of exhaustion. Ingesting sulfur poisons them. |
+| 51~55    | **Obsessive Comparison**: They develop a -1 penalty to all ability checks, believing they can never measure up to others. |
+| 56~60    | **Temporal Displacement**: They lose their sense of time, resulting in disadvantage to initiative rolls as they struggle to react. |
+| 61~65    | **Loss of Recall**: They become disoriented, suffering disadvantage on Intelligence saving throws and Insight checks. |
+| 66~70    | **Extreme Procrastination**: They cannot take the Use an Object action unless they succeed on a Wisdom saving throw (DC 12). |
+| 71~75    | **Invasive Memories**: All critical hits must be confirmed now. |
+| 76~80    | **Impassivebody**: Their very bodies become preoccupied with thoughts of the Pig, They suffer a -2 penalty to their Constition score. |
+| 81~85    | **Twitching memories**: They become increasingly twitchy, and they suffer a -2 penalty to Dexterity. |
+| 86~90    | **Cognitive Dissonance**: They suffer a -2 penalty to their Wisdom score, as their brain becomes obsessed with conflicting feelings about the Pig. |
+| 91~95    | **Curse of Narcissus**: They take a -2 penalty to their Charisma score saving throws as they become increasingly self-absorbed. |
+| 96~98   | **Paralysis of Choice**: Cannot take reactions and must roll a d6 at the start of their turn; on a roll of 1-3, they must skip their action. |
+| 99     | **Great Memory Replacement**: The affected individual has a large portion of their memory replaced by visions of Xanthous's grinning sulfur pig, losing proficiency in one skill, chosen by the player, one weapon, chosen by the player, one tool, chosen by the player, and forgetting a single spell if they can, also chosen by the player. Additionally their Intelligence score drops by two and they become unattuned to one magic item, and are Stunned until the end of their next turn. |
+| 100 | **Annihilation of the self**: The affected individual's conscience is detached from their body, excised like an alien object. The creature gains 4 permanent levels of exhaustion. |
+
+### **Weapons:**
+
+- **Tombsteel claws**: Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 2d10 + 6 piercing damage, plus 2d6 cold damage.
+- **Tendrils**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 3d10 + 6 piercing damage.
+- **Eye Beams**: Ranged Weapon Attack: +12 to hit, reach 60/120 ft., one target. Hit: 2d12 + 4 radiant damage.
+
+---
+
+### **Actions**
+  
+  **Multiattack**: Xanthous strikes four times, once with a claw, twice with his tendrils, and once with his Eye Beams.
+
+  **Twinned spellcasting (5/day)**: Xanthous can cast twinned spells 5 times a day, using the **Twinned Spell** metamagic.
+
+---
+
+### **Bonus Actions**
+
+  **Eternal change**: as a bonus action, xanthous can regain a level 1 or 2 spell slot.
+
+  **Mind wraps** as a bonus action, xanthous can grab (Athletics contest) a creature and grapple them. Xanthous can grab up to 4 creatures this way. Xanthous must succeed on a Concentration
+
+---
+
+### **Lair Actions**
+
+  **First cross\Second Cross**: Xanthous projects a 45 degree cross that's 15 feet wide and 200 feet long. The cross is made of egg-shaped **acid\cold** bombs. These count as difficult terrain, and explode on initiative count 1, losing ties. When they explode, each creature in the area must succeed on a DC 24 dexterity saving throw, or take 6d6 damage of the corresponding type, and fall prone. These count as separate lair actions
+
+---
+
+### **Legendary Actions (5)**
+
+**Awaken Angel**:
+
+One of Xanthous's four Angel-appendages drops from their shell, tethered to it by a 60ft long chord. Angels count as invocations and take turns after Xanthous.
+
+**Enact Angelical Will (2)**:
+
+as a legendary action, the Awakened Angel takes a turn.
+
+**Loving Embrace of the Miracle**:
+
+If a creature is directly below Xanthous, it must succeed on a DC19 wisdom saving throw, regarless if Xanthous is currently weakened or not. If the creature fails, Xanthous assumes total control of it until the end of their next turn.
+
+**Pure Radiance** (Recharge 5-6):
+
+*Xanthous emits a pulse of psychic energy in a 60-foot cone.*
+
+Each creature in that area must make a Wisdom saving throw (DC 24). On a failed save, a creature takes 3d10 psychic damage, and 3d10 radiant damage and is charmed by Xanthous for 1 minute. While charmed in this way, the creature regards Xanthous as a trusted friend to be heeded and protected. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+On a successful save, a creature takes half as much damage and is not charmed.
+
+### **Spellcasting**
+
+ Xanthous is a 20th-level spellcaster. His spellcasting ability is Charisma (spell save DC 24, +11 to hit with spell attacks). He has the following spells prepared:
+
+#### **Cantrips (at will)**
+
+- **Poison Spray**: A creature must succeed on a Constitution saving throw or take 4d12 poison damage.
+- **Eldritch Blast**: Five beams of crackling energy shoots toward a target, dealing 1d10 force damage, and pushing the target back 10 feet.
+- **Minor Illusion**: Create a sound or an image of an object within range.
+
+#### **1st Level (4 slots)**
+
+- **Silvery Barbs**: When a creature within 60 feet makes an attack roll, ability check, or saving throw, you can force it to reroll the die and take the lower result. One creature of your choice within 60 feet gains advantage on their next attack roll, ability check, or saving throw.
+- **Shield**: An invisible barrier of magical force appears and protects you, granting a +5 bonus to AC until the start of your next turn.
+- **Grease**: A slick grease covers the ground in a 10-foot square; creatures must succeed on a Dexterity saving throw or fall prone.
+
+#### **2nd Level (3 slots)**
+
+- **Acid Arrow**: A target must succeed on a Dexterity saving throw or take 2d4 acid damage on a hit, and 2d4 acid damage at the end of its next turn.
+- **Hold Person**: Paralyze a humanoid for up to 1 minute; the target can repeat the saving throw at the end of each of its turns.
+- **Misty Step**: Teleport up to 30 feet to an unoccupied space you can see.
+
+#### **3rd Level (3 slots)**
+
+- **Fear**: A 30-foot cone of fear; creatures must succeed on a Wisdom saving throw or be frightened for the duration.
+- **Stinking Cloud**: Create a cloud of foul gas that requires a Constitution saving throw or the target becomes poisoned.
+- **Noxious Cloud**: Create a cloud that deals 4d8 poison damage to creatures inside and requires a Constitution saving throw to resist.
+
+#### **4th Level (3 slots)**
+
+- **Phantasmal Killer**: Create an illusory creature that only the target can see; it must succeed on a Wisdom saving throw or take 4d10 psychic damage.
+- **Greater Invisibility**: Xanthous turns invisible for the duration, or until he attacks or casts a spell.
+- **Phantasmal Force**: Create an illusory object, creature, or force that affects the target's mind, dealing psychic damage based on its reactions.
+
+#### **5th Level (2 slots)**
+
+- **Cloudkill**: Create a cloud of poison that moves away from Xanthous, causing creatures within to make a Constitution saving throw or take 5d8 poison damage.
+- **Dominate Person**: Attempt to control a humanoid, who must succeed on a Wisdom saving throw or be charmed.
+- **Enervation**: A target must succeed on a Constitution saving throw or take 8d8 necrotic damage and have its speed halved until the end of its next turn.
+
+#### **6th Level (1 slot)**
+
+- **Acid Fog**: Create a cloud of acid that deals 2d6 acid damage to creatures inside it at the start of their turns.
+- **Acid Wave**: Create a wave of acid that deals 5d10 acid damage to all creatures in a 30-foot line.
+
+#### **7th Level (1 slot)**
+
+- **Psychic Scream**: Each creature of Xanthous’s choice within a 90-foot radius must succeed on an Intelligence saving throw or take 10d6 psychic damage and be incapacitated.
+- **Power Word Pain**: Choose one creature you can see; it takes 5d10 psychic damage and is incapacitated until the end of its next turn.
+
+#### **8th Level (1 slot)**
+
+- **Mind Blank**: The target is immune to psychic damage and can’t be targeted by any divination magic or perceived through magical scrying sensors.
+- **Incendiary Cloud**: Create a cloud of fire that deals 5d10 fire damage to creatures within the area and ignites them.
+
+#### **9th Level (1 slot)**
+
+- **Foresight**: Grants a creature the ability to see into the immediate future, giving it advantage on attack rolls, ability checks, and saving throws.
+- **Meteor Swarm**: A rain of meteors strikes from the sky in a 40-foot radius, dealing 20d6 fire damage and 20d6 bludgeoning damage in a 40-foot radius, with a Dexterity saving throw for half damage.
+- **Psychic Crush**: Target one creature; if they fail a Wisdom saving throw, they take 12d10 psychic damage and are stunned until the end of their next turn.
+
+-----
+
+## Angels
+
+---
+
+### **Angel of the Blazing Blade**
+
+![XanthousAngel3](../../../Images/XanthousAngel3.jpg)
+
+  *Medium Aberration, Lawful Evil*
+
+- **Armor Class**: 18 (natural armor)
+- **Hit Points**: 725 (shared with Xanthous), dies at 120HP
+- **Speed**: 30 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 20 (+5) | 18 (+4) | 15 (+2) | 22 (+6) | 20 (+5) |
+
+**Saving Throws**: Str +8, Dex +9, Wis +10, Cha +9  
+**Skills**: Athletics +8, Insight +10, Perception +10, Persuasion +9  
+**Damage Resistances**: Radiant;  
+**Condition Immunities**: Charmed, Frightened  
+**Senses**: Darkvision 60 ft., passive Perception 20  
+**Languages**: All, Telepathy 120 ft.  
+**Challenge**: 9 (5,000 XP)  
+
+**Traits**:
+
+- **Divine Aura**: All creatures within 10 feet of the angel take 5 radiant damage at the start of their turn.
+- **Warding Shield**: The angel can use its reaction to impose disadvantage on an attack roll made against a creature within 5 feet of it.
+
+**Actions**:
+
+- **Multiattack**: The angel makes two attacks with its **Blazing Blade**.
+
+- **Blazing Blade**: *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. *Hit*: 15 (2d10 + 4) radiant damage.
+
+---
+
+### **Angel of the Seven Wings**
+
+![XanthousAngel1](../../../Images/XanthousAngel1.jpg)
+
+*Medium Aberration, Lawful Evil*
+
+- **Armor Class**: 17 (natural armor)
+- **Hit Points**: 725 (shared with Xanthous), dies at 120HP
+- **Speed**: 30 ft., fly 90 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 22 (+6) | 20 (+5) | 14 (+2) | 24 (+7) | 18 (+4) |
+
+**Saving Throws**: Dex +12, Con +11, Wis +14, Cha +10  
+**Skills**: Acrobatics +12, Insight +14, Perception +14  
+**Damage Resistances**: Psychic;
+**Condition Immunities**: Charmed, Frightened  
+**Senses**: Darkvision 60 ft., passive Perception 24  
+**Languages**: All, Telepathy 120 ft.  
+**Challenge**: 9 (5,000 XP)  
+
+**Traits**:
+
+- **Sevenfold Wings**: The angel can fly up to 90 feet, granting it advantage on Dexterity saving throws while in flight.
+- **Ethereal Shroud**: As a bonus action, it can become incorporeal until the start of its next turn, gaining resistance to all damage and becoming invisible.
+
+**Actions**:
+
+- **Wing Slash**: *Melee Weapon Attack*: +12 to hit, reach 10 ft., one target. *Hit*: 18 (2d12 + 6) slashing damage.
+
+---
+
+### **Angel of Tombsteel Frame**
+
+![XanthousAngel2](../../../Images/XanthousAngel2.jpg)
+
+*Medium Aberration, Lawful Evil*
+
+- **Armor Class**: 20 (natural armor)
+- **Hit Points**: 725 (shared with Xanthous), dies at 120HP
+- **Speed**: 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 14 (+2) | 20 (+5) | 12 (+1) | 18 (+4) | 16 (+3) |
+
+**Saving Throws**: Str +12, Con +11, Wis +10, Cha +9  
+**Skills**: Intimidation +9, Perception +10, Religion +7  
+**Damage Resistances**: Cold; Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks  
+**Condition Immunities**: Charmed, Frightened  
+**Senses**: Darkvision 60 ft., passive Perception 20  
+**Languages**: All, Telepathy 120 ft.  
+**Challenge**: 9 (5,000 XP)  
+
+**Traits**:
+
+- **Deathly Aura**: Creatures within 10 feet take 5 necrotic damage at the start of their turn.
+
+**Actions**:
+
+- **Tombsteel Claws**: *Melee Weapon Attack*: +12 to hit, reach 5 ft., one target. *Hit*: 25 (3d10 + 6) cold damage.
+
+**Reactions**:
+
+- **Riposte**: figher riposte.
+
+---
+
+### **Angel of Eternal Slumber**
+
+![XanthousAngel](../../../Images/XanthousAngel.jpg)
+
+*Medium Aberration, Lawful Evil*
+
+- **Armor Class**: 17 (natural armor)
+- **Hit Points**: 725 (shared with Xanthous), dies at 120HP
+- **Speed**: 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 14 (+2) | 18 (+4) | 16 (+3) | 20 (+5) | 22 (+6) | 20 (+5) |
+
+**Saving Throws**: Dex +10, Wis +12, Cha +11  
+**Skills**: Arcana +11, Insight +12, Stealth +10  
+**Condition Immunities**: Charmed, Frightened, Paralyzed  
+**Senses**: Darkvision 60 ft., passive Perception 22  
+**Languages**: All, Telepathy 120 ft.  
+**Challenge**: 9 (5,000 XP)  
+
+**Traits**:
+
+- **Aura of Somnolence**: Creatures within 10 feet must succeed on a DC 24 Wisdom saving throw or be affected by the *Sleep* spell (as if cast at 5th level).
+- **Song of invigoration** As a bonus action, the angel may give 10 temporary hit points to any creature that can hear it within 60ft.
+
+**Actions**:
+
+- **Dreaming Touch**: *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. *Hit*: 18 (2d10 + 4) psychic damage and the target must make a DC 24 Wisdom saving throw or be incapacitated until the end of its next turn.
