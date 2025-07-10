@@ -1,4 +1,4 @@
-### **Shield of Spell Deflecting +1**
+# Shield of Spell Deflecting +1
 
 _Armor (shield), very rare (requires attunement)_
 
@@ -18,4 +18,4 @@ The shield **regains 1d4 charges** each day at **dawn**. If you expend the last 
 
 ---
 
-#### **Weight:** 6 lb
+## Weight: 6 lb

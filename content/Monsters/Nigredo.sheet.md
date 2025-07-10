@@ -1,11 +1,11 @@
-### Nigredo, Lord of Flies and Rot
+# Nigredo, Lord of Flies and Rot
 
 _Gargantuan fiend (Hiisi), Lawful Evil_  
 **Challenge:** 21 **Proficiency Bonus:** +7
 
 ---
 
-#### Basic Stats
+## Basic Stats
 
 | AC  | HP                | Speed                                                                     |
 | --- | ----------------- | ------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ _Gargantuan fiend (Hiisi), Lawful Evil_
 
 ---
 
-#### Traits
+## Traits
 
 **Endless Form.**  
 Nigredo’s lower body is an endlessly long, winding mass extending as a 120-ft stretch of terrain. As a bonus action, he shifts up to 60 ft. of this terrain. It’s difficult terrain for others and immune to damage.
@@ -41,7 +41,7 @@ In direct sunlight, Nigredo has disadvantage on attacks and saving throws. If re
 
 ---
 
-#### Actions
+## Actions
 
 **Multiattack.**  
 Nigredo makes three **Impale Drive** attacks, or two plus **Flyburst** or **Exhale the Rot**.
@@ -65,7 +65,7 @@ Rotting spores fall in a 120-ft radius. Creatures make three DC 22 DEX saves wit
 
 ---
 
-#### Legendary Actions (3–6 per round)
+## Legendary Actions (3–6 per round)
 
 - **Drill Reposition.** Move freely through Endless Form terrain, reappearing anywhere along its length.
 - **Crush with Mass.** Creature touching Endless Form makes a DC 22 DEX save or takes 6d10 bludgeoning damage and is knocked prone.
@@ -74,7 +74,7 @@ Rotting spores fall in a 120-ft radius. Creatures make three DC 22 DEX saves wit
 
 ---
 
-#### Spellcasting
+## Spellcasting
 
 Nigredo is an INT caster (DC 22, +14 to hit):
 

@@ -26,25 +26,25 @@
 
 ## 💰 **Major Events & Activities**
 
-### **1. The Mercenary’s Reward**
+# **1. The Mercenary’s Reward**
 
 - The **Borossan military** formally **rewarded the party** for their efforts in Dhanas.
 - Each member **received 2,000 Daggers** as payment.
 - They were granted **20 days of free time** before their next assignment.
 
-### **2. An Invitation to the Palace**
+# **2. An Invitation to the Palace**
 
 - The **Borossan royal family** extended an invitation to a **private ball** at the **royal palace**.
 - The event will **officially knight the party**, making them **honorary Borossan knights**.
 - This title is **rare**, as Borossa **lacks a formal military**, relying on **mercenaries and militias**.
 
-### **3. Preparations for the Ball**
+# **3. Preparations for the Ball**
 
 - The party purchased **formal attire**, each spending different amounts:
   - **Lystig** commissioned an **extravagant custom blue silken suit** (1,500 Daggers).
   - The others **opted for high-quality but practical attire**.
 
-### **4. Sigus' New Mount: Lacuna the Kelpybara**
+# **4. Sigus' New Mount: Lacuna the Kelpybara**
 
 - Sigus visited **Buholingo**, who gifted him a **Wand of Sunlight**, a **stolen Brumean relic**.
 - **Searching for a mount**, he was led to an **exotic smuggler** beneath the **Grimalkin mansion**.
@@ -53,7 +53,7 @@
 - The smuggler offered a discount **if Sigus spent a night with the beast**—which he did.
 - **Sigus purchased Lacuna for 2,000 Daggers**.
 
-### **5. Ukko’s Underground Gladiatorial Invitation**
+# **5. Ukko’s Underground Gladiatorial Invitation**
 
 - **Petunia (Silent One tailor)** helped **Ukko track Jaeger** via **seekersilk threading**.
 - After a **brief scuffle with mafiosi**, Jaeger **granted Ukko an invitation** to the **Courier Guild’s underground gladiatorial tournament**.
@@ -61,7 +61,7 @@
 - **The tournament requires teams of two.**
 - **Ukko convinced Niccolo to enlist as his partner.**
 
-### **6. Lystig’s Research on the Golden Path**
+# **6. Lystig’s Research on the Golden Path**
 
 - Lystig spent time at **Anabelle and Ludriq’s place**, poring over **artifacts and texts**.
 - He attempted to **unravel the connection** between:

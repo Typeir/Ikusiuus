@@ -27,7 +27,7 @@ _Gargantuan Aberration, Lawful Evil_
 
 ---
 
-**Traits**:
+## Traits:
 
 - **Angelical Link**: Xanthous can summon angels with which he shares a health pool. Anytime an angel takes damage, xanthous takes an equal ammount of indirect damage.
 
@@ -71,7 +71,7 @@ Xanthous's very pressence causes adverse effects. If a creature interacts with X
 | 99       | **Great Memory Replacement**: The affected individual has a large portion of their memory replaced by visions of Xanthous's grinning sulfur pig, losing proficiency in one skill, chosen by the player, one weapon, chosen by the player, one tool, chosen by the player, and forgetting a single spell if they can, also chosen by the player. Additionally their Intelligence score drops by two and they become unattuned to one magic item, and are Stunned until the end of their next turn. |
 | 100      | **Annihilation of the self**: The affected individual's conscience is detached from their body, excised like an alien object. The creature gains 4 permanent levels of exhaustion.                                                                                                                                                                                                                                                                                                                |
 
-### **Weapons:**
+# **Weapons:**
 
 - **Tombsteel claws**: Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 2d10 + 6 piercing damage, plus 2d6 cold damage.
 - **Tendrils**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 3d10 + 6 piercing damage.
@@ -79,7 +79,7 @@ Xanthous's very pressence causes adverse effects. If a creature interacts with X
 
 ---
 
-### **Actions**
+# Actions
 
 **Multiattack**: Xanthous strikes four times, once with a claw, twice with his tendrils, and once with his Eye Beams.
 
@@ -87,7 +87,7 @@ Xanthous's very pressence causes adverse effects. If a creature interacts with X
 
 ---
 
-### **Bonus Actions**
+# **Bonus Actions**
 
 **Eternal change**: as a bonus action, xanthous can regain a level 1 or 2 spell slot.
 
@@ -95,13 +95,13 @@ Xanthous's very pressence causes adverse effects. If a creature interacts with X
 
 ---
 
-### **Lair Actions**
+# **Lair Actions**
 
 **First cross\Second Cross**: Xanthous projects a 45 degree cross that's 15 feet wide and 200 feet long. The cross is made of egg-shaped **acid\cold** bombs. These count as difficult terrain, and explode on initiative count 1, losing ties. When they explode, each creature in the area must succeed on a DC 24 dexterity saving throw, or take 6d6 damage of the corresponding type, and fall prone. These count as separate lair actions
 
 ---
 
-### **Legendary Actions (5)**
+# **Legendary Actions (5)**
 
 **Awaken Angel**:
 
@@ -123,62 +123,62 @@ Each creature in that area must make a Wisdom saving throw (DC 24). On a failed 
 
 On a successful save, a creature takes half as much damage and is not charmed.
 
-### **Spellcasting**
+# **Spellcasting**
 
 Xanthous is a 20th-level spellcaster. His spellcasting ability is Charisma (spell save DC 24, +11 to hit with spell attacks). He has the following spells prepared:
 
-#### **Cantrips (at will)**
+## **Cantrips (at will)**
 
 - **Poison Spray**: A creature must succeed on a Constitution saving throw or take 4d12 poison damage.
 - **Eldritch Blast**: Five beams of crackling energy shoots toward a target, dealing 1d10 force damage, and pushing the target back 10 feet.
 - **Minor Illusion**: Create a sound or an image of an object within range.
 
-#### **1st Level (4 slots)**
+## **1st Level (4 slots)**
 
 - **Silvery Barbs**: When a creature within 60 feet makes an attack roll, ability check, or saving throw, you can force it to reroll the die and take the lower result. One creature of your choice within 60 feet gains advantage on their next attack roll, ability check, or saving throw.
 - **Shield**: An invisible barrier of magical force appears and protects you, granting a +5 bonus to AC until the start of your next turn.
 - **Grease**: A slick grease covers the ground in a 10-foot square; creatures must succeed on a Dexterity saving throw or fall prone.
 
-#### **2nd Level (3 slots)**
+## **2nd Level (3 slots)**
 
 - **Acid Arrow**: A target must succeed on a Dexterity saving throw or take 2d4 acid damage on a hit, and 2d4 acid damage at the end of its next turn.
 - **Hold Person**: Paralyze a humanoid for up to 1 minute; the target can repeat the saving throw at the end of each of its turns.
 - **Misty Step**: Teleport up to 30 feet to an unoccupied space you can see.
 
-#### **3rd Level (3 slots)**
+## **3rd Level (3 slots)**
 
 - **Fear**: A 30-foot cone of fear; creatures must succeed on a Wisdom saving throw or be frightened for the duration.
 - **Stinking Cloud**: Create a cloud of foul gas that requires a Constitution saving throw or the target becomes poisoned.
 - **Noxious Cloud**: Create a cloud that deals 4d8 poison damage to creatures inside and requires a Constitution saving throw to resist.
 
-#### **4th Level (3 slots)**
+## **4th Level (3 slots)**
 
 - **Phantasmal Killer**: Create an illusory creature that only the target can see; it must succeed on a Wisdom saving throw or take 4d10 psychic damage.
 - **Greater Invisibility**: Xanthous turns invisible for the duration, or until he attacks or casts a spell.
 - **Phantasmal Force**: Create an illusory object, creature, or force that affects the target's mind, dealing psychic damage based on its reactions.
 
-#### **5th Level (2 slots)**
+## **5th Level (2 slots)**
 
 - **Cloudkill**: Create a cloud of poison that moves away from Xanthous, causing creatures within to make a Constitution saving throw or take 5d8 poison damage.
 - **Dominate Person**: Attempt to control a humanoid, who must succeed on a Wisdom saving throw or be charmed.
 - **Enervation**: A target must succeed on a Constitution saving throw or take 8d8 necrotic damage and have its speed halved until the end of its next turn.
 
-#### **6th Level (1 slot)**
+## **6th Level (1 slot)**
 
 - **Acid Fog**: Create a cloud of acid that deals 2d6 acid damage to creatures inside it at the start of their turns.
 - **Acid Wave**: Create a wave of acid that deals 5d10 acid damage to all creatures in a 30-foot line.
 
-#### **7th Level (1 slot)**
+## **7th Level (1 slot)**
 
 - **Psychic Scream**: Each creature of Xanthous’s choice within a 90-foot radius must succeed on an Intelligence saving throw or take 10d6 psychic damage and be incapacitated.
 - **Power Word Pain**: Choose one creature you can see; it takes 5d10 psychic damage and is incapacitated until the end of its next turn.
 
-#### **8th Level (1 slot)**
+## **8th Level (1 slot)**
 
 - **Mind Blank**: The target is immune to psychic damage and can’t be targeted by any divination magic or perceived through magical scrying sensors.
 - **Incendiary Cloud**: Create a cloud of fire that deals 5d10 fire damage to creatures within the area and ignites them.
 
-#### **9th Level (1 slot)**
+## **9th Level (1 slot)**
 
 - **Foresight**: Grants a creature the ability to see into the immediate future, giving it advantage on attack rolls, ability checks, and saving throws.
 - **Meteor Swarm**: A rain of meteors strikes from the sky in a 40-foot radius, dealing 20d6 fire damage and 20d6 bludgeoning damage in a 40-foot radius, with a Dexterity saving throw for half damage.
@@ -190,7 +190,7 @@ Xanthous is a 20th-level spellcaster. His spellcasting ability is Charisma (spel
 
 ---
 
-### **Angel of the Blazing Blade**
+# **Angel of the Blazing Blade**
 
 ![XanthousAngel3](/library/images/XanthousAngel3.jpg)
 
@@ -212,12 +212,12 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-**Traits**:
+## Traits:
 
 - **Divine Aura**: All creatures within 10 feet of the angel take 5 radiant damage at the start of their turn.
 - **Warding Shield**: The angel can use its reaction to impose disadvantage on an attack roll made against a creature within 5 feet of it.
 
-**Actions**:
+## Actions:
 
 - **Multiattack**: The angel makes two attacks with its **Blazing Blade**.
 
@@ -225,7 +225,7 @@ _Medium Aberration, Lawful Evil_
 
 ---
 
-### **Angel of the Seven Wings**
+# **Angel of the Seven Wings**
 
 ![XanthousAngel1](/library/images/XanthousAngel1.jpg)
 
@@ -247,18 +247,18 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-**Traits**:
+## Traits:
 
 - **Sevenfold Wings**: The angel can fly up to 90 feet, granting it advantage on Dexterity saving throws while in flight.
 - **Ethereal Shroud**: As a bonus action, it can become incorporeal until the start of its next turn, gaining resistance to all damage and becoming invisible.
 
-**Actions**:
+## Actions:
 
 - **Wing Slash**: _Melee Weapon Attack_: +12 to hit, reach 10 ft., one target. _Hit_: 18 (2d12 + 6) slashing damage.
 
 ---
 
-### **Angel of Tombsteel Frame**
+# **Angel of Tombsteel Frame**
 
 ![XanthousAngel2](/library/images/XanthousAngel2.jpg)
 
@@ -280,11 +280,11 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-**Traits**:
+## Traits:
 
 - **Deathly Aura**: Creatures within 10 feet take 5 necrotic damage at the start of their turn.
 
-**Actions**:
+## Actions:
 
 - **Tombsteel Claws**: _Melee Weapon Attack_: +12 to hit, reach 5 ft., one target. _Hit_: 25 (3d10 + 6) cold damage.
 
@@ -294,7 +294,7 @@ _Medium Aberration, Lawful Evil_
 
 ---
 
-### **Angel of Eternal Slumber**
+# **Angel of Eternal Slumber**
 
 ![XanthousAngel](/library/images/XanthousAngel.jpg)
 
@@ -315,11 +315,11 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-**Traits**:
+## Traits:
 
 - **Aura of Somnolence**: Creatures within 10 feet must succeed on a DC 24 Wisdom saving throw or be affected by the _Sleep_ spell (as if cast at 5th level).
 - **Song of invigoration** As a bonus action, the angel may give 10 temporary hit points to any creature that can hear it within 60ft.
 
-**Actions**:
+## Actions:
 
 - **Dreaming Touch**: _Melee Weapon Attack_: +10 to hit, reach 5 ft., one target. _Hit_: 18 (2d10 + 4) psychic damage and the target must make a DC 24 Wisdom saving throw or be incapacitated until the end of its next turn.

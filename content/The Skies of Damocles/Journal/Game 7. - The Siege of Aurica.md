@@ -20,7 +20,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. The Setup and Initial Assault**
+# **1. The Setup and Initial Assault**
 
 - **Lystig infiltrated the barracks** and **improvised an explosive**, using:
 
@@ -32,25 +32,25 @@
 - **Ukko set fire to the stables**, causing further confusion.
 - **Lystig detonated his bomb**, **killing 35 militiamen instantly**—Brumean conscripts with barely **12HP each**.
 
-### **2. Ukko vs. Carranza**
+# **2. Ukko vs. Carranza**
 
 - Ukko **engaged Carranza**, using **dishonorable tactics**—
   - **Repeatedly knocking him down the spiraling staircase**.
   - **Carranza suffered a humiliating defeat** and was **slain by Ukko**.
 
-### **3. Narvaez’s Rampage**
+# **3. Narvaez’s Rampage**
 
 - **Narvaez focused on Sigus**, nearly **killing him in a single throw** of one of his **modified greatswords**.
 - After **Carranza’s death**, Narvaez entered a **berserker rage**,
   - **Lightning sparked from every sword he threw**.
   - **Sigus landed a well-aimed Eldritch Blast**, knocking Narvaez off the castle to his demise.
 
-### **4. Niccolo and the Sunglobe**
+# **4. Niccolo and the Sunglobe**
 
 - Niccolo **completed the disassembly of the Sunglobe** and packed it in his bag.
 - The **artifact resisted being dismantled**, constantly **trying to reassemble itself**.
 
-### **5. The Golden Rider’s Intervention**
+# **5. The Golden Rider’s Intervention**
 
 - **The commander cornered Lystig**, nearly **killing him**.
 - **Lystig realized his alchemy was insufficient**, deciding to **fully commit to artificery**.
@@ -61,7 +61,7 @@
 - The **commander whistled for reinforcements**, summoning **the Golden Claspers**.
 - He **retreated on the back of the beasts**, escaping into the night.
 
-### **6. The Collapse of Aurica**
+# **6. The Collapse of Aurica**
 
 - The **party attempted to flee**, sensing they would soon be overrun.
 - Sigus used **his Feather Fall scroll** (scribed last session).

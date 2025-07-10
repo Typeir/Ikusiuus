@@ -1,19 +1,15 @@
-## Blood Memory Ludwig
+# Blood Memory Ludwig
 
 ![LudwigFront](/library/images/LudwigFront.JPG)
 ![LudwigSide](/library/images/LudwigSide.JPG)
 
 _Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
 
-### Vital Stats
+| **AC** | **HP** | **Speed** |
+| :----: | :----: | :-------: |
+|   20   |  352   |  40 ft.   |
 
-| AC  | HP  | Speed  | Proficiency Bonus |
-| :-: | :-: | :----: | :---------------: |
-| 20  | 352 | 40 ft. |        +6         |
-
-### Attributes
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 24 (+7) | 14 (+2) | 22 (+6) | 10 (+0) | 18 (+4) | 12 (+1) |
 
@@ -26,7 +22,7 @@ _Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
 
 ---
 
-### Traits
+## Traits
 
 **Bloodboil Aura.** Constant. Creatures that start their turn within 15 ft. take **1d6 fire damage**, unavoidable. This ignores resistance and immunity.
 
@@ -38,7 +34,7 @@ _Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
 
 ---
 
-### Bloodrage (1/Short Rest)
+## Bloodrage (1/Short Rest)
 
 As a **bonus action**, Ludwig enters a divine fury for **5 rounds** (30 seconds). While active:
 
@@ -52,7 +48,7 @@ As a **bonus action**, Ludwig enters a divine fury for **5 rounds** (30 seconds)
 
 ---
 
-### Spellcasting
+## Spellcasting
 
 Ludwig is a 10th-level spellcaster. Constitution is his spellcasting ability (Spell Save DC 19).
 
@@ -66,7 +62,7 @@ Ludwig may replace a weapon attack with a **cantrip**.
 
 ---
 
-### Actions
+## Actions
 
 **Multiattack.** Ludwig makes **three attacks**, which can be _Mooncleaver_, _Gore Hurl_, _Bloodspire Growth_, or a cantrip. While in Bloodrage, he makes **four**.
 
@@ -79,7 +75,7 @@ _Hit:_ 2d10 + 10 slashing + 2d6 cold damage, plus **2d6 fire** if Bloodrage is a
 
 ---
 
-### Battlefield Action: Grand Mooncleave (Recharge 6)
+## Battlefield Action: Grand Mooncleave (Recharge 6)
 
 **Declare (Turn 1):** Ludwig channels apocalyptic power into Mooncleaver.  
 **Resolve (Turn 2):** Creatures in a **600-ft.-long**, **40-ft.-wide**, **80-ft.-tall** line must make a **DC 20 Dexterity saving throw**.
@@ -89,7 +85,7 @@ _Hit:_ 2d10 + 10 slashing + 2d6 cold damage, plus **2d6 fire** if Bloodrage is a
 
 ---
 
-### Legendary Actions (3/round)
+## Legendary Actions (3/round)
 
 - **Attack.** Ludwig makes one _Mooncleaver_ attack.
 - **Dragstep.** Ludwig moves up to 20 ft. and attempts to **grapple each creature** he moves through. Grappled creatures are **Restrained by blood chains**, but his hands remain free.

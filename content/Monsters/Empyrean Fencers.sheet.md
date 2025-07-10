@@ -1,4 +1,4 @@
-### **Fencer of the Quiver, Athanasios**
+# Fencer of the Quiver, Athanasios
 
 ![Athanasios](/library/images/Athanasios.png)
 
@@ -23,7 +23,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Mighty Strength**: The Fencer can wield heavy weapons as if they had the light property.
 - **Legendary Resistance (2/Day)**: If the Fencer fails a saving throw, they can choose to succeed instead.
@@ -33,7 +33,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The Fencer makes two attacks with their **Thrown Greatswords**.
 
@@ -44,7 +44,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-#### **Legendary Actions**
+## Legendary Actions
 
 The Fencer of the Quiver can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. The Fencer regains spent legendary actions at the start of their turn.
 
@@ -55,7 +55,7 @@ The Fencer of the Quiver can take 2 legendary actions, choosing from the options
 - **Move**: (Costs 1 Action) The Fencer moves up to their speed without provoking opportunity attacks.
 - **Hurl to Partner** (Costs 2 Actions): The Fencer hurls a greatsword toward their partner, the **Fencer of the Épée**. The Fencer of the Épée may use their reaction to automatically deflect the greatsword and send it flying toward a target within 30 feet, forcing the target to make a DC 17 Dexterity saving throw or take 2d8 slashing damage and 2d6 thunder damage. The sword breaks after this deflection.
 
-### **Fencer of the Épée, Hoplomachia**
+# Fencer of the Épée, Hoplomachia
 
 ![Hoplomachia](/library/images/Hoplomachia.png)
 
@@ -80,7 +80,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Deflect**: When a melee or ranged attack is made against the Fencer, but before the result is known, the Fencer can use their reaction to force the attacker to reroll. On a failed melee attack against them, they can make a retaliatory attack and step 5 ft. away without provoking opportunity attacks.
 - **Fatebound Fencers**: While within 60 feet of their partner (Fencer of the Quiver), the Fencer ignores the negative effects of **Mighty Armament** and gains immunity to damage from thrown weapons.
@@ -88,7 +88,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The Fencer makes two attacks with their **Great Épée**.
 
@@ -97,7 +97,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 ---
 
-**Legendary Actions**:
+## Legendary Actions
 
 The Fencer of the Épée can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. The Fencer regains spent legendary actions at the start of their turn.
 

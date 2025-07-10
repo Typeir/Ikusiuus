@@ -1,4 +1,4 @@
-### **Bag o’ Limbs**
+# Bag o’ Limbs
 
 _Warhammer +1_  
 _Wondrous weapon, very rare (requires attunement)_
@@ -7,7 +7,7 @@ A disgusting, oversized sack of **preserved demon limbs**, grafted and stitched 
 
 ---
 
-#### **Weapon Properties:**
+## Weapon Properties
 
 - **Type:** Warhammer (Martial, Heavy, Versatile)
 - **Damage:** 1d10 (1d8) bludgeoning
@@ -18,7 +18,7 @@ A disgusting, oversized sack of **preserved demon limbs**, grafted and stitched 
 
 ---
 
-#### **Elemental Havoc**
+## Elemental Havoc
 
 Whenever you hit a creature with **Bag o' Limbs**, roll a **d6** to determine a random elemental surge from the stored limbs. The target takes an additional **1d8 damage** of the rolled type, if the die lands on a 6, then rol two die and repeat, up to PB times:
 
@@ -32,9 +32,9 @@ Whenever you hit a creature with **Bag o' Limbs**, roll a **d6** to determine a 
 
 ---
 
-#### **Mastery Skill – Limb Lash**
+## Mastery Skill – Limb Lash
 
-_(1/Short Rest, or PB/Short Rest if wielder has Mastery with Greathammers)_  
+_(1/Short Rest, or 3/Short Rest if wielder has Mastery with Greathammers)_  
 When you hit a creature with this weapon, you can activate one of the bound limbs to lash out wildly at nearby enemies.
 
 - All creatures of your choice within **10 feet** of the target must make a **Dexterity saving throw (DC = 8 + Proficiency + STR modifier)** or take **2d6 bludgeoning + 2d8 random elemental damage** (roll on the table above).
@@ -43,6 +43,6 @@ When you hit a creature with this weapon, you can activate one of the bound limb
 
 ---
 
-#### **Flavor Text:**
+## Flavor Text
 
 This thing **reeks of incense, bile, and curdled demon sap**. Every time it moves, something squishes inside — sometimes it’s a knuckle, sometimes a lizard-like tongue. It’s a weapon **only a true Archivist’s agent** could wield with pride.

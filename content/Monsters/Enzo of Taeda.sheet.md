@@ -1,4 +1,4 @@
-### **Enzo, Duke of Taeda**
+# Enzo, Duke of Taeda
 
 _Medium Humanoid (Human), Lawful Neutral_
 
@@ -21,7 +21,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Puppet Master**: The Duke can use his action to manipulate a creature within 60 feet that he can see, forcing it to make a Wisdom saving throw (DC 19). On a failed save, the creature must use its reaction to move up to half its speed and make one melee attack against a target of the Duke’s choice.
 - **Regeneration**: The Duke regains 15 hit points at the start of his turn. If he takes radiant damage, this trait doesn’t function at the start of his next turn.
@@ -30,7 +30,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The Duke makes two attacks with his **Shadow Dagger**.
 

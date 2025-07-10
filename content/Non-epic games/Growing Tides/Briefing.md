@@ -17,7 +17,7 @@ He glanced around the room, ensuring he had everyone’s attention. “Uh, That 
 
 ---
 
-### **Assigned Tasks:**
+# **Assigned Tasks:**
 
 - **Inspect Lower Drills:**
 

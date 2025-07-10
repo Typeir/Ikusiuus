@@ -20,13 +20,13 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1️⃣ Street Ambush: The Pit Octopus**
+# **1️⃣ Street Ambush: The Pit Octopus**
 
 - **Enemy:** **A small Borossan Pit Octopus**.
 - **Location:** **Borossa's backstreets**, en route to **The Seven Rats Inn**.
 - **Outcome:** **Sigus was ambushed but managed to kill the creature**. The party moved on.
 
-### **2️⃣ Assassination Attempt at The Seven Rats Inn**
+# **2️⃣ Assassination Attempt at The Seven Rats Inn**
 
 - **Enemies:** **Two Brumean Assassins**.
 - **Event:**
@@ -36,7 +36,7 @@
   - After **one round of combat**, the assassins **mutated into flesh abominations**.
 - **Outcome:** The party **defeated the abominations**, and the **innkeepers cleaned up the mess** (by **stuffing the remains into food bags**). Jaeger, now convinced of their capability, **gave them the map** to the **Grimalkin estate’s underground entrance**.
 
-### **3️⃣ Sewer Ambush: The Pit Octopuses**
+# **3️⃣ Sewer Ambush: The Pit Octopuses**
 
 - **Enemies:** **A large Borossan Pit Octopus & two smaller ones**.
 - **Location:** **Underground well entrance to the Grimalkin estate**.

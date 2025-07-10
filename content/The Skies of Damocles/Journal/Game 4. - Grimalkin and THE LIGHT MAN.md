@@ -19,14 +19,14 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1️⃣ Manse Infiltration & Bluffing the Staff**
+# **1️⃣ Manse Infiltration & Bluffing the Staff**
 
 - **Event:**
   - The party **snuck past the guards** by using **one of Lystig’s magical talking stones**, tricking them into **looking elsewhere**.
   - While sneaking through the halls, they were **discovered by a handmaid**.
   - **Sigus and Ukko convinced her** they were **hired scribes**, **avoiding confrontation**.
 
-### **2️⃣ Meeting Grimalkin Junior & Discovering the Book’s Location**
+# **2️⃣ Meeting Grimalkin Junior & Discovering the Book’s Location**
 
 - **Event:**
   - The party **encountered Grimalkin Junior**, who immediately **saw through their lies** but **did not care**.
@@ -34,7 +34,7 @@
   - Explained that **his father’s obsession** had become **a danger to himself and others**, and **hoped stealing the book** would **break the fixation**.
   - The party **located the gilded chest** behind a **hidden bookcase compartment**.
 
-### **3️⃣ The Phase Construct Battle**
+# **3️⃣ The Phase Construct Battle**
 
 - **Enemy:** **Phase Construct**, a **being of pure energy and alchemical precursor**, humanoid in form, moving with an **unnatural, dance-like grace**.
 - **Event:**

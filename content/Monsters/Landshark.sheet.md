@@ -1,4 +1,4 @@
-### **Great Landshark**
+# Great Landshark
 
 - Huge Beast, Unaligned
 
@@ -16,7 +16,7 @@
 - **Proficiency Bonus**: +3
 - **Saving Throws**: Strength +9, Constitution +5
 
-**Actions:**
+## Actions
 
 - **Multiattack**: The Landshark makes three attacks: one with its bite and two with its claws.
 

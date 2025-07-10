@@ -1,4 +1,4 @@
-# **Venomous Appendages**
+# Venomous Appendages
 
 _Natural Weapon_  
 _Finesse, Special_
@@ -7,12 +7,12 @@ This creature’s body is biologically engineered for violence. Multiple venomou
 
 ---
 
-## **Weapon Mastery:**
+## Weapon Mastery:
 
 - **Slow** _(Only available if the wielder has mastery with natural weapons)_:  
   When this weapon deals damage, the target’s **movement speed is reduced by 10 ft.** until the start of your next turn.
 
-- **Venom Pulse** _(1/Short rest, or PB/Short rest if the wielder has mastery with natural weapons)_:  
+- **Venom Pulse** _(1/Short rest, or 3/Short rest if the wielder has mastery with natural weapons)_:  
   The wielder releases a **burst of potent venom** through multiple strikes.
   - A creature hit by this attack must make a **DC (18 + Proficiency Bonus) Constitution saving throw**.
   - On a **failure**, the creature takes **6d6 poison damage** and becomes **poisoned** until the end of its next turn.
@@ -20,7 +20,7 @@ This creature’s body is biologically engineered for violence. Multiple venomou
 
 ---
 
-## **Effects:**
+## Effects:
 
 - **Magical Weapon**:
 
@@ -35,7 +35,7 @@ This creature’s body is biologically engineered for violence. Multiple venomou
 
 ---
 
-## **Weapon Properties:**
+## Weapon Properties:
 
 - **Natural (Finesse, Special)**
 - **Type:** Martial

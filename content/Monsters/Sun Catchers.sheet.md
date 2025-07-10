@@ -1,12 +1,12 @@
-# **Sun Catchers**
+# Sun Catchers
 
 ![SunCat](/library/images/SunCat.png)
 
 ---
 
-## **Sun Catcher Cub**
+## Sun Catcher Cub
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class** | **Hit Points** | **Speed** |
 | --------------- | -------------- | --------- |
@@ -21,12 +21,12 @@
 - **Challenge**: 2 (400 XP)
 - **Proficiency Bonus**: +2
 
-**Traits:**
+## Traits
 
 - **Weapons:**
   - Claws (natural weapon): (+6 to hit) 2d6 + 4 damage
 
-**Actions:**
+## Actions
 
 - **Jaws**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (3d8 + 4) Piercing damage.
 
@@ -34,9 +34,9 @@
 
 ---
 
-## **Sun Catcher Juvenile**
+## Sun Catcher Juvenile
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class** | **Hit Points** | **Speed** |
 | --------------- | -------------- | --------- |
@@ -51,7 +51,7 @@
 - **Challenge**: 4 (1,100 XP)
 - **Proficiency Bonus**: +2
 
-**Traits:**
+## Traits
 
 - **Weapons:**
 
@@ -59,7 +59,7 @@
 
 - **Tool User**: This creature may use its posterior appendages to grasp weapons and shields, but it will move at 30ft when standing on its hind legs.
 
-**Actions:**
+## Actions
 
 - **Jaws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (3d8 + 5) Piercing damage.
 
@@ -69,9 +69,9 @@
 
 ---
 
-## **Sun Catcher Elder**
+## Sun Catcher Elder
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class** | **Hit Points** | **Speed** |
 | --------------- | -------------- | --------- |
@@ -86,7 +86,7 @@
 - **Challenge**: 5 (1,800 XP)
 - **Proficiency Bonus**: +3
 
-**Traits:**
+## Traits
 
 - **Weapons:**
 
@@ -94,7 +94,7 @@
 
 - **Tool User**: This creature may use its posterior appendages to grasp weapons and shields, but it will move at 30ft when standing on its hind legs.
 
-**Actions:**
+## Actions
 
 - **Jaws**: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (4d8 + 6) Piercing damage.
 
@@ -104,9 +104,9 @@
 
 ---
 
-## **Kipinöitä** (Sun Catcher Elder)
+## Kipinöitä (Sun Catcher Elder)
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class**                  | **Hit Points** | **Speed** |
 | -------------------------------- | -------------- | --------- |
@@ -121,7 +121,7 @@
 - **Challenge**: 5 (1,800 XP)
 - **Proficiency Bonus**: +3
 
-**Traits:**
+## Traits
 
 - **Weapons:**
 
@@ -131,7 +131,7 @@
 
 - **Ironwood Staff**: 4d6 + 7, bludgeoning magical damage. Target must succeed on a DC 15 Constitution saving throw or be silenced until the end of their next turn.
 
-**Actions:**
+## Actions
 
 - **Jaws**: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (4d8 + 6) Piercing damage.
 
@@ -141,7 +141,7 @@
 
 ---
 
-### **Spellcasting:**
+**Spellcasting:**
 
 - **Cantrips:**
 

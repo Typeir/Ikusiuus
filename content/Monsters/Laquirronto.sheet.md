@@ -7,9 +7,9 @@ _Medium beast, unaligned_
 **Hit Points** 27 (5d8 + 5)  
 **Speed** 20 ft., Gallop Burst 30 ft
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
-| 12 (+1) | 12 (+1) | 13 (+1) | 2 (–4) | 10 (+0) | 5 (–3) |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 12 (+1) | 12 (+1) | 13 (+1) | 2 (–4)  | 10 (+0) | 5 (–3)  |
 
 **Skills** Stealth +2, Survival +2  
 **Senses** Darkvision 30 ft., Passive Perception 10  
@@ -19,7 +19,7 @@ _Medium beast, unaligned_
 
 ---
 
-### Traits
+## Traits
 
 **Gallop Burst.** Once per turn, the cub may burst forward up to 30 ft in a straight line. Creatures in its path must make a DC 11 Dex save or take 1d6 bludgeoning and fall prone.
 
@@ -27,7 +27,7 @@ _Medium beast, unaligned_
 
 ---
 
-### Actions
+## Actions
 
 **Headbutt.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target.  
 _Hit:_ 1d8 + 1 bludgeoning damage.
@@ -123,7 +123,7 @@ _Large beast, unaligned_
 
 ---
 
-### Traits
+## Traits
 
 **Stone shell** +10 AC from the back.
 **Shell Slam (Recharge 5–6).** 15-ft cone. DC 16 Str save or 4d10 bludgeoning + prone.  
@@ -133,7 +133,7 @@ _Large beast, unaligned_
 
 ---
 
-### Actions
+## Actions
 
 **Trample** 3d12, 18 save.
 **Shell Bash.** _+8 to hit_, 3d10 + 5 bludgeoning  

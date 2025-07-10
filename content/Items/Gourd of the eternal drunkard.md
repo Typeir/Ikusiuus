@@ -1,4 +1,4 @@
-# **Gourd of the Eternal Drunkard**
+# Gourd of the Eternal Drunkard
 
 _Wondrous item, rare (requires attunement by a Monk with the Drunken Master subclass)_
 
@@ -13,7 +13,7 @@ The gourd smells like fire, regret, and enlightenment.
 
 ---
 
-## **Effects:**
+## Effects
 
 - **Bonus Action – Drink Deep:**  
   As a bonus action, a creature can take a drink from the gourd. If the drinker is attuned and a **Drunken Master Monk**, they gain **1 level of Inebriation** (see _Scroll of the Inebriated Warrior_).
@@ -26,4 +26,4 @@ The gourd smells like fire, regret, and enlightenment.
 
 ---
 
-## **Weight:** 1 lb
+## Weight: 1 lb

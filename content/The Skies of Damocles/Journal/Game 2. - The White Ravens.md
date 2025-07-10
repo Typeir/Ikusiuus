@@ -25,7 +25,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1️⃣ Tensions in the Camp**
+# **1️⃣ Tensions in the Camp**
 
 - The **party returned to Darius**, expecting their **mercenary pay**.
 - Inside **Darius’s command tent**, they overheard an **argument**—someone accused him of **sending the party to their deaths**.
@@ -34,12 +34,12 @@
 - **Quirón, the Horse Sunborn archer**, suggested the party **abandon Darius** and **join the White Ravens** instead.
 - Just as Darius **begrudgingly agreed to fetch the pay**, the **Brumean ambush struck**.
 
-### **2️⃣ The Camp Ambush**
+# **2️⃣ The Camp Ambush**
 
 - **Dozens of Golden Claspers** swarmed the camp, their **sickly stench** filling the air.
 - **A monstrous, larger Golden Clasper**, **ridden by an old warrior in golden armor**, emerged from the fog.
 
-#### **The Golden Rider Targets Sigus**
+## **The Golden Rider Targets Sigus**
 
 - The **rider locked onto Sigus**, recognizing him as the **only Sunborn in sight**.
 - Sigus was **knocked unconscious**.
@@ -51,14 +51,14 @@
 - Before the **Golden Rider could finish him off**, **Ludriq charged in**, forcing the enemy to **retreat**.
 - Moments later, **a Clasper’s claw crushed Lacón**, splitting him in half\*\*.
 
-#### **Darius Meets His Fate**
+## **Darius Meets His Fate**
 
 - Amidst the chaos, **Darius attempted to flee**.
 - The **Golden Claspers overran him**.
 - His mercenaries **abandoned him**, unwilling to **die for a dishonorable leader**.
 - He was **torn apart**, his **pleas for help ignored**.
 
-### **3️⃣ Regrouping & The Mission Ahead**
+# **3️⃣ Regrouping & The Mission Ahead**
 
 - The **survivors fled inland**, regrouping at a **safer encampment**.
 - The **party and the White Ravens officially joined forces**.

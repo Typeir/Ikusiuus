@@ -1,4 +1,4 @@
-### **Bracers of Solar Might**
+# Bracers of Solar Might
 
 _Wondrous item, rare (requires attunement)_
 
@@ -6,7 +6,7 @@ These bracers are crafted from solidified **Torchtree sap**, a rare and volatile
 
 ---
 
-### **Effects**
+## Effects
 
 - **Solar guidance**
 
@@ -19,6 +19,6 @@ These bracers are crafted from solidified **Torchtree sap**, a rare and volatile
 
 ---
 
-### **Appearance**
+## Appearance
 
 Forged from **translucent gold-orange resin**, the bracers shimmer faintly in darkness. Threads of old vine growth remain trapped within the sap, and **when a charge is expended**, the bracers briefly **pulse like a sunrise**, emitting a faint warmth.

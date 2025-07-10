@@ -1,10 +1,10 @@
-### **Encounters**
+# **Encounters**
 
 The following encounters occur every three hours as the Investigators explore the area. Roll on the table to determine the encounter or choose one that best fits the current situation.
 
 ---
 
-#### **Encounter Table**
+## **Encounter Table**
 
 | **Roll** | **Encounter**                                                                                                                                                                                                                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -19,7 +19,7 @@ The following encounters occur every three hours as the Investigators explore th
 
 ---
 
-### **Massive Landshark**
+# **Massive Landshark**
 
 - Huge Monstrosity, Unaligned
 

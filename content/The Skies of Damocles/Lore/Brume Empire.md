@@ -62,13 +62,13 @@ The **Bilupine** are old mason and warrior constructs from the **Empyrean Empire
 
 The **Holy Empire of the Brume** is a theocratic society unlike any other in **Damocles**. Its philosophy, known as **The Miracle**, is the cornerstone of its entire social, legal, and spiritual framework. In the **Brume**, the notion that the human body is a source of corruption underpins all aspects of life, as the miracles dictate that no human or humanoid shall leave marks of their flesh or body on this world. Citizens are required to live by stringent codes of behavior, and violations of these codes are punished with extreme severity.
 
-### **1.1 The Doctrine of The Miracle**
+# **1.1 The Doctrine of The Miracle**
 
 At the heart of **The Brume’s** belief system is **The Miracle**, a doctrine that views the human body as an alien entity to the natural world, one that is inherently corrupt and impure. Unlike other societies in **Damocles**, where exposure of the body is seen as part of the natural order, the **Brume** takes a radically different approach. In **Brumish** thought, the human body, with its flesh, blood, and fluids, is a contaminant, and its presence defiles the natural purity of the world. Thus, the citizens of the **Brume** are required to take extreme measures to prevent their bodies from leaving any trace in public spaces.
 
 The notion of purity here is strictly connected to the avoidance of contamination by the self. The human body must not "leave a mark" upon the land, and any such action is seen as a profound act of blasphemy. It is forbidden to bleed, shed skin, or expose too much of one’s body in public. This philosophy has resulted in a society where individuals are heavily concealed in garments that cover most of, or the entirety of their flesh, creating a visual culture of concealment, modesty, and separation from the natural world. The citizens wear highly ornamental clothing, often layered in intricate designs that simultaneously hide their bodies and serve as symbols of status. These clothes are not simply fashion statements, but active markers of compliance with **The Miracle**.
 
-### **1.2 Public Behavior and Law**
+# **1.2 Public Behavior and Law**
 
 The public life of the **Brume** is one governed by rigid social norms, where violations of public conduct are met with brutal and immediate consequences. The city operates on a strict code of behavior derived from the theological principles of **The Miracle**, dictating how citizens should interact with one another and with their surroundings. Social etiquette revolves around the avoidance of physical interaction with the environment. Citizens must be careful not to leave behind any physical remnants of themselves, such as hair, skin, or bodily fluids, in public places. Even a drop of blood in a public square is considered a grave offense.
 
@@ -76,7 +76,7 @@ This rigorous enforcement of bodily control has led to an unusual public space d
 
 The **Brume** employs a class of enforcers known as the **Comanda**, or **Teachers**, to ensure that these laws are upheld. The **Comanda** are sworn to silence, representing the most visible form of state authority in the **Brume**. They do not speak, as verbal engagement is seen as unnecessary for their role. Their presence alone is a reminder of the laws that govern the **Brume**, and their interventions are swift and violent. If a citizen is found guilty of leaving a physical mark on the city—whether by bleeding, shedding skin, or defiling the environment in any other way—they are often met with brutal punishment on the spot.
 
-### **1.3 The Comanda**
+# **1.3 The Comanda**
 
 The **Comanda** are more than just law enforcers; they are the embodiment of **The Miracle’s** core tenet of purity. Their silence is a deliberate rejection of the corrupting potential of human speech, as even words are considered a form of contamination. By taking an oath of silence, the **Comanda** align themselves with the state’s ideal of spiritual and physical purity. Their violence is seen as a necessary action to cleanse the public space from the contamination of the human body.
 
@@ -84,7 +84,7 @@ Their interventions in daily life are rare but always violent. If someone is cau
 
 Though their power is largely unchecked, the **Comanda** rarely abuse their authority in an arbitrary manner. Rather, their acts of violence are calculated, symbolic actions meant to maintain social and spiritual order. Their loyalty to the **Benefactor** and the ideals of the state make them feared and respected in equal measure.
 
-### **1.4 The Benefactor and the High Magii**
+# **1.4 The Benefactor and the High Magii**
 
 At the top of the **Brume’s** power structure sits the **Benefactor**, an anonymous figure who is believed to embody the spiritual authority of the empire. The **Benefactor’s** identity is a closely guarded secret, and they are often chosen late in life, usually males who have served in the empire’s spiritual and military institutions for decades. The **Benefactor** serves as both a religious leader and a political figure, their authority unchallenged and absolute.
 
@@ -98,7 +98,7 @@ Her victories earned her freedom and later **Lordship**, a status that allowed h
 
 **Miekka** now wields immense power, both as a political figure and as the **Benefactor’s** protector. Her presence in the **Benefactor’s** court is both feared and revered, as she represents the ability of those from even the lowest social strata to ascend to positions of great influence within the empire. Yet her loyalty remains suspect, and some believe she harbors ambitions that go far beyond her current position.
 
-### **1.5 Political Factions and the Power Struggles of the Brume**
+# **1.5 Political Factions and the Power Struggles of the Brume**
 
 Beneath the outward appearance of spiritual unity, the **Brume** is rife with political factions, each vying for control over the future direction of the empire. The tension between these factions reflects the competing visions for the **Brume’s** future. The **Despots**, **Penitents**, and **Golden Ones** represent the primary factions within the political landscape, and their competing ideologies shape the internal dynamics of the empire.
 
@@ -114,7 +114,7 @@ These factions constantly compete for influence, with shifting alliances and sec
 
 The **Sanctuary City of the Brume**'s origins are far more complex and steeped in myth than most of its citizens understand. Far from the unified theocratic society it is today, the **Brume** began as a rogue state—a rebellion founded in secret under the influence of an ancient and powerful demon known as **Xanthous**, one of the four prominent **Hiisi** or demons of **Damocles**. The city’s foundation and early development were driven by cosmic forces far beyond human comprehension, with **Xanthous** at the center of it all, conspiring to create a power that would eventually jailbreak him from his **clone-world**.
 
-### **2.1 The Hiisi and Xanthous: Demonic Origins of the Brume**
+# **2.1 The Hiisi and Xanthous: Demonic Origins of the Brume**
 
 The **Hiisi**—a name given to demons in the southern states of **Thule** and **Anthule**—are often regarded as little more than tricksters or malevolent spirits in popular folklore. They are believed to be beings who strike bargains with mortals, granting them wealth, power, or health in exchange for their souls or a portion of their lifeforce. During harvest seasons, many rural villages still perform theatrical representations of the tale of the four **Hiisi** that wounded the world: the black one representing death, the white one representing growth, the yellow one representing enlightenment, and the red one representing power. However, these festivals mask a deeper, more sinister truth—one that has long been forgotten by most of **Damocles**.
 
@@ -122,7 +122,7 @@ In reality, the **Hiisi** are far more than folklore. They are the bastard offsp
 
 Among the **Hiisi** that escaped, four were especially prominent: **Nigredo**, **Albedo**, **Xanthous**, and **Rubedo**. These four demons were scions of the **Dream Catcher**, having heard its call through the veil that separates **Damocles** from the **Hidden Kingdom**. Each of these demons had their own ambitions, and each played a role in shaping the course of human history, particularly in the event's leading to the **Scarring**, and it's aftermath. Of these four, **Xanthous** was the one most responsible for the rise of the **Sacred Brume Empire**.
 
-### **2.2 Xanthous and the Foundation of the Brume**
+# **2.2 Xanthous and the Foundation of the Brume**
 
 **Xanthous**, the yellow demon, was the embodiment of ambition, conspiracy, and manipulation. His influence in the founding of the **Sanctuary City of the Brume** cannot be understated. In his attempt to return the **Dream Catcher**—the god of destruction and ambition—back to its rightful owner, the **White Homunculus**, **Xanthous** sought to establish a rogue state that could serve as a focal point for the civil war that would ensure the **Blade of Damocles** be used. This rogue state would eventually become the **Brume**, but its origins were born out of demonic scheming rather than human agency.
 
@@ -130,7 +130,7 @@ The mesa upon which the **Sanctuary City** now stands was not chosen for its def
 
 The early history of the **Brume** was marked by conflict with the **Empyrean Empire**, particularly with its capital, **Thealas**. The **Eternal Stairwell**, a massive stairwell spiraling down from the innards of mesa into the underground caverns, to the **Black Halls** and the old state of **Thealas**, became the site of numerous skirmishes between the forces of the **Brume** and imperial soldiers. However, these battles were not fought purely for territorial control; they were part of a larger cosmic struggle orchestrated by **Xanthous**. By fostering rebellion and conflict, **Xanthous** hoped to create enough chaos and suffering to force the hand of the empire into using **The Valve of the World**, and activate the **Blade of Damocles**, thus allowing him to escape into the **world-seed**. But alas, the valve was sealed, and the **Dream Catcher** found it's way into the hands of a young girl named **Annabelle**, Daughter of the **Blood Knight** Ludwig, son of the Moon.
 
-### **2.3 The Eternal Stair: From Connection to Conflict**
+# **2.3 The Eternal Stair: From Connection to Conflict**
 
 The **Eternal Stairwell** is one of the most enigmatic structures in the **Sanctuary City of the Brume**. Built long before the founding of the city itself, the stairwell was originally a conduit constructed by the **Bilupine**, connected the mesa to the heart of **Thealas** in the days of the **Empyrean Empire**. It was once a symbol of unity and collaboration between the various city-states of the empire, allowing for trade, diplomacy, and easy access to the surface from the underground, and vice-versa.
 
@@ -138,13 +138,13 @@ However, as the **Brume** broke away from the empire, the stairwell became a sit
 
 The **Eternal Stair** itself is a testament to the craftsmanship of the **Bilupine**, with intricate carvings depicting the early history of the **Empyrean Empire** and the gods that ruled over it. Yet, this stairwell is more than just a historical relic; it is also a symbol of the demonic influence that shaped the city’s early history. The **Bilupine** who built it were enslaved by human rulers, but their designs were subtly guided by **Xanthous**, whose manipulations ensured that the stairwell would become a focal point for the conflict and chaos he sought to foster.
 
-### **2.4 The Decline of the Empyrean Empire and the Rise of the Brume**
+# **2.4 The Decline of the Empyrean Empire and the Rise of the Brume**
 
 The turning point in the history of the **Sanctuary City** came with the collapse of the **Empyrean Empire**. Beset by internal strife, external threats, and natural disasters, the empire gradually lost control over its outer territories, including the mesa where the **Brume** had been established. As the empire weakened, **Xanthous** took full advantage, pushing the leaders of the **Brume** to assert their independence and expand their influence.
 
 The fall of the **Empyrean Empire** allowed the **Brume** to solidify its control over the mesa and the surrounding lands, transforming from a rogue state into a fully independent military power. Yet, even as the city grew in power, the demonic influence of **Xanthous** remained hidden in the background, quietly guiding the actions of the city’s leaders.
 
-### **2.5 The Eternal Stair’s Abandonment and the Chase**
+# **2.5 The Eternal Stair’s Abandonment and the Chase**
 
 As the **City-State** solidified its place in the world, the **Eternal Stair** fell into disuse. What was once a grand passage linking the mesa to the heart of the empire became a forgotten relic of a bygone era. Over time, the stairwell became a place of fear, its dark, humid corridors haunted by a vicious creature known as **The Chase**—a black, predatory beast that now roams its depths. Few dare to descend into the stairwell, as those who do often never return. The presence of **The Chase** is a reminder of the darker forces at play in the city’s history, and some speculate that it is a manifestation of **Xanthous**’ lingering influence.
 
@@ -156,7 +156,7 @@ The abandonment of the **Eternal Stair** marked the end of the city’s direct c
 
 The **Bilupine**, sentient stone constructs resembling two large mastiffs sharing a humanoid body, have long been associated with the deep history of the **Empyrean Empire** and the construction of the **Sanctuary City of the Brume**. Although much of the city’s modern theocratic rule centers around its doctrines of purity and spiritual governance, the foundation of the **Brume** was built upon the labor and exploitation of the **Bilupine**. Yet, their role in the city’s history is not merely one of servitude—like much in the **Brume**, their legacy is interwoven with the machinations of the **Hiisi**, particularly **Xanthous**, whose influence ensured that the **Bilupine** became integral to the creation of a rogue state that would one day become the **Sacred Empire of the Brume**.
 
-### **3.1 From Builders of the Empire to Slaves of the Brume**
+# **3.1 From Builders of the Empire to Slaves of the Brume**
 
 The **Bilupine** were not always slaves. In the early days of the **Empyrean Empire**, they were revered for their craftsmanship and their contributions to the construction of the empire’s cities, fortifications, and monuments. These sentient stone beings were created as part of the empire’s grand vision of expansion, tasked with building the infrastructure that would allow the **Empyrean Empire** to dominate much of the known world. Their labor was tireless, and their ability to manipulate stone and earth was unmatched, making them invaluable to the empire’s rulers.
 
@@ -164,13 +164,13 @@ However, the **Bilupine** were not merely tools; they possessed sentience and th
 
 As the empire began to crumble under the weight of internal strife and external threats, the role of the **Bilupine** shifted. They were no longer revered as artisans and craftsmen; instead, they became tools of the state, enslaved by the rulers of the **Brume**, who saw their labor as essential to the city’s continued expansion. The **Bilupine** were forced into the mines and tunnels beneath the mesa, working ceaselessly to extract resources and maintain the infrastructure of the city. This enslavement was not simply a product of human ambition but was part of a broader plan orchestrated by **Xanthous**, whose influence ensured that the **Bilupine** would play a key role in the creation of the **Sanctuary City**.
 
-### **3.2 Xanthous and the Enslavement of the Bilupine**
+# **3.2 Xanthous and the Enslavement of the Bilupine**
 
 **Xanthous**, as one of the four prominent **Hiisi** who escaped the **Hidden Kingdom**, was instrumental in the establishment of the **Brume** as a rogue state. His influence extended far beyond simple manipulation of human rulers—he also sought to subjugate the **Bilupine**, who had been instrumental in the construction of the **Empyrean Empire**. By ensuring that the **Bilupine** were enslaved and forced to work beneath the city, **Xanthous** guaranteed that the foundation of the **Brume** would be built on the exploitation of sentient beings. This exploitation served **Xanthous’** larger goal of fostering chaos and conflict, as the suffering of the **Bilupine** would contribute to the unraveling of the **Empyrean Empire**.
 
 The **Bilupine**, though powerful in their own right, were no match for the forces arrayed against them. Enslaved by the rulers of the **Brume**, they became an integral part of the city’s growth and development. Their stone bodies allowed them to work in conditions that would have been impossible for human laborers, and their knowledge of stonecraft ensured that the city’s infrastructure was maintained and expanded with precision. However, their sentience made their enslavement all the more tragic—they were fully aware of their plight, and many **Bilupine** grew bitter and resentful of their human oppressors.
 
-### **3.3 The Bilupine’s Role in the Construction of the Mesa and the Eternal Stairwell**
+# **3.3 The Bilupine’s Role in the Construction of the Mesa and the Eternal Stairwell**
 
 The mesa upon which the **Sanctuary City of the Brume** was built is not a natural geological formation—it was constructed by the **Bilupine** long before the founding of the city. Under the influence of **Xanthous**, the early rulers of the **Brume** enslaved the **Bilupine** and forced them to shape the mesa into an impregnable fortress. The **Bilupine**’s skill in stonecraft made this feat possible, and their labor ensured that the mesa would become a symbol of the city’s power and independence.
 
@@ -178,7 +178,7 @@ The **Eternal Stair**, a spiraling stairwell that connects the mesa to the caver
 
 Despite their enslavement, the **Bilupine** continued to play a vital role in the city’s growth and development. Their labor allowed the rulers of the **Brume** to expand their influence and fortify their defenses, but their treatment as slaves bred resentment among the **Bilupine** community. Over time, this resentment would simmer, and some **Bilupine** would seek to escape their bondage, fleeing to the **Brumish** plains or hiding in the deeper tunnels beneath the city.
 
-### **3.4 The Lordship of Romo and the Bilupine’s Struggle for Autonomy**
+# **3.4 The Lordship of Romo and the Bilupine’s Struggle for Autonomy**
 
 One of the most notable figures among the **Bilupine** is **Romo**, a former leader who was granted **Lordship** by the rulers of the **Brume**. This title, which elevated **Romo** above the status of a common slave, allowed him a degree of autonomy and recognition within the rigid hierarchy of the city. However, his **Lordship** came at a cost—**Romo** was required to swear fealty to the state, effectively binding him to the service of the city’s rulers.
 
@@ -190,7 +190,7 @@ While **Romo’s** title of **Lord** granted him privileges, such as the ability
 
 The history of the **Sanctuary City of the Brume** is complex and ancient, stretching back millennia before its rise as a powerful theocratic superpower. What many of its modern citizens may not realize is that the city was once nothing more than a rogue military state—void of spiritual purpose, driven by ambition and expansion. It was destroyed in a catastrophic event over 10,000 years ago, an act of demonic wrath led by the **Hiisi** known as **Xanthous**. However, the city was rebuilt by survivors and pilgrims, who saw the fall of their militaristic past as divine punishment for their moral corruption. This belief was heavily influenced by **Xanthous**, who, despite his initial rage, devised a new plan to escape his cosmic bindings, and this plan continues to shape the **Brume** to this day.
 
-### **4.1 Xanthous and the Blade of Damocles**
+# **4.1 Xanthous and the Blade of Damocles**
 
 **Xanthous** is one of the four prominent **Hiisi**, or demons, of **Damocles**—beings not born of ambition but consumed by hatred for their progenitors, the **Dragon** and the **Sun God** **Päivätär**, who they view as having abandoned them. Though not blood-related to the **Dream Catcher**, these demonic scions found themselves aligned with its interests due to their shared desire for cosmic upheaval. The **Hiisi** broke from their divine roots long ago, driven by resentment toward their forebears. **Xanthous**, the yellow demon, represents the most manipulative of his kin, using humans and non-humans alike as tools to enact his revenge.
 
@@ -198,29 +198,29 @@ The **Sanctuary City of the Brume** originally served as a military stronghold, 
 
 **Xanthous** believed that by activating the **Blade of Damocles**, he could tear open the leaves of the tree of fate and escape the constraints of his **Damocles** to enter the **World-Seed**, and reunite the dark horse of ambition with it's fated owner. The **City of the Brume**, with its strategic position and military strength, was to be the site of this grand plan, its leaders blinded by their lust for power, unaware they were pawns in a much larger game.
 
-### **4.2 The Thwarting of Xanthous by Grommush**
+# **4.2 The Thwarting of Xanthous by Grommush**
 
 The culmination of the **Hiisi's** plan seemed inevitable, but it was ultimately thwarted by **Grommush**, a legendary dwarven smith, counselor to the council of the capital of **Thealas**. **Grommush** had no inherent power beyond his remarkable skill in crafting. However, being the architect of the **Valve of the World**, he was in the frontlines of the **Brume-Thealasian war**, and in an act of great sacrifice, managed to seal the valve and break the handle, stopping **Blade of Damocles**, but bringing ruin to the inner contintent of **Thealas**, and kickstarting the **Scarring** and the **Eternity of the four**. This, however, is not true for all **clone-worlds**, as the **Pieni** are unique creatures. There was but one **Grommush**, and other **clone-worlds** would be irreparably devastated when the blade was activated, as it malfunctioned when it wasn't simultaneously activated in all **clone-worlds**. **Some** other worlds were saved by similar acts of heroicism, but by others, such as **Ra'el** royal blacksmith.
 
-### **4.3 Xanthous' Rage and the Fall of the Brume**
+# **4.3 Xanthous' Rage and the Fall of the Brume**
 
 Though **Xanthous'** plan was foiled, his wrath was far from diminished. Having spent centuries cultivating the **Brume** as the site of his escape, he was furious that a mere mortal had undone his scheme. In a mad rage, **Xanthous** unleashed his full destructive power upon the city. The **City of the Brume**, once a symbol of military might and unchecked ambition, was obliterated. Its towering fortresses crumbled to dust, and the city’s people were either killed or driven into exile.
 
 The destruction of the **Brume** was absolute. The city, which had once been a hub of regional power, was reduced to ruins. The military elite who had ruled the city were wiped out, and the survivors were scattered across **Damocles**, carrying with them tales of their city’s downfall. Some whispered of **Xanthous’** involvement, though many believed that the destruction was the result of their unchecked hedonism and lack of faith. In the aftermath of the cataclysm, **Xanthous** disappeared from the ruins, his plans thwarted but his influence far from extinguished.
 
-### **4.4 The Rebirth of the Brume**
+# **4.4 The Rebirth of the Brume**
 
 For thousands of years, the ruins of the original **City of the Brume** lay abandoned, a scar upon the landscape. It was not until long after the fall of the **Empyrean Empire** that the **Brume** was rebuilt, but its rebirth came from a radically different vision. The survivors and their descendants, wandering the lands in exile, became pilgrims. They believed that the destruction of their home was divine punishment for their hubris and moral corruption. Influenced by their new-found faith, these pilgrims began to adopt the doctrine of **The Miracle**—a philosophy that preached purity, control, and the avoidance of leaving any mark upon the world.
 
 Unbeknownst to these pilgrims, their beliefs were subtly guided by the merciless hand of **Xanthous**. The demon had devised a new plan: rather than attempting to destroy the world outright, he would manipulate the city’s rulers from within, guiding their beliefs and ambitions to conquer the surrounding countires, and once again open the **Valve of the World**. This new strategy would take millennia to bear fruit, but **Xanthous** was nothing if not patient.
 
-### **4.5 The Brume’s Rise as a Theocratic Superpower**
+# **4.5 The Brume’s Rise as a Theocratic Superpower**
 
 Over time, the newly rebuilt **Sanctuary City of the Brume** transformed into a powerful theocratic state. The survivors of the city’s destruction, now followers of **The Miracle**, enforced a strict spiritual order upon their people. The doctrine of **The Miracle** taught that the human body was tainted and that to leave any trace of oneself—whether blood, skin, or hair—was a sin. This belief system created a rigid society where the exposure of flesh was restricted, and spiritual purity was maintained through extreme discipline.
 
 The newly rebuilt **Brume** became a militaristic superpower, but unlike its predecessor, which had been driven purely by ambition, the new **Brume** was motivated by a fanatical devotion to **The Miracle**. The city expanded its influence across **Damocles**, conquering neighboring territories and spreading its theocratic doctrines. The military might of the **Brume** was formidable, with its soldiers—the **Comanda**—enforcing the strict laws of spiritual purity with ruthless efficiency.
 
-### **4.6 The Hidden Plan of Xanthous**
+# **4.6 The Hidden Plan of Xanthous**
 
 Though **Xanthous** has not physically appeared in the **Brume** since its destruction 10,000 years ago, his influence remains ever-present. The strict religious order that now governs the city is, after all, the result of his manipulations. By guiding the survivors of the original city toward a belief in **The Miracle**, **Xanthous** ensured that the new **Brume** would be a society obsessed with control and purity, a land so zealous it would never be stopped by the warning signs and cautionary tales of the old world.
 
@@ -232,13 +232,13 @@ The **Brume**’s rigid relegious rule, combined with its relentless military ex
 
 The **Sanctuary City of the Brume**, now a powerful militaristic theocracy, is a complex tapestry woven from the threads of its tumultuous past and the competing ambitions of its present. The city’s rise to power has led to the establishment of various political factions, each with its own ideologies, ambitions, and strategies for influence. These factions exist within a rigid societal structure that is heavily influenced by the doctrines of **The Miracle** and the haunting legacy of the **Hiisi**, particularly the manipulations of **Xanthous**.
 
-### **5.1 The Theocratic Structure of the Brume**
+# **5.1 The Theocratic Structure of the Brume**
 
 At the heart of the **Brume**’s governance lies its theocratic structure, where power is vested in a combination of spiritual leaders and military commanders. The supreme authority is held by the **Benefactor**, an enigmatic figure whose identity is shrouded in secrecy. This individual embodies both the religious and temporal authority of the **Brume**, leading the city under the strictures of **The Miracle**. The **Benefactor** is advised and protected by the **High Magii**, a council of sorcerer-swordsmen who uphold the spiritual integrity of the state.
 
 The **Comanda**, or **Teachers**, are the state's law enforcement, maintaining order through intimidation and violence. They are bound by an oath of silence, their presence alone often sufficient to deter dissent. This rigid structure creates an environment where fear and devotion coexist, and where loyalty to the state is paramount.
 
-### **5.2 Political Factions**
+# **5.2 Political Factions**
 
 Despite the apparent unity of the **Brume**, the city is rife with political factions that vie for power and influence. These factions reflect the complex interplay of ambition, ideology, and the lingering effects of the ancient cosmic struggles that have shaped the world.
 
@@ -250,7 +250,7 @@ Despite the apparent unity of the **Brume**, the city is rife with political fac
 
 These factions are often in conflict with one another, their interactions marked by intrigue, betrayal, and shifting alliances. The political landscape of the **Brume** is ever-changing, and power struggles are a constant feature of life in the city.
 
-### **5.3 The Influence of Xanthous**
+# **5.3 The Influence of Xanthous**
 
 While the **Brume**’s current leadership operates under the belief that they are acting in the best interests of their people, they are unwittingly playing into the hands of **Xanthous**. The demon, though absent from the mortal plane since the destruction of the original city, continues to exert his influence through the ambitions and desires of those who seek power within the **Brume**.
 
@@ -264,7 +264,7 @@ For the people of the **Brume**, these ancient forces are invisible, their origi
 
 In this way, the **Brume** stands at the intersection of ancient cosmic forces that it can no longer comprehend. The destruction of the original city, the rise of the new theocratic state, and the subtle influence of **Xanthous** all speak to the lingering effects of a conflict that began long before the first mortal civilizations emerged. While the people the **Brume** may not know the story of the **Dragon**, they are, in many ways, living out its legacy.
 
-### **5.4 The Bilupine**
+# **5.4 The Bilupine**
 
 Amidst the political struggles of the **Brume**, the **Bilupine** serve as both a source of tension and a symbol of hope. Once enslaved laborers who built the original city, the **Bilupine** now find themselves in a precarious position within the social hierarchy of the **Brume**. While some **Bilupine** have achieved **Lordship**, allowing them limited autonomy, the majority remain in servitude, their potential unrealized and their resentment growing.
 
@@ -272,7 +272,7 @@ The **Bilupine** are aware of their own power, both in terms of their skills as 
 
 Some factions within the **Brume**, particularly the **Penitents**, advocate for the emancipation of the **Bilupine**, arguing that their freedom would strengthen the **Brume** militarily and spiritually. Yet, such discussions are often met with resistance from the **Despots**, who view the **Bilupine** as essential tools of the state. The ongoing struggle for the **Bilupine**’s rights and status serves as a microcosm of the larger political conflicts within the **Brume**.
 
-### **5.5 The War of The Mists**
+# **5.5 The War of The Mists**
 
 The **Holy Empire of The Brume** is currently the largest active nation in **Damocles**, it's current territorial expansion covering about **15%** of the total inhabitable landmass, it's claims being over **25%** of it. This enormous extension was taken from the **Binturian Federation** and the **Kingdom of Cavar** less than a decade ago, during a **Cataclismic** war known as **The War of the Mists**, named so by the recent usage of gassing devices by the **Brumean** and **Binturian** millitary.
 
@@ -280,7 +280,7 @@ After the war was won in the **Battle for the Moon's Gambit**, the **Binturean**
 
 The **Cavari** had no such luck, as blind belief in their monarch, the **Khadesh**, led them to disregard the **Brume's** peace deals, which when rejected, led to the total obliteration of their capital, **Akhaciye**, home of the **Glass Colliseum**, old relic from before the **Scarring**. Most of the dispalced found their way to **Melumbo** or **Borossa**, which in turn would eventually spark another of the **Brume's** expansionist wars.
 
-### **5.6 The Ongoing War with the Borossan Kingdom**
+# **5.6 The Ongoing War with the Borossan Kingdom**
 
 The **Brume** is currently embroiled in an ongoing conflict with the **Borossan Kingdom**, a struggle that has significant implications for the city's military and political landscape. This war is driven by a combination of territorial ambitions, resource competition, and the desire to spread the influence of **The Miracle** beyond its borders.
 

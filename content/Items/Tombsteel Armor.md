@@ -1,4 +1,4 @@
-### **Tombsteel Armor**
+# Tombsteel Armor
 
 _Wondrous item, rare (requires attunement by a creature proficient in heavy armor)_
 
@@ -8,7 +8,7 @@ _Wondrous item, rare (requires attunement by a creature proficient in heavy armo
 
 ---
 
-### **Description**
+### Description
 
 Tombsteel was the hallmark alloy of the final Empyrean era—its cold silence a grim echo of that civilization’s decline. Forged for the **Demon-Hunting Knights** and the **Godslaying Battalions**, this armor is feared not for what it does, but for what it represents: the slow death of a world once governed by mechanical perfection.
 
@@ -16,7 +16,7 @@ Though nonmagical, the alloy is unnaturally dense and eternally cold to the touc
 
 ---
 
-### **Effects**
+## Effects
 
 - **Cold Eternal**  
   While wearing Tombsteel Armor, any creature **without resistance or immunity to cold damage** must make a **DC 13 Constitution saving throw** at the end of each hour they wear it.

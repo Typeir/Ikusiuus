@@ -18,14 +18,14 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. The Folds Strike Back**
+# **1. The Folds Strike Back**
 
 - As soon as **Lystig was ejected from the Folds**, **Hounds of Tindalos** manifested and **ambushed the party**.
 - **Lystig was critically wounded**, and the party **had no way to heal him**, so they **hid him under a minecart**.
 - **Niccolo arrived in time to assist**, and after a **grueling battle**, the party **barely managed to escape alive**.
 - **Lystig stabilized but remained severely injured.**
 
-### **2. Negotiations with the Clones**
+# **2. Negotiations with the Clones**
 
 - The creatures **were coherent enough to speak**, but **hostile and ravenous**.
 - They demanded **to be set free** so they could **feast on others**.

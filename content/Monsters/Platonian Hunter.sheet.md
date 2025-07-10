@@ -22,7 +22,7 @@ _Large Construct, Lawful Neutral_
 
 ---
 
-## **Traits**
+## Traits
 
 **Multi-Purpose Tool.**  
 The Platonian Hunter is proficient in all skills and has expertise in **Intimidation**.
@@ -40,7 +40,7 @@ The Platonian Hunter has **8 spell points**, which can be spent to cast any of i
 
 ---
 
-## **Actions**
+## Actions
 
 **Multiattack.**  
 The Platonian Hunter makes one attack with its main weapon and two attacks with its Fated Blade, or two attacks with any weapon, plus an attack with a Disambiguator, if it has one available.
@@ -75,7 +75,7 @@ If the target takes damage from this attack, it **catches fire** (see below).
 
 ---
 
-## **Coatings**
+## Coatings
 
 Each of the Platonian Hunter’s weapons is coated in a potent toxin. Once per day per creature, when it hits with a weapon, the target must make a **DC 16 Constitution saving throw** or suffer one of the following conditions (Hunter’s choice):
 

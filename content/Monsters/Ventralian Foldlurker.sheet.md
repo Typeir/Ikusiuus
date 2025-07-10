@@ -1,8 +1,17 @@
+# Ventralian Foldlurker
+
 ![Ventral Floodborne](/library/images/VentralFloodborne.png)
 
-# **Ventralian Foldlurker**
+> The **Ventralian Foldlurker** is the **inevitability of written law**, made manifest. It exists not to judge—but to enforce.
+>
+> Its **mask** reflects the mechanisms that shaped Damocles—the **Canvas**, the **Tree**, the **Cycle**. Behind it is no face, only a void, and inside, a digestive logic that sees only **violation** and **resolution**.
+>
+> These beings are rare but not unique. They are **record-keepers**, **enforcers**, **severance agents** of the Fold, manifest when the energies of the precursor reach unbearable instability.
+>
+> Most who meet them die having never understood they were speaking to the world’s **final editor**.
 
-- Large Celestial (Fold), **Neutral**
+_Large Celestial (Fold), **Neutral**_
+
 - **Challenge**: 8 (3,900 XP)
 - **Proficiency Bonus**: +3
 
@@ -24,7 +33,7 @@
 
 ---
 
-### **Traits**
+# Traits
 
 **Anatomy of Judgment.**  
 The Foldborne’s body is a writhing digestive organ wrapped in tethered manuscript-flesh. Any creature grappled by it takes **2d8 radiant damage** at the start of its turn.
@@ -40,7 +49,7 @@ If the Foldborne takes force, radiant, or thunder damage, it may use its reactio
 
 ---
 
-### **Actions**
+# Actions
 
 **Multiattack.**  
 The Foldborne makes **three attacks**: two with **Pseudopods**, and one with **Fold-Shear** if available.
@@ -54,7 +63,7 @@ The Foldborne opens a line of torn space. A 30 ft. line, 5 ft. wide, erupts from
 
 ---
 
-### **Battlefield Actions**
+## Battlefield Actions
 
 _Declared at the end of its turn. They resolve at the **start of its next turn**. Only one may be active at a time._
 
@@ -70,7 +79,7 @@ The Foldborne reverses space. **Switches places with up to two creatures** withi
 
 ---
 
-### **Death Rattle – Clock’s Toll (1/Day)**
+## Death Rattle – Mechanical Hands (1/Day
 
 When reduced to 0 HP, the Foldborne emits a final bell-like pulse. All creatures who have cast a spell in the last minute must make a **DC 16 Wisdom saving throw** or be **stunned until the end of their next turn**, after which the creature casts:
 
@@ -89,13 +98,3 @@ A creature that’s within 5 feet of the black hole at the start of its turn mus
 then remains at 1hp, invulnerable, during 2+1d4 rounds, or until all nearby creatures escape the black hole, after which it dies and drops its mask.
 
 ---
-
-### **Lore**
-
-> The **Ventralian Foldlurker** is the **inevitability of written law**, made manifest. It exists not to judge—but to enforce.
->
-> Its **mask** reflects the mechanisms that shaped Damocles—the **Canvas**, the **Tree**, the **Cycle**. Behind it is no face, only a void, and inside, a digestive logic that sees only **violation** and **resolution**.
->
-> These beings are rare but not unique. They are **record-keepers**, **enforcers**, **severance agents** of the Fold, manifest when the energies of the precursor reach unbearable instability.
->
-> Most who meet them die having never understood they were speaking to the world’s **final editor**.

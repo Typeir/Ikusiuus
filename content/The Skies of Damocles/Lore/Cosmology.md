@@ -4,13 +4,13 @@
 
 The cosmological history of **Damocles**, stretches back millions of years, to a time so ancient that even the gods and demons of the present age have little to no knowledge of it. Among these distant events is the fall of the **Dragon**, an ancient force of creation that once shaped the material world itself. Though its fall has long been forgotten by all but the most esoteric and derranged of scholars, the echoes of this cataclysmic event still reverberate through the world. The gods of the **Sun** and **Moon**, **Päivätär** and **Kuutar**, are among the few remnants of this ancient cosmic struggle, and their influence, though indirect, continues to shape the world of **Damocles**—and by extension, the inhabitants of **Damocles**.
 
-### **1.1 The Distant Myth of the Dragon: Forgotten by Time**
+# **1.1 The Distant Myth of the Dragon: Forgotten by Time**
 
 Millions of years ago, during the cycle of the **Fourth Star**, the **Dragon** was a primordial being that existed far beyond the understanding of any creature in the modern age. It was not a god in the way the beings of **Damocles** understand divinity today, but a force of pure creation, a being that shaped the **Idea** of things —the essence that underlies all existence- by instilling such fear into nothingness that even it sought to unite into the shapes of all that exists. The **Dragon**’s role was not to create worlds or beings directly, but to give form to the concepts that the **Demiurge** would later fashion into the physical universe.
 
 However, the story of the **Dragon** is one that has long been lost to the world. The fall of the **Dragon** is an event so ancient that even the most knowledgeable scholars of **Damocles** have no memory of it. The **Hiisi**, the demonic scions of destruction, are perhaps the only beings who still carry a faint, instinctual hatred toward the **Dragon** and the celestial gods it left behind, but even they do not fully understand the reasons for their enmity. The ancient conflict between the **Dragon** and the **White Homunculus**, the being fated to end all of existence, is now little more than a distant myth, fragmented and scattered across obscure, unintelligible texts and forgotten lore written in tongues alien to the modern speak.
 
-### **1.2 The Birth of the Celestial Deities**
+# **1.2 The Birth of the Celestial Deities**
 
 The **Dragon**'s legacy persists in the form of two celestial deities: **Kuutar**, the goddess of the Moon, and **Päivätär**, the god of the Sun. These gods are among the most ancient beings worshipped across **Damocles**, and their influence was felt in every corner of the world. While the exact origins of these gods are unknown to mortals, they are, in fact, the last remnants of the **Dragon’s** old power, before it became the sole god of terror, and only terror. Alas, these two gods were inevitably felled by humans misguided by **Demons**, and **Pieni** tricked by the **Blood Queen**. The killing of the gods kickstarted the **Scarring**, a war so cruel it ended all life in most **clone-worlds** leaving only the worlds in which heroes such as **Grommush** or **Ra'el** of **Thealas** managed to seal the **Valve of the World** in time.
 
@@ -30,13 +30,13 @@ With **Kuutar** slain, her lifeless body crossed the **Hidden Rift** created by 
 
 This cathedral, a grotesque testament to her victory, never served as a place of worship, but as an opulent, grim reminder of the deathly ambitions of the **Red Queen**. The aftermath in the **Hidden Kingdom** caused the **Silent Ones**, creatures born from the twisted remnants of the **Hiisi**, to roam the **Interlocking Faults**, driven by the desire of a hunt that's already over. The **Blood Gnomes**, abandoned by their godess, plunged the **Hidden Kingdom** deeper into chaos and conflict, perpetuating the cycle of violence, abandoment and betrayal that had defined their world.
 
-### **1.3 The Hiisi and Their Hatred: A Legacy of Rebellion**
+# **1.3 The Hiisi and Their Hatred: A Legacy of Rebellion**
 
 Though the **Dragon**’s fall is a forgotten myth, the **Hiisi**, or demons, who roam **Damocles** are the lingering echoes of this ancient conflict. These beings, driven by a deep, almost instinctual hatred for the celestial gods, are the rebellious offspring of the **Sun God**, **Päivätär**, and the **Dragon**. Their rebellion is not motivated by ambition alone, but by generations of resentment for the parents who abandoned them, leaving them to wander the ruined and twisted **Hidden Kingdom**.
 
 The **Hiisi**, harbor an ancient enmity toward their celestial progenitors. They are not blood-related to the **Dream Catcher**, the elder god of ambition and destruction, but they are aligned with it in purpose. Their desire to tear down the order imposed by the **Dragon** and **Päivätär** drives their actions across the world. However, like their knowledge of the **Dragon**, their true motivations are deeply buried within their own subconscious, more a product of ancient grievances than a fully understood purpose.
 
-### **1.4 The Scattered Legacy of the Dragon: The Scions of Creation**
+# **1.4 The Scattered Legacy of the Dragon: The Scions of Creation**
 
 Though the **Dragon** is long gone from the world of **Damocles**, fragments of its power remain scattered across the cosmos. These fragments, often taking the form of scales shed during the **Dragon’s** fall, have given rise to the **Scions of Creation**—beings imbued with the **Dragon’s** creative essence. Unlike the **Dragon**, these **Scions** are not bound by the divine responsibility of creation. Instead, they are free agents, driven by their own desires, ambitions, and interpretations of the **Dragon’s** only command: **_"Do as Thou Wilt."_**
 

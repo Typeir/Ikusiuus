@@ -21,7 +21,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. Mountain Ambush**
+# **1. Mountain Ambush**
 
 - **Enemies:** 5 **Brumean riflemen**.
 - **Outcome:**
@@ -29,7 +29,7 @@
   - **Three hostages** were taken, but **two refused to talk**—Sigus **brutalized them** until the last one spilled information.
   - The survivor revealed **details about the Sunglobe’s location** and the **whereabouts of their commander**.
 
-### **2. The Cave of the Old Script**
+# **2. The Cave of the Old Script**
 
 - **Discovery:** The party explored **a cave along the ridge**, revealing:
   - **Ancient script** similar to that in **The Golden Path and the Hunt of Päivätär**.
@@ -38,7 +38,7 @@
 - **Outcome:**
   - The party **failed to fully decipher** the meaning beyond some **baseline facts**—namely that **monsters** are being **born from the fallen god**.
 
-### **3. The Camp and the Shrimp-Humanoid**
+# **3. The Camp and the Shrimp-Humanoid**
 
 - **Preparation:**
   - **Ukko and Niccolo hunted and gathered** supplies (boar meat, berries, firewood).
@@ -49,7 +49,7 @@
   - It pointed towards the **keep** before **vanishing into the shadows**.
   - **Niccolo did not tell the party.**
 
-### **4. Stealth Assault on the Aurican Keep**
+# **4. Stealth Assault on the Aurican Keep**
 
 - **Approach:**
 

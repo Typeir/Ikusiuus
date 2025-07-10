@@ -1,4 +1,4 @@
-# **Old Iron Snail Warrior**
+# Old Iron Snail Warrior
 
 - Large Monstrosity, Unaligned
 
@@ -15,7 +15,7 @@
 - **Challenge**: 3 (700 XP)
 - **Proficiency Bonus**: +2
 
-**Skills:**
+## Traits
 
 - **Superiority Die:**
   - The snail has 3 superiority dies (d8)
@@ -23,7 +23,7 @@
   - **Giant Stake**: 3d6 + 4 piercing damage, 1d4 + 4 bludgeoning with pommel, +2 to hit
   - **Giant Hammer**: 2d12 + 4 bludgeoning damage, cannot use pommel, +2 to hit
 
-**Actions:**
+## Actions
 
 - **Multiattack**: The Iron Snail Warrior makes two attacks: one with the Giant Stake and one with the pommel of the Giant Stake. If using a hammer it cannot use multiattack.
 

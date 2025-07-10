@@ -1,4 +1,4 @@
-### **Tombsteel Wizard-Construct**
+# Tombsteel Wizard-Construct
 
 ![Tombsteel Wizard-Construct](/library/images/Grisgol.png)
 
@@ -21,7 +21,7 @@ _Large Construct, Neutral_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Choking Dust**:  
   Anytime the Tombsteel Construct takes bludgeoning or slashing damage, a cloud of choking mold and dust explodes 10 feet in all directions. All creatures within 10 feet must succeed on a DC 16 Constitution saving throw, or become poisoned. A creature poisoned in this way and not cured within 24 hours must succeed on a DC 16 Constitution saving throw or contract the disease, Slimy Doom. A creature with Slimy Doom bleeds uncontrollably, resulting in disadvantage on Constitution checks and saving throws. Additionally, whenever the creature takes damage, it is stunned until the end of its next turn.
@@ -40,7 +40,7 @@ _Large Construct, Neutral_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**:  
   The Tombsteel Construct makes two slam attacks.

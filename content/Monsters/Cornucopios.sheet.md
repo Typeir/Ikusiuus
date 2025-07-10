@@ -1,14 +1,14 @@
-# **Taedan swamp Demon-frogs**
+# Cornucopio (Taedan swamp Demon-frogs)
 
 ## ![Frog](/library/images/Hydroloth.jpg)
 
-## **Background**
+## Background
 
 _The frogs are also known as "Cornucopios" by the locals, sarcastically named so for their eternal hunger, in reference to the eternal abundance of a Cornucopia. These creatures are the spawn of hiisi, both major and minor, and while they resemble frogs, their amorphous shape betrays them as what they are - Demonspawns -. These creatures are not so much living organisms as they are extensions of another entity. In this case, they're the discarded flesh of Rubedo and Xanthous, after they lost a great deal of deal-power during the scarring_
 
 ---
 
-## **Hunter Frog**
+## Hunter Frog
 
 _Medium Fiend, Chaotic Evil_
 
@@ -27,12 +27,12 @@ _Medium Fiend, Chaotic Evil_
 **Languages**: Understands Abyssal but cannot speak.  
 **Challenge**: 5 (1,600 XP)
 
-**Traits**:
+## Traits:
 
 - **Amphibious**: The warrior frog can breathe air and water.
 - **Pack Tactics**: The frog has advantage on an attack roll against a creature if at least one of the frog's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-**Actions**:
+## Actions:
 
 - **Multiattack**: The warrior frog makes two attacks: one with its bite and one with its spear.
 - **Bite**: _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target. _Hit_: 10 (1d10 + 3) piercing damage.
@@ -42,7 +42,7 @@ _Medium Fiend, Chaotic Evil_
 
 ---
 
-## **Ritualist Frog**
+## Ritualist Frog
 
 _Medium Fiend, Chaotic Evil_
 
@@ -61,7 +61,7 @@ _Medium Fiend, Chaotic Evil_
 **Languages**: Understands Abyssal but cannot speak.  
 **Challenge**: 5 (1,600 XP)
 
-**Traits**:
+## Traits:
 
 - **Amphibious**: The caster frog can breathe air and water.
 - **Spellcasting**: The caster frog is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It has the following spells prepared:
@@ -69,7 +69,7 @@ _Medium Fiend, Chaotic Evil_
   - **1st level (4 slots)**: _Hex, Tasha's Caustic Brew_
   - **2nd level (3 slots)**: _Misty Step, Hold Person_
 
-**Actions**:
+## Actions:
 
 - **Multiattack**: The caster frog makes two attacks: one with its bite and one with its tongue.
 - **Bite**: _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage.
@@ -80,7 +80,7 @@ _Medium Fiend, Chaotic Evil_
 
 ---
 
-## **Golden Frog**
+## Golden Frog
 
 _Medium Fiend, Chaotic Evil_
 
@@ -99,13 +99,13 @@ _Medium Fiend, Chaotic Evil_
 **Languages**: Understands Abyssal but cannot speak.  
 **Challenge**: 7 (2,900 XP)
 
-**Traits**:
+## Traits:
 
 - **Amphibious**: The golden frog can breathe air and water.
 - **Gold Glimmer**: The golden frog emits a faint, mesmerizing glow. Creatures within 10 feet of the frog must succeed on a DC 15 Wisdom saving throw or be charmed until the end of their next turn.
 - **Winged Assault**: The golden frog can sprout ethereal wings for 1 round, granting it a flying speed of 60 feet. While airborne, it can make one attack with a thrown weapon.
 
-**Actions**:
+## Actions:
 
 - **Spellcasting**: The golden frog is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following spells prepared:
 

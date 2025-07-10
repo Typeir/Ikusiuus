@@ -1,4 +1,4 @@
-### **Narvaez's Mighty Quiver**
+## Narvaez's Mighty Quiver
 
 _Wondrous item, very rare (requires attunement)_  
 _Greatsword (2d6 slashing, Heavy, Two-Handed, Special: Thrown, Graze)_
@@ -7,18 +7,18 @@ A quiver filled with **brutish, oversized greatswords**, crafted for **both mele
 
 Only **greatswords refitted for the quiver** can be used properly; **standard greatswords suffer a -5 penalty** to attack rolls unless modified (5gp & 1 hour of work by a skilled craftsman). **Magical greatswords cannot be stored in the quiver**—they are **forcefully ejected** if inserted.
 
-#### **Weapon Mastery:**
+## Weapon Mastery
 
 - **Graze** – When you miss an attack with this weapon, the target still takes damage equal to your Strength modifier.
 
-- **Mastery Ability – Thunderous Hurl (1/Short Rest, or PB/Short Rest if the wielder has mastery with Greatswords)**
+- **Mastery Ability – Thunderous Hurl (1/Short Rest, or 3/Short Rest if the wielder has mastery with Greatswords)**
   - As an **attack**, you may **hurl a greatsword** from the quiver at a target **within 30/60 ft**.
   - The blade releases a **thunderous blast**, forcing all creatures in a **5ft wide line** between you and the target to make a **Dexterity saving throw (DC 8 + STR + PB)**.
   - **On failure,** they take **2d6 lightning damage**.
   - If the attack **hits**, the target takes an **additional 2d6 thunder damage** and their **speed is reduced to 0 until the start of your next turn**.
   - **The hurled sword shatters upon impact**, becoming useless.
 
-#### **Effects:**
+## Effects
 
 - **Mighty Armament:**
 
@@ -31,7 +31,7 @@ Only **greatswords refitted for the quiver** can be used properly; **standard gr
 
 ---
 
-### **Carranza's Great Épée**
+## Carranza's Great Épée
 
 _Wondrous item, very rare (requires attunement)_  
 _Rapier (1d8 piercing, Finesse, Special, Sap, Magical, Martial)_
@@ -43,15 +43,15 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 - **10gp & 1 hour in a smithy**, or
 - **8 hours of work by a proficient alchemist/tinker.**
 
-#### **Weapon Mastery:**
+## Weapon Mastery
 
 - **Sap** – After hitting a creature with this weapon, their next attack roll before the start of your next turn is made at **disadvantage**.
 
-- **Mastery Ability – Riposte Parry (1/Short Rest, or PB/Short Rest if the wielder has mastery with Rapiers)**
+- **Mastery Ability – Riposte Parry (1/Short Rest, or 3/Short Rest if the wielder has mastery with Rapiers)**
   - **As a reaction,** when a creature makes a melee attack against you but before the result is known, you may force them to **re-roll and take the lower result**.
   - If the attack **misses**, you may **immediately counterattack** with this weapon, dealing **an additional 1d8 lightning damage**.
 
-#### **Effects:**
+## Effects
 
 - **Mighty Armament:**
 
@@ -64,7 +64,7 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 
 ---
 
-### **Fatebound Fencers:**
+### Fatebound Fencers
 
 - A creature attuned to either **Narvaez’s Mighty Quiver** or **Carranza’s Great Épée** **cannot attune to the other**.
 - If the wielders of both weapons are **within 60ft of each other**, they gain the following benefits:
@@ -74,7 +74,7 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 
 ---
 
-### **Fated Demise:**
+### Fated Demise
 
 - If either wielder **falls unconscious or is slain**, the **living wielder is affected as follows**:
   - The fallen wielder’s weapon **seeks its counterpart** if within **600ft**, moving at **120ft per round** and **digging through terrain at 60ft per round** if needed.
@@ -92,18 +92,18 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 
 ---
 
-### **Fated Retribution:**
+### Fated Retribution
 
 - While under **Fated Demise**, the weapons gain the following effects:
 
-#### **Narvaez’s Mighty Quiver – Thunderous Hurl (PB/Short Rest):**
+#### Narvaez’s Mighty Quiver – Thunderous Hurl (3/Short Rest)
 
 - **As part of an attack,** replace an attack with a **lightning-charged hurl** of a greatsword.
 - All creatures in a **5ft wide line** between you and the target must **roll a Dexterity saving throw (DC 8 + STR + PB)**.
 - **On failure:** They take **2d6 lightning damage**. **Until the start of your next turn,** creatures crossing the line or starting their turn in it take an additional **2d6 lightning damage**.
 - The **targeted creature** must also roll this save. If hit, they take an additional **2d6 thunder damage** and their **speed is reduced to 0** until the start of your next turn.
 
-#### **Carranza’s Great Épée – Deflected Fate (PB/Short Rest):**
+#### Carranza’s Great Épée – Deflected Fate (3/Short Rest)
 
 - When **deflecting a melee attack**, instead of counterattacking, every creature **within 5ft** of you must **roll a Dexterity saving throw (DC 8 + DEX + PB)**.
 - **On failure:** They take **2d8 slashing damage**.

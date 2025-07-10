@@ -1,4 +1,4 @@
-### **Kelpybara**
+# Kelpybara
 
 ![Kelpy](/library/images/Kelpy.webp)
 
@@ -19,20 +19,20 @@
 
 ---
 
-### **Traits**
+## Traits
 
 - **Trampling Charge**
   - If the **Kelpybara** moves at least 20 feet straight toward a creature and then hits it with a **Jaws** attack, the creature becomes grappled unless it succeeds on a DC 15 Strength saving throw. Additionally, as a bonus action, the **Kelpybara** can attempt to restrain the creature and itself with a grapple (contested check).
 
 ---
 
-### **Actions**
+## Actions
 
 - **Jaws**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 
 ---
 
-### **Spellcasting**
+## Spellcasting
 
 The **Kelpybara** has two level 2 warlock spell slots and can cast the following spells:
 
@@ -73,7 +73,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 ---
 
-### **Umbral Spellcasting**
+## Umbral Spellcasting
 
 While obscured or under the night skies, the **Kelpybara** can ritually cast the following spells. Only one of the spell effects may be active at a time, and it can target only itself:
 

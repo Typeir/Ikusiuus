@@ -1,6 +1,6 @@
-# **Pig Masks**
+# Pig Masks
 
-## **Bandit**
+## Bandit
 
 _Medium Humanoid, Chaotic Neutral_
 
@@ -19,7 +19,7 @@ _Medium Humanoid, Chaotic Neutral_
 **Languages**: Understands Abyssal but cannot speak.  
 **Challenge**: 3 (700 XP)
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The Bandit makes two attacks with his weapons.
 - **Spear**: _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d6 + 3) piercing damage.
@@ -30,7 +30,7 @@ _Medium Humanoid, Chaotic Neutral_
 
 ---
 
-## **Trapper Bandit**
+## Trapper Bandit
 
 _Medium Humanoid, Chaotic Neutral_
 
@@ -49,14 +49,14 @@ _Medium Humanoid, Chaotic Neutral_
 **Languages**: Understands Abyssal but cannot speak.  
 **Challenge**: 3 (700 XP)
 
-**Traits**:
+## Traits
 
 - **Spellcasting**: The caster Bandit is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following spells prepared:
   - **Cantrips (at will)**: _Shocking grasp, Firebolt, Sword burst_
   - **1st level (3 slots)**: _Grease, Silvery barbs_
   - **2nd level (2 slots)**: _Scorching ray, Hold Person_
 
-**Actions**:
+## Actions
 
 - **Shortsword**: _Melee Weapon Attack_: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) piercing damage.
 
@@ -64,7 +64,7 @@ _Medium Humanoid, Chaotic Neutral_
 
 ---
 
-## **Malformed Bandit**
+## Malformed Bandit
 
 _Medium Humanoid, Chaotic Neutral_
 
@@ -83,12 +83,12 @@ _Medium Humanoid, Chaotic Neutral_
 **Languages**: Common, Taedan, Brumish.  
 **Challenge**: 3 (700 XP)
 
-**Traits**:
+## Traits
 
 - **Acidic Angel**: The Malformed Bandit burst with acid when damaged, all creatures within 5ft of the bandit take 1d6 acid damage when it loses HP.
 - **Winged Assault**: The Malformed Bandit can sprout ethereal wings for 1 round, granting it a flying speed of 60 feet. While airborne, it can make one attack with a thrown weapon.
 
-**Actions**:
+## Actions
 
 - **Spellcasting**: The Malformed Bandit is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following spells prepared:
 
@@ -106,7 +106,7 @@ _Medium Humanoid, Chaotic Neutral_
 
 ---
 
-## **Aftermath**
+## Aftermath
 
 After the fight, roll a d4, if it lands on 4, one bandit regains consciousness, and roll the d4 again. Do so untill you stop getting 4's then, roll the following table to see which bandit woke up and what information they have, provided the party don't finish them off.
 

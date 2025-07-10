@@ -1,4 +1,4 @@
-N# **Platonian Hunter – Ventralis Strain**
+# Platonian Hunter – Ventralis Strain
 
 _Large Construct (Undead), Chaotic Neutral_
 
@@ -22,7 +22,7 @@ _Large Construct (Undead), Chaotic Neutral_
 
 ---
 
-## **Traits**
+## Traits
 
 **Fungal Engineered Core.**  
 The Ventralis variant is considered both a Construct and Undead. It can be affected by effects that target either.
@@ -45,7 +45,7 @@ The Hunter has **8 spell points** to recast any of its fungal spells. It cannot 
 
 ---
 
-## **Actions**
+## Actions
 
 **Multiattack.**  
 The Hunter makes one attack with its Fated Blade and one with its Particle Renders or Thruster Axe-Kick.
@@ -70,7 +70,7 @@ If the target takes damage, it catches fire.
 
 ---
 
-## **Infection Mechanic**
+## Infection Mechanic
 
 **Ventralis Infection.**  
 Any creature hit by a melee weapon attack must succeed on a **DC 16 Constitution saving throw** or become **infected** with a latent fungal curse.
@@ -87,7 +87,7 @@ While infected:
 
 ---
 
-## **Coatings**
+## Coatings
 
 All Ventralis Hunter weapons are coated in necrotic mycelium. Once per day per creature, on hit, the target must make a **DC 16 Constitution saving throw** or suffer one of the following conditions (Hunter’s choice):
 

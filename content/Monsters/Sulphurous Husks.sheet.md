@@ -1,4 +1,4 @@
-### **Husk of Xanthosis (Sword-Wielder)**
+# Husk of Xanthosis (Sword-Wielder)
 
 ![Sword Husk](/library/images/SwordHusk.webp)
 
@@ -21,7 +21,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Diseased Body**: Any creature hit by the husk’s sword must succeed on a DC 11 Constitution saving throw or be infected with a minor disease. After 1 hour, the infected creature gains disadvantage on Constitution saving throws and skill checks for 24 hours. The disease can be cured with _Lesser Restoration_ or after 24 hours without a failed saving throw.
 
@@ -29,7 +29,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The husk makes two attacks with its **Rusty Sword**.
 
@@ -38,7 +38,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-### **Husk of Xanthosis (Biter)**
+# Husk of Xanthosis (Biter)
 
 ![Sword Husk](/library/images/BiterHusk.webp)
 
@@ -61,7 +61,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Diseased Bite**: Any creature hit by the husk’s bite must succeed on a DC 11 Constitution saving throw or be infected with a minor disease. After 1 hour, the infected creature gains disadvantage on Constitution saving throws and skill checks for 24 hours. The disease can be cured with _Lesser Restoration_ or after 24 hours without a failed saving throw.
 
@@ -69,7 +69,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Actions**:
+## Actions
 
 - **Multiattack**: The husk makes two **Bite** attacks.
 
@@ -80,7 +80,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-### **Husk of Xanthosis (Spellcaster/Ranged)**
+# Husk of Xanthosis (Spellcaster/Ranged)
 
 ![Sword Husk](/library/images/CasterHusk.webp)
 
@@ -103,13 +103,13 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Traits**:
+## Traits
 
 - **Diseased Arrows**: The Husks of Xanthosis launches arrows tainted with minor diseases. Any creature hit by a ranged spell or attack must succeed on a DC 11 Constitution saving throw or be infected with the husk’s disease. After 1 hour, the infected creature gains disadvantage on Constitution saving throws and skill checks for 24 hours. The disease can be cured with _Lesser Restoration_ or after 24 hours without a failed saving throw.
 
 ---
 
-**Actions**:
+## Actions
 
 - **Rotting Arrow**: _Ranged Weapon Attack_: +4 to hit, range 60/240 ft., one target.  
   _Hit_: 6 (1d8 + 2) piercing damage plus 3 (1d6) necrotic damage. The target must succeed on a DC 11 Constitution saving throw or be infected with the husk’s disease.

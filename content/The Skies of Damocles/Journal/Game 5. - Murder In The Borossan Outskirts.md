@@ -21,7 +21,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1️⃣ Phase Spider Ambush**
+# **1️⃣ Phase Spider Ambush**
 
 - **Enemies:** **Phase Spiders**, creatures from **Beyond the Folds**, drawn to **the alchemical precursor** still clinging to Ukko and Lystig.
 - **Event:**
@@ -29,7 +29,7 @@
   - **Niccolo and Sigus were both knocked unconscious** during the fight.
   - The **party barely managed to defeat them**, learning that **creatures beyond reality** are drawn to misplaced energy.
 
-### **2️⃣ The Grimalkin Duel**
+# **2️⃣ The Grimalkin Duel**
 
 - **Event:**
   - Upon **arriving at the Seven Rats Tavern**, the party was **intercepted by Amon Grimalkin**, demanding **the return of his book**.
@@ -37,7 +37,7 @@
   - The party **refused**, leading to **a fight**.
   - **Amon was vastly stronger than expected**, but before the fight could escalate, **Tarcus arrived** and **killed Amon instantly** with a **single piercing strike to the skull** (**60+ damage in one hit**).
 
-### **3️⃣ Covering Up Amon’s Death**
+# **3️⃣ Covering Up Amon’s Death**
 
 - **Event:**
   - **Tarcus blamed the party** for Amon’s death, **forcing them to dispose of the body**.
@@ -46,21 +46,21 @@
 
 ## 💰 **Other Events & Roleplay**
 
-### **Buholingo’s Trial**
+# **Buholingo’s Trial**
 
 - **Accused of scamming** a **young woman** with **fake future readings**.
 - Sigus **secretly cast Sleep** on the woman and her accomplices, **ridiculing them in front of the judge** and **framing them as junkies**.
 - The judge, **frustrated by the spectacle**, **fined Buholingo a symbolic sum** but **spared him from jail**.
 - **As thanks, Buholingo promised Sigus a wand** when he next visited.
 
-### **Ukko’s Meeting with Petunia**
+# **Ukko’s Meeting with Petunia**
 
 - **Petunia** is **not a true Sunborn**, but rather a **Silent One demon in disguise**.
 - **Ukko has known her for years**, as she is **his personal tailor**.
 - She runs a **seekersilk spider farm**, allowing her to **track people remotely**.
 - **Ukko asked her to track Jaeger**, believing he may have **connections to the Borossan Courier Guild (the mafia holding information on Ukko’s missing sister and his father, Hirvi of the Storm Fist).**
 
-### **Other Downtime**
+# **Other Downtime**
 
 - **Lystig** helped with **chores at Gregory’s Inn**.
 - **Niccolo** went shopping and **bought a scimitar**.

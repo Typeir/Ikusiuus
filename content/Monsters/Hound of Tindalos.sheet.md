@@ -1,4 +1,4 @@
-# **Hound of Tindalos**
+# Hound of Tindalos
 
 ![Hound of Tindalos  ](/library/images/HoundOfTindalos.png)
 
@@ -26,7 +26,7 @@ A lesser hound of the Fold, this being is still dangerous when encountered in pl
 
 ---
 
-### **Traits**
+## Traits
 
 - **Non-Euclidean Anatomy**  
   Ignores difficult terrain and can move through spaces as narrow as 1 inch without squeezing. Once per turn, it can teleport up to 20 ft. through a wall if the entry point forms a sharp angle.
@@ -39,7 +39,7 @@ A lesser hound of the Fold, this being is still dangerous when encountered in pl
 
 ---
 
-### **Actions**
+## Actions
 
 - **Slashing Tendrils**  
   _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target.  

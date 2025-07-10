@@ -1,4 +1,4 @@
-### **Golden Pig**
+# **Golden Pig**
 
 _Large Aberration, neutral_
 
@@ -18,14 +18,14 @@ _Large Aberration, neutral_
 **Languages**: Understands the languages of its nurturer but cannot speak.  
 **Challenge**: 11 (7,200 XP)
 
-**Traits**:
+## Traits
 
 - **Aura of Mockery**: The golden pig emanates an aura of mockery in a 10-foot radius. Creatures that start their turn in this aura must succeed on a DC 18 Wisdom saving throw or take 8 (2d6) psychic damage and have disadvantage on the next Intelligence check or saving throw they make before the end of their next turn.
 - **Legendary Resistance (2/Day)**: If the pig fails a saving throw, it can choose to succeed instead.
 
 ---
 
-### **Legendary Actions**
+## Legendary Actions
 
 The Golden Pig can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The pig regains spent legendary actions at the start of its turn.
 
@@ -39,7 +39,7 @@ The Golden Pig can take 3 legendary actions, choosing from the options below. On
 
 ---
 
-### **Spellcasting**
+## Spellcasting
 
 The Golden Pig is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following spells prepared:
 
@@ -52,7 +52,7 @@ The Golden Pig is a 10th-level spellcaster. Its spellcasting ability is Charisma
 
 ---
 
-### **Lair Actions**
+## Lair Actions
 
 On initiative count 20 (losing initiative ties), the Golden Pig can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 
@@ -60,6 +60,6 @@ On initiative count 20 (losing initiative ties), the Golden Pig can take a lair 
 
 2. **Winged Mockery**: The pig sprouts ethereal wings for 1 round, granting it a flying speed of 60 feet. During this time, it can make one attack with its beak, dealing 21 (6d6) psychic damage on a hit. Additionally, each creature within 30 feet of the pig must succeed on a DC 18 Wisdom saving throw or be frightened until the end of their next turn.
 
-### **Actions**
+## Actions
 
 - **Multiattack**: The Pig casts two cantrips with his.

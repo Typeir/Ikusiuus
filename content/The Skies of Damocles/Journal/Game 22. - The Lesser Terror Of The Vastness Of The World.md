@@ -19,7 +19,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. The Guardian of the Tower**
+# **1. The Guardian of the Tower**
 
 - A **bipedal, lizard-like horror**, featuring:
   - A **twisted human-like face on its torso** with **four glowing white eyes**.

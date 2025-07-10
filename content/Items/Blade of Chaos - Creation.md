@@ -1,4 +1,4 @@
-### **Blade of Chaos: Creation**
+# Blade of Chaos: Creation
 
 _Longsword +1_  
 _Wondrous item, rare (requires attunement)_  
@@ -7,16 +7,16 @@ _Versatile_
 
 This blade is forged in the image of the **White Steed of Fear and Creation**, eternally locked in conflict with the **Black Steed of Ambition and Destruction**, each vying for control of the **long-abandoned Golden Chariot of Eternal Motion**.
 
-#### **Weapon Mastery:**
+## Weapon Mastery
 
 - **Sap** _(Only available if the wielder has mastery with Longswords)_:  
   After you successfully land an attack on a target, their **next attack roll is made at disadvantage**. This effect lasts **until the end of their next turn**.
 
-- **Fear Rend** _(1/Short rest, or PB/Short rest if the wielder has mastery with Longswords)_:  
+- **Fear Rend** _(1/Short rest, or 3/Short rest if the wielder has mastery with Longswords)_:  
   You roll your **next attack at advantage**. If you **hit a creature with this attack**, the target must succeed on a **(Spell Save DC + 1) Intelligence saving throw** or become **Frightened** until the end of their next turn.
   - While **Frightened**, the target **cannot move closer** to the wielder and has **disadvantage** on attack rolls, saving throws, and skill checks.
 
-#### **Effects:**
+## Effects
 
 - **Magical Weapon**:
 
@@ -36,7 +36,7 @@ This blade is forged in the image of the **White Steed of Fear and Creation**, e
   - This weapon **chains itself to another**, making **both count as the wielder’s pact weapon** and gain all the benefits of the feature.
   - This weapon **will not gain a +1 modifier** from being used as a pact weapon.
 
-#### **Weapon Properties:**
+## Weapon Properties
 
 - **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **3 lb.**, **Martial**
 

@@ -1,4 +1,4 @@
-# **Cerithol Lunam**
+# Cerithol Lunam
 
 ![Cerihol](/library/Images/Cerithol.png)
 
@@ -23,7 +23,7 @@ _Large Monstrosity, Unaligned_
 
 ---
 
-## **Traits**
+## Traits
 
 **Lunar Vessel.**  
 While closed, the Cerithol Lunam cannot cast spells but gains a +4 bonus to AC and is immune to being charmed or stunned.
@@ -57,7 +57,7 @@ The Cerithol Lunam can take up to **3 reactions per round**, but no more than on
 
 ---
 
-## **Actions**
+## Actions
 
 **Multiattack.**  
 The Cerithol Lunam makes three _Tentacle Whip_ attacks or one _Pseudopod Surge_ if open.
@@ -72,7 +72,7 @@ _Melee Weapon Attack_: +12 to hit, reach 60 ft., one target.
 
 ---
 
-## **Reactions**
+## Reactions
 
 **Bloodlash Rebuke (1st-level Unique Spell)**  
 _When a creature within 60 ft. succeeds on a saving throw or hits with an attack roll_  
@@ -81,7 +81,7 @@ The creature must succeed on a **DC 18 Dexterity saving throw** or take **4d10 d
 
 ---
 
-## **Description**
+## Description
 
 A **Cerithol Lunam** is a grotesque, fleshy orb that dwells deep within the corpse-womb of the half-slain moon goddess. Blind and bulbous, it moves on five bloated intestine-like limbs and is covered in translucent, sticky mucus. When threatened, it splits open to reveal a writhing core of veins and flesh that lashes out across impossible distance. It casts spells from holes that open briefly to hiss, bleed, or scream, and its acidic blood burns like starfire.
 

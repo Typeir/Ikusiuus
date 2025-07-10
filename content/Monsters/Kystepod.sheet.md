@@ -1,4 +1,4 @@
-# **Lunar Kystepod**
+# Lunar Kystepod
 
 ![Kystepod](/library/Images/Kystepod.png)
 
@@ -8,9 +8,9 @@ _Medium Monstrosity, Unaligned_
 | ------------------ | -------------- | -------------------- |
 | 16 (natural armor) | 78 (12d8 + 24) | 40 ft., climb 40 ft. |
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
-| 15 (+2) | 18 (+4) | 14 (+2) | 6 (-2) | 12 (+1) | 5 (-3) |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 15 (+2) | 18 (+4) | 14 (+2) | 6 (-2)  | 12 (+1) | 5 (-3)  |
 
 - **Saving Throws**: Dex +6, Wis +3
 - **Skills**: Stealth +6, Perception +3
@@ -24,7 +24,7 @@ _Medium Monstrosity, Unaligned_
 
 ---
 
-## **Traits**
+## Traits
 
 **Loyal Symbiote.**  
 The Lunar Kystepod is biologically tethered to Cerithol Lunami. While within 300 ft. of a Cerithol, it gains **pack tactics** and **cannot be frightened**. Additionally, the Cerithol can communicate telepathically with it.
@@ -37,7 +37,7 @@ The Kystepod can move across ceilings, walls, and rough surfaces without needing
 
 ---
 
-## **Actions**
+## Actions
 
 **Multiattack.**  
 The Lunar Kystepod makes two attacks: either with _Chitin Claws_, with _Acidic Ventral Harpoon_, it's _Tendrils_ or it's _Held Weapons_.
@@ -56,7 +56,7 @@ _Melee Weapon Attack_: +6 to hit, reach 10 ft., one target.
 
 ---
 
-## **Reactions**
+## Reactions
 
 **Spasm of Obedience.**  
 _When a Cerithol Lunam within 300 ft. takes damage_:  
@@ -64,7 +64,7 @@ The Kystepod may move up to its full movement toward the Cerithol and immediatel
 
 ---
 
-## **Description**
+## Description
 
 **Lunar Kystepods** are bloated, five-legged insectoid aberrations resembling a grotesque blend between a cockroach and a deep-buried tick. Created through parasitic grafting and lunar ichor rituals, they serve the **Cerithol Lunam** as guardians, scouts, and blood gatherers. Though they lack higher intelligence, their instincts are perfectly tuned to the will of the Cerithol. Their shells pulse with arcane scars, and their joints leak slow trails of acidic lymph that burn wherever they step. In groups, their speed and cruelty are overwhelming.
 

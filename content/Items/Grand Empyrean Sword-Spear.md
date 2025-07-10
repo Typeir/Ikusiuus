@@ -1,4 +1,4 @@
-### **Grand Empyrean Sword-Spear**
+# Grand Empyrean Sword-Spear
 
 _Sword-Spear +1 (versatile)_  
 _Wondrous item, rare (requires attunement)_  
@@ -6,7 +6,7 @@ _Versatile_
 
 The Empyrean Empire knew no bounds, and so did its cruelty. After the old gods were felled, tombsteel swords, spears, and lances such as this were forged in the image of the _heaven-piercers_ that killed **Päimar**, the sun god. These weapons were designed to channel the icy cold of the Empyrean’s wrath, bringing swift death to their enemies.
 
-#### **Weapon Mastery:**
+## Weapon Mastery
 
 - **Thrust** (Passive Mastery, available if the wielder has mastery with Sword-Spears):  
    When making an attack with this weapon, you can choose to deal piercing damage instead of slashing damage. When you do so, you gain +1 to the attack roll.
@@ -16,7 +16,7 @@ The Empyrean Empire knew no bounds, and so did its cruelty. After the old gods w
 
 ---
 
-#### **Magical Effect:**
+## Magical Effect
 
 - **+1 Weapon**:  
    This weapon has a +1 bonus to attack and damage rolls.
@@ -26,7 +26,7 @@ The Empyrean Empire knew no bounds, and so did its cruelty. After the old gods w
 
 ---
 
-#### **Weapon Stats:**
+## Weapon Stats
 
 - **Weapon Type**: Sword-Spear (counts as versatile)
 - **Damage**: 1d8 slashing (one-handed) / 1d10 slashing (two-handed)

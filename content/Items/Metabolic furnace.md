@@ -1,4 +1,4 @@
-# **Metabolic Furnace**
+# Metabolic Furnace
 
 _Wondrous item (Monstrous Graft), legendary, nonmagical_
 
@@ -8,7 +8,7 @@ This obscene monstrous graft dissolves your innards to fuel never-ending heat. F
 
 ---
 
-### **Attaching the Graft**
+## Attaching the Graft
 
 Attaching this _major monstrous graft_ to a humanoid requires an **8-hour surgical procedure** using:
 
@@ -32,13 +32,13 @@ Each hour of the procedure requires a **DC 20 Medicine check**.
 
 ---
 
-### **Extreme Adaptive Catabolism**
+## Extreme Adaptive Catabolism
 
 While attached to this graft, you are **immune to the effects of extreme cold and heat** (as per the _environmental rules_).
 
 ---
 
-### **Fuel for the Flames**
+## Fuel for the Flames\*
 
 The **Metabolic Furnace** has **12 charges**.
 
@@ -57,7 +57,7 @@ You may expend **2 charges** to gain **resistance to fire and cold damage** for 
 
 ---
 
-### **Unstable Wrath**
+## Unstable Wrath
 
 While under the effects of _Fuel for the Flames_, you may unleash the furnace’s full potential:
 

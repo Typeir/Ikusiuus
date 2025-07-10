@@ -27,7 +27,7 @@
 
 ---
 
-**Traits:**
+## Traits
 
 - **Weapons:**
 
@@ -39,7 +39,7 @@
 
 ---
 
-**Actions:**
+## Actions:
 
 - **Multiattack**: The creature makes an attack with one of its boots and one attack with its maw.
 
@@ -50,7 +50,7 @@
 
 ---
 
-### **Legendary Actions**
+# Legendary Actions
 
 - **Head of the sun**:
 
@@ -71,7 +71,7 @@
 
 ---
 
-### **Lair Actions**
+# **Lair Actions**
 
 On initiative count 20 (losing initiative ties), the **Lesser Terror** can take a lair action to cause one of the following effects; the **Lesser Terror** can’t use the same effect two rounds in a row:
 
@@ -88,7 +88,7 @@ On initiative count 20 (losing initiative ties), the **Lesser Terror** can take 
 
 ---
 
-### **Regional Effects**
+# **Regional Effects**
 
 The region containing the **Lesser Terror's** lair is warped by its presence, which creates one or more of the following effects:
 
@@ -105,13 +105,13 @@ The region containing the **Lesser Terror's** lair is warped by its presence, wh
 
 ---
 
-### **Spellcasting**
+# **Spellcasting**
 
 The **Lesser Terror Of The Vastness Of The World** is a 7th-level spellcaster. Its spellcasting ability is **Intelligence** (spell save DC 16, +8 to hit with spell attacks). It has the following wizard spells prepared:
 
 ---
 
-#### **Cantrips (At Will)**
+## **Cantrips (At Will)**
 
 - **Chill Touch**
 
@@ -141,7 +141,7 @@ The **Lesser Terror Of The Vastness Of The World** is a 7th-level spellcaster. I
 
 ---
 
-#### **1st Level (4 Slots)**
+## **1st Level (4 Slots)**
 
 - **Burning Hands**
 
@@ -173,7 +173,7 @@ The **Lesser Terror Of The Vastness Of The World** is a 7th-level spellcaster. I
 
 ---
 
-#### **2nd Level (3 Slots)**
+## **2nd Level (3 Slots)**
 
 - **Mirror Image**
 
@@ -194,7 +194,7 @@ The **Lesser Terror Of The Vastness Of The World** is a 7th-level spellcaster. I
 
 ---
 
-#### **3rd Level (3 Slots)**
+## **3rd Level (3 Slots)**
 
 - **Counterspell**
 
@@ -224,7 +224,7 @@ The **Lesser Terror Of The Vastness Of The World** is a 7th-level spellcaster. I
 
 ---
 
-#### **4th Level (1 Slot)**
+## **4th Level (1 Slot)**
 
 - **Phantasmal Killer**
   - **Illusion 4th Level**

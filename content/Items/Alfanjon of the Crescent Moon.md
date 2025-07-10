@@ -1,4 +1,4 @@
-### **Alfanjón of the Crescent Moon**
+# Alfanjón of the Crescent Moon
 
 _Curved longsword (Finesse Longsword / Curved Greatsword) +1_  
 _Very rare (requires attunement)_  
@@ -9,7 +9,7 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ---
 
-#### **Weapon Mastery:**
+## Weapon Mastery
 
 - **Slow**: On hit, the target’s movement speed is reduced by 10 feet until the end of its next turn.
 
@@ -21,7 +21,7 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ---
 
-#### **Effects:**
+## Effects
 
 - **+1 to attack and damage rolls** (magical weapon)
 
@@ -41,7 +41,7 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ---
 
-#### **Innate Cantrip – Lesser Mooncleave**
+## Innate Cantrip – Lesser Mooncleave
 
 > **Lesser Mooncleave**  
 > _Evocation Cantrip_  
@@ -57,7 +57,7 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ---
 
-#### **Special Features:**
+## Special Features
 
 - **Lunar Dissolution**:  
   As a **bonus action**, the blade can vanish or reappear in the wielder’s hand in a shimmer of silver mist.

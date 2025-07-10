@@ -1,4 +1,4 @@
-# **Vile Star**
+# Vile Star
 
 _Rifle +2_  
 _Wondrous item, legendary (requires attunement)_  
@@ -8,18 +8,18 @@ A speck of truth, granted to those who've been inflicted vileness — so they ma
 
 ---
 
-## **Weapon Mastery:**
+## Weapon Mastery
 
 - **Slow** _(Only available if the wielder has mastery with rifles)_:  
   When you deal damage to a creature with this weapon, its **movement speed is reduced by 10 ft.** until the start of your next turn.
 
-- **Vile Supernova** _(1/Short rest, or PB/Short rest if the wielder has mastery with rifles)_:  
+- **Vile Supernova** _(1/Short rest, or 3/Short rest if the wielder has mastery with rifles)_:  
   You roll your **next attack at advantage**. If the attack **hits**, it deals an additional **2d12 poison** and **2d12 radiant** damage.
   - If the target is suffering from **any condition**, all other creatures within **20 ft.** must make a **DC 22 Constitution saving throw**, or also gain that same condition until the end of their next turn.
 
 ---
 
-## **Effects:**
+## Effects
 
 - **Magical Weapon**:
 

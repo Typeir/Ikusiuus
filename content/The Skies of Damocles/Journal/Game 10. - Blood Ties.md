@@ -24,7 +24,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. Sigus' Visitation**
+# **1. Sigus' Visitation**
 
 - **Lacuna**, the **Kelpybara**, vanished from Sigus’s room during the night.
 - He found it **standing on its hind legs**, **pointing at the sky**, specifically at the **Light of Creation**, a **sacred star**.
@@ -32,7 +32,7 @@
 - The **creature spoke cryptically**, urging **Sigus to visit his master soon**, before vanishing back into the sky.
 - The **room was forever warped**, surfaces now **rippled with magic**.
 
-### **2. Reunion with Hirvi**
+# **2. Reunion with Hirvi**
 
 - Ukko received a **letter**, carried by an **owl**—a sign of his father, **Hirvi of the Storm Fist**.
 - The letter, written in **Hirvi’s blunt style**, simply read:
@@ -45,26 +45,26 @@
 - The **entire bar went silent**, and they were **kicked out** for causing a scene.
 - Before leaving, **Hirvi told Ukko to be ready—he’d be watching him in the tournament.**
 
-### **3. The Pit Fights**
+# **3. The Pit Fights**
 
 - Ukko and Niccolo entered the **underground gladiatorial tournament**, hosted by the **Courier Guild**.
 - **Cicero**, a **Sunborn secretary bird**, managed the event on behalf of **Galán**.
 - The tournament consisted of **three fights, spaced over five days**.
 - The **final reward** was a **meeting with both Galán and the Borossan King**, along with an **exclusive invitation** to the **Royal Court**.
 
-#### **Fight 1: The Glass Blades**
+## **Fight 1: The Glass Blades**
 
 - Opponents: **Two Cavarian Swordsmen**.
 - **Niccolo was gravely injured**, but they secured **victory**.
 - After the fight, they discovered **Hirvi was also competing**—alongside his pet **owl**.
 
-#### **Fight 2: Unga & Bunga**
+## **Fight 2: Unga & Bunga**
 
 - Opponents: **A Sunborn Frog & Sunborn Armadillo**.
 - Ukko used **Fist of Unbroken Air** to **impale one opponent against the spiked walls**.
 - The second **surrendered but was executed.**
 
-#### **Fight 3: Ukko vs. Hirvi**
+## **Fight 3: Ukko vs. Hirvi**
 
 - **Hirvi recited the three tenets of the Storm Fist** as he ruthlessly beat down **Ukko**.
 - Niccolo **landed a miraculous critical hit**, dealing a decisive blow.

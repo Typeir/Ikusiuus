@@ -1,4 +1,4 @@
-# **Hound of Tindalos – Gaper**
+# Hound of Tindalos – Gaper
 
 ![Hound of Tindalos - Gaper  ](/library/images/Gaper.png)
 
@@ -26,7 +26,7 @@ Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their eno
 
 ---
 
-### **Traits**
+## Traits
 
 - **Gaping Maw of Revelation**  
   Creatures that start their turn within 5 ft. must succeed on a DC 13 Wisdom saving throw or become **Charmed** until the end of their next turn. If already Charmed, they are instead **Paralyzed** for 1 round.
@@ -39,7 +39,7 @@ Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their eno
 
 ---
 
-### **Actions**
+## Actions
 
 - **Twin Mantra (At-Will)**  
   The Gaper casts two cantrips per round: one _Toll the Dead_ (DC 13 Wis save) and one _Sacred Flame_ (DC 13 Dex save), targeting different creatures within 60 ft.
@@ -49,7 +49,7 @@ Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their eno
 
 ---
 
-### **Spellcasting**
+## Spellcasting
 
 - **Spellcasting Ability**: Wisdom (DC 13, +5 to hit)
 - **Components**: None required

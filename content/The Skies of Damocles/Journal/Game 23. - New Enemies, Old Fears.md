@@ -23,7 +23,7 @@
 
 ## ⚔ **Encounters & Conflict**
 
-### **1. Confrontation with the Society**
+# **1. Confrontation with the Society**
 
 - **The party failed to deceive Camille** about sneaking into the **Wax Gate chambers**.
 - **Sigus stole ancient stone tablets**, realizing he could **read the language of dragons**.
@@ -34,7 +34,7 @@
   - **Lystig revealed his first memory of Damocles was on a beach**—Camille **sent homunculi to search for it**.
 - **Lystig was spared but stripped of his 2,500 dagger reward**, and the **party was exiled from the castle**.
 
-### **2. The Anvil, Smithee Inn & Grenmvar’s Story**
+# **2. The Anvil, Smithee Inn & Grenmvar’s Story**
 
 - The party **hitched a ride on a homunculi ship** back to the mainland.
 - They stopped at **The Anvil, an inn fashioned from an ancient giant's anvil** near the **Cerulean Forest**, searching for Lystig’s lost past.
@@ -46,7 +46,7 @@
   - The **Hidden Kingdom is no longer the place Lystig remembers**—it is now **ruled by rogue Blood Gnomes**.
 - **Lystig had a panic attack and left the tavern.**
 
-### **3. Spying & Confrontation with Camille**
+# **3. Spying & Confrontation with Camille**
 
 - In the morning, the party **found Camille’s homunculi spying on them**.
 - **Sigus confronted Camille via the messenger stone**, but she **dismissed their concerns**, stating:

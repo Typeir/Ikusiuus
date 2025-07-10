@@ -24,7 +24,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. The Grand Ball**
+# **1. The Grand Ball**
 
 - **The party attended the Royal Ball**, engaging with **nobles, mercenaries, and familiar faces**.
 - **Lystig** finalized his transition to **Battle Smith**, creating a **steel defender**, a **spider-crab automaton**.
@@ -33,7 +33,7 @@
 - **Camille asked to see the warped room** Sigus mentioned, to which he **agreed**.
 - **Tarcus** arrived late, **wearing new armor and weaponry**, announcing his **departure to the Hinterlands**.
 
-### **2. The King’s Announcements**
+# **2. The King’s Announcements**
 
 - **The White Ravens were knighted** for their service in retrieving the **Sunglobe**.
 - **King Boros X declared his intent to leave on a sacred pilgrimage** to **seek the Sun God**.
@@ -42,7 +42,7 @@
 - The **room was displeased** with Cedos’ appointment, fearing **separatist influence**.
 - **Galán offered to keep things in check**, promising to send **his own “accomplices”**.
 
-### **3. The King’s Private Study & The Assassination of Galán**
+# **3. The King’s Private Study & The Assassination of Galán**
 
 - **Ukko & Niccolo were invited to a private meeting** with the King and Galán.
 - They were **to serve as Galán’s bodyguards**, ensuring his **control over Borossa** in **Boros X’s absence**.
@@ -53,7 +53,7 @@
 - **Niccolo followed up with a well-placed shot**, and **Ukko delivered the final blow**, **killing Galán.**
 - **The King and his family attempted to flee**, but **Camille seized control of the situation**.
 
-### **4. The Aftermath - Hirvi’s Arrival**
+# **4. The Aftermath - Hirvi’s Arrival**
 
 - **Cicero tried to escape**, but **Sigus grabbed him by the neck**, forcing him to **stay with the royalty**.
 - **Camille, realizing the power vacuum, appointed Cicero as Galán’s successor**.

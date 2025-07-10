@@ -18,7 +18,7 @@
 
 ## ⚔ **Encounters & Combat**
 
-### **1. Looting the Sunken Keep**
+# **1. Looting the Sunken Keep**
 
 - The party **escaped the freezing waters** of the aquifer and began **searching for useful supplies** from the corpses scattered among the ruins.
 - **Notable loot:**
@@ -28,7 +28,7 @@
   - When the weapons were near each other (within **30 feet**), they were **weightless**.
   - When separated, they became **unbearably heavy**.
 
-### **2. Clasper Burial Grounds**
+# **2. Clasper Burial Grounds**
 
 - The party discovered a **large chamber filled with dessicated Clasper corpses**, arranged in **ceremonial fashion**.
 - **Signs of ritual sacrifice:**
@@ -36,7 +36,7 @@
   - The Claspers appeared **less deformed** than the ones encountered on the battlefield.
   - Possible implications: **A ritual either to create Claspers from humans, or a form of burial practice.**
 
-### **3. Pieni Ruins**
+# **3. Pieni Ruins**
 
 - Lystig **discovered remnants of an ancient structure**, buried beneath the aquifer.
 - **Signs of civilization:**
@@ -45,7 +45,7 @@
   - **Depictions of a sun-like figure**, with **limbs extending into the earth**.
 - Fearing danger, **Lystig did not inform the party** and left the ruins undisturbed.
 
-### **4. The Stone Louse Clasper**
+# **4. The Stone Louse Clasper**
 
 - The party followed a faint current of air through a **dark, narrow tunnel**, leading out of the cave.
 - **Ambush:** A **Stone Louse Clasper** (a **burrowing, heavily armored variant**) attacked, tunneling through the walls.
@@ -54,7 +54,7 @@
   - **Niccolo and Sigus were both knocked unconscious.**
   - **Ukko singlehandedly defeated the beast** and stabilized the others.
 
-### **5. The Ocean-Side Alcove**
+# **5. The Ocean-Side Alcove**
 
 - After **escaping the tunnels**, the party emerged **high above the ocean**, overlooking the **coast of Dhanas**.
 - **Witnessed a horrifying transformation:**
@@ -63,7 +63,7 @@
   - The cocoon **pulsated grotesquely**, as if **something was being born inside**.
 - **Ukko recognized the Rider’s fighting style**, **similar to his father’s**, leading to suspicions that the Rider **knew him personally**.
 
-### **6. The Rider’s Resurrection**
+# **6. The Rider’s Resurrection**
 
 - Hours later, a **Brumean skirmish ship arrived**, soldiers cutting open the **Chrysalis**.
 - **A twisted figure emerged** – the Rider, **horribly altered**, barely able to walk.
