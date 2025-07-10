@@ -4,21 +4,21 @@
 
 _Medium Humanoid (Empyrean), Neutral Evil_
 
-- **Armor Class**: 17 (natural armor, shield)
-- **Hit Points**: 120 (10d8 + 80)
-- **Speed**: 30 ft.
+| **Armor Class**            | **Hit Points**  | **Speed** |
+| -------------------------- | --------------- | --------- |
+| 17 (natural armor, shield) | 120 (10d8 + 80) | 30 ft.    |
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-| 22 (+6) | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 18 (+4) |
+| 26 (+8) | 18 (+4) | 20 (+5) | 14 (+2) | 12 (+1) | 16 (+3) |
 
-**Saving Throws**: Str +9, Dex +6, Con +8  
-**Skills**: Athletics +9, Perception +6, Intimidation +8  
-**Damage Resistances**: Cold, Lightning  
-**Condition Immunities**: Charmed, Frightened  
-**Senses**: Darkvision 60 ft., passive Perception 16  
-**Languages**: Common, Empyrean  
-**Challenge**: 8 (7,200 XP)  
+**Saving Throws**: Str +9, Dex +6, Con +8
+**Skills**: Athletics +9, Perception +6, Intimidation +8
+**Damage Resistances**: Cold, Lightning
+**Condition Immunities**: Charmed, Frightened
+**Senses**: Darkvision 60 ft., passive Perception 16
+**Languages**: Common, Empyrean
+**Challenge**: 8 (7,200 XP)
 **Proficiency Bonus**: +4
 
 ---
@@ -37,7 +37,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 - **Multiattack**: The Fencer makes two attacks with their **Thrown Greatswords**.
 
-- **Thrown Greatsword**: _Ranged Weapon Attack_: +10 to hit, range 20/40 ft., one target.  
+- **Thrown Greatsword**: _Ranged Weapon Attack_: +10 to hit, range 20/40 ft., one target.
   _Hit_: 11 (2d8 + 6) slashing damage plus 7 (2d6) thunder damage. The sword breaks upon impact.
 
 - **Thunderous Hurl** (Recharge 5–6): The Fencer throws a greatsword in a line 60 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 4d8 slashing damage and 4d6 lightning damage on a failed save, or half as much on a successful save. The sword then explodes with thunderous force, dealing 4d6 thunder damage to all creatures within 10 feet of the target.
@@ -52,8 +52,11 @@ The Fencer of the Quiver can take 2 legendary actions, choosing from the options
 
   - A storm cloud appears 100 feet above, centered on a point the Fencer can see within 120 feet. A bolt of lightning strikes down at a point the Fencer chooses. Each creature within 5 feet of that point must make a DC 16 Dexterity saving throw, taking 3d10 lightning damage on a failed save, or half on a success.
 
-- **Move**: (Costs 1 Action) The Fencer moves up to their speed without provoking opportunity attacks.
+- **Move** (Costs 1 Action): The Fencer moves up to their speed without provoking opportunity attacks.
+
 - **Hurl to Partner** (Costs 2 Actions): The Fencer hurls a greatsword toward their partner, the **Fencer of the Épée**. The Fencer of the Épée may use their reaction to automatically deflect the greatsword and send it flying toward a target within 30 feet, forcing the target to make a DC 17 Dexterity saving throw or take 2d8 slashing damage and 2d6 thunder damage. The sword breaks after this deflection.
+
+---
 
 # Fencer of the Épée, Hoplomachia
 
@@ -61,21 +64,21 @@ The Fencer of the Quiver can take 2 legendary actions, choosing from the options
 
 _Medium Humanoid (Empyrean), Neutral Evil_
 
-- **Armor Class**: 21 (natural armor, shield)
-- **Hit Points**: 90 (12d8 + 60)
-- **Speed**: 35 ft.
+| **Armor Class**            | **Hit Points** | **Speed** |
+| -------------------------- | -------------- | --------- |
+| 21 (natural armor, shield) | 90 (12d8 + 60) | 35 ft.    |
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 22 (+6) | 18 (+4) | 16 (+3) | 16 (+3) | 18 (+4) |
+| 20 (+5) | 26 (+8) | 18 (+4) | 14 (+2) | 16 (+3) | 14 (+2) |
 
-**Saving Throws**: Dex +8, Con +8, Wis +6  
+**Saving Throws**: Dex +8, Con +8, Wis +6
 **Skills**: Acrobatics +8, Deception +8, Perception +6
-**Damage Resistances**: Cold, Lightning  
-**Condition Immunities**: Charmed, Frightened  
-**Senses**: Darkvision 60 ft., passive Perception 16  
-**Languages**: Common, Empyrean  
-**Challenge**: 8 (7,200 XP)  
+**Damage Resistances**: Cold, Lightning
+**Condition Immunities**: Charmed, Frightened
+**Senses**: Darkvision 60 ft., passive Perception 16
+**Languages**: Common, Empyrean
+**Challenge**: 8 (7,200 XP)
 **Proficiency Bonus**: +4
 
 ---
@@ -92,7 +95,7 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 
 - **Multiattack**: The Fencer makes two attacks with their **Great Épée**.
 
-- **Great Épée**: _Melee Weapon Attack_: +10 to hit, reach 5 ft., one target.  
+- **Great Épée**: _Melee Weapon Attack_: +10 to hit, reach 5 ft., one target.
   _Hit_: 13 (2d8 + 6) piercing damage. The target must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 ---
@@ -102,5 +105,5 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 The Fencer of the Épée can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. The Fencer regains spent legendary actions at the start of their turn.
 
 - **Attack**: The Fencer makes one attack with their **Great Épée**.
-- **Parry**: The Fencer adds +3 to their AC until the next melee attack that would hits them.
-- **Move** (Costs 1 Actions): The Fencer moves up to their speed without provoking opportunity attacks.
+- **Parry**: The Fencer adds +3 to their AC until the next melee attack that would hit them.
+- **Move** (Costs 1 Action): The Fencer moves up to their speed without provoking opportunity attacks.

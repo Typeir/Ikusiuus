@@ -31,10 +31,7 @@ export async function GET(req: Request) {
       if (IGNORED_FOLDERS.has(entry.name)) continue;
 
       const fullPath = path.join(dir, entry.name);
-      const fileName = entry.name
-        .replace(/\.sheet\.md$/, '')
-        .replace(/\.md$/, '')
-        .replace(/\.sheet$/, '');
+      const fileName = entry.name.replace(/\.md$/, '');
 
       const kebabPath = path.join(base, toKebabCase(fileName));
 
@@ -44,7 +41,10 @@ export async function GET(req: Request) {
         entry.name.endsWith('.md') &&
         fileName.toLowerCase().includes(q)
       ) {
-        matches.push({ name: fileName, path: kebabPath });
+        matches.push({
+          name: fileName.replace(/\.sheet\.md$/, '').replace(/\.sheet$/, ''),
+          path: kebabPath,
+        });
       }
     }
   }
