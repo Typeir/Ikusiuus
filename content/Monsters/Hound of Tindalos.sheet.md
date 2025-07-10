@@ -1,0 +1,50 @@
+# **Hound of Tindalos**
+
+![Hound of Tindalos  ](/library/images/HoundOfTindalos.png)
+
+A lesser hound of the Fold, this being is still dangerous when encountered in places where the veils of reality are thin. It stalks magical activity and slips through the geometry of the world in search of prey marked by temporal anomalies.
+
+- Medium Celestial (Fold), Lawful Neutral
+- **Challenge**: 2 (450 XP)
+- **Proficiency Bonus**: +2
+
+| **Armor Class**       | **Hit Points** | **Speed**            |
+| --------------------- | -------------- | -------------------- |
+| 14 (fold-warped hide) | 45 (6d8 + 18)  | 40 ft., Climb 20 ft. |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 14 (+2) | 16 (+3) | 16 (+3) | 6 (−2)  | 12 (+1) | 6 (−2)  |
+
+- **Saving Throws**: Dex +5, Wis +3
+- **Skills**: Perception +3, Stealth +5
+- **Damage Resistances**: Force, Radiant, Thunder
+- **Damage Immunities**: Necrotic
+- **Condition Immunities**: Charmed, Frightened
+- **Senses**: Darkvision 60 ft., Fold-Sense 30 ft.
+- **Languages**: —
+
+---
+
+### **Traits**
+
+- **Non-Euclidean Anatomy**  
+  Ignores difficult terrain and can move through spaces as narrow as 1 inch without squeezing. Once per turn, it can teleport up to 20 ft. through a wall if the entry point forms a sharp angle.
+
+- **Fold-Sense**  
+  Can detect magical auras, spellcasting, and enchantments within 30 ft., even through walls.
+
+- **Spellbreaker Aura**  
+  Creatures concentrating on spells within 5 ft. of the hound make concentration checks with disadvantage.
+
+---
+
+### **Actions**
+
+- **Slashing Tendrils**  
+  _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target.  
+  _Hit_: 9 (2d6 + 2) slashing damage and 3 (1d6) radiant damage.
+
+- **Angular Howl (Recharge 6)**  
+  The hound emits a warped cry that fractures local space.  
+  Each creature within 10 ft. must make a DC 12 Constitution saving throw. On a failure, the creature is **stunned until the start of its next turn** and takes 9 (2d8) force damage. On a success, it takes half damage and isn’t stunned.

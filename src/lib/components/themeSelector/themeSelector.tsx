@@ -1,36 +1,47 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
+import { Theme } from '../../enums/themes';
 import { circularClamp } from '../../utils/circularClamp';
 
-enum Theme {
-  Light = 'light',
-  Dark = 'dark',
-  Damocles = 'damocles',
-}
+const THEMES: Theme[] = Object.values(Theme);
 
-const THEMES: Theme[] = [Theme.Light, Theme.Dark, Theme.Damocles];
-
-type ThemeSelectorProps = {
-  onThemeChange?: (newTheme: string) => void;
+/**
+ * Props for the ThemeSelector component.
+ *
+ * @typedef {Object} ThemeSelectorProps
+ * @property {(newTheme: Theme) => void} [onThemeChange] - Optional callback triggered when the theme changes.
+ * @property {Theme} defaultTheme - default theme value
+ */
+export type ThemeSelectorProps = {
+  onThemeChange?: (newTheme: Theme) => void;
+  defaultTheme: Theme;
 };
 
+/**
+ * A React client component that allows users to cycle through a list of predefined themes.
+ *
+ * Displays the current theme and provides a button to switch to the next one.
+ * When clicked, the theme index is incremented in a circular fashion and applied to `document.body`.
+ *
+ * @param {ThemeSelectorProps} props - The component props.
+ * @property {Theme} props.onThemeChange - callback for when theme changes
+ * @property {string} props.defaultTheme - default theme value
+ * @returns {JSX.Element} A themed UI selector button and heading.
+ */
 export const ThemeSelector = ({
+  defaultTheme = Theme.Dark,
   onThemeChange = () => {},
-}: ThemeSelectorProps) => {
-  const [themeIndex, setThemeIndex] = useState(1);
-
-  useEffect(() => {
-    const currentTheme = THEMES[themeIndex % THEMES.length];
-    document.body.setAttribute('theme', currentTheme);
-  }, [themeIndex]);
+}: ThemeSelectorProps): JSX.Element => {
+  const [themeIndex, setThemeIndex] = useState(
+    circularClamp(THEMES.indexOf(defaultTheme), 0, THEMES.length - 1)
+  );
 
   return (
     <div className='flex flex-col items-start gap-2 mb-4'>
-      <h1 className='text-3xl font-bold'>Library of Ikuisuus</h1>
       <button
         onClick={() => {
-          const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1);
+          const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1); // Cycle within bounds
           console.log(newTheme);
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);

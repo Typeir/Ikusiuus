@@ -34,29 +34,36 @@ export default function Home() {
   }, [query]);
 
   return (
-    <div className="space-y-6">
+    <div className='space-y-6'>
       <input
-        type="text"
-        placeholder="Search the Library..."
+        type='text'
+        placeholder='Search the Library...'
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        className="w-full p-3 bg-zinc-800 border border-zinc-700 text-white rounded"
+        className='w-full p-3 bg-zinc-800 border border-zinc-700 text-white rounded'
       />
 
-      {loading && <p className="text-sm text-zinc-500">Searching...</p>}
+      {loading && <p className='text-sm text-zinc-500'>Searching...</p>}
 
       {results.length > 0 && (
-        <div className="max-h-96 overflow-y-auto border border-zinc-700 rounded p-4 bg-zinc-900">
-          <h3 className="text-sm font-semibold mb-2 text-zinc-400">Local Results</h3>
-          <ul className="space-y-1 text-sm">
+        <div className='max-h-96 overflow-y-auto border border-zinc-700 rounded p-4 bg-zinc-900'>
+          <h3 className='text-sm font-semibold mb-2 text-zinc-400'>
+            Local Results
+          </h3>
+          <ul className='space-y-1 text-sm'>
             {results.map((r) => (
               <li key={r.path}>
-                <Link href={`/library/${r.path}`} className="text-blue-300 hover:underline">
+                <Link
+                  href={`/library/${r.path}`}
+                  className='text-blue-300 hover:underline'>
                   {r.name}
                 </Link>
               </li>
             ))}
           </ul>
+          <h3 className='text-sm font-semibold mb-2 text-zinc-400'>
+            Results from beyond the Clone Worlds
+          </h3>
         </div>
       )}
     </div>

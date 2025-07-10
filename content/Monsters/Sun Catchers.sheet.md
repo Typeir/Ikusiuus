@@ -1,0 +1,163 @@
+# **Sun Catchers**
+
+![SunCat](/library/images/SunCat.png)
+
+---
+
+## **Sun Catcher Cub**
+
+- Large Monstrosity, Unaligned
+
+| **Armor Class** | **Hit Points** | **Speed** |
+| --------------- | -------------- | --------- |
+| 11              | 30             | 45 ft.    |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 12 (+1) | 10 (+0) | 7 (-2)  | 14 (+2) | 6 (-2)  |
+
+- **Senses**: Passive Perception 16, darkvision 60ft
+- **Languages**: --
+- **Challenge**: 2 (400 XP)
+- **Proficiency Bonus**: +2
+
+**Traits:**
+
+- **Weapons:**
+  - Claws (natural weapon): (+6 to hit) 2d6 + 4 damage
+
+**Actions:**
+
+- **Jaws**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (3d8 + 4) Piercing damage.
+
+- **Hide in Mane**: As a bonus action, once every day, the creature can close its flower-like mane and set its Armor Class to 17, at the cost of going blind and deaf until it emerges (Bonus action).
+
+---
+
+## **Sun Catcher Juvenile**
+
+- Large Monstrosity, Unaligned
+
+| **Armor Class** | **Hit Points** | **Speed** |
+| --------------- | -------------- | --------- |
+| 12              | 55             | 45 ft.    |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 20 (+5) | 16 (+3) | 12 (+1) | 7 (-2)  | 14 (+2) | 6 (-2)  |
+
+- **Senses**: Passive Perception 16, darkvision 60ft
+- **Languages**: --
+- **Challenge**: 4 (1,100 XP)
+- **Proficiency Bonus**: +2
+
+**Traits:**
+
+- **Weapons:**
+
+  - Claws (natural weapon): (+7 to hit) 3d6 + 6 damage
+
+- **Tool User**: This creature may use its posterior appendages to grasp weapons and shields, but it will move at 30ft when standing on its hind legs.
+
+**Actions:**
+
+- **Jaws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (3d8 + 5) Piercing damage.
+
+- **Multiattack**: The creature makes an attack with one of its weapons and one attack with its jaws.
+
+- **Shrieking Roar**: The creature uses its petals to emit a Shrieking noise while it roars; all creatures that are not Sun catchers and can hear it within 25 feet of it must roll a DC 11 Wisdom check or be frightened of it until the end of their next turn.
+
+---
+
+## **Sun Catcher Elder**
+
+- Large Monstrosity, Unaligned
+
+| **Armor Class** | **Hit Points** | **Speed** |
+| --------------- | -------------- | --------- |
+| 13              | 85             | 45 ft.    |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 22 (+6) | 16 (+3) | 16 (+3) | 7 (-2)  | 18 (+4) | 6 (-2)  |
+
+- **Senses**: Passive Perception 18, darkvision 60ft
+- **Languages**: --
+- **Challenge**: 5 (1,800 XP)
+- **Proficiency Bonus**: +3
+
+**Traits:**
+
+- **Weapons:**
+
+  - Claws (natural weapon): (+9 to hit) 3d6 + 6 damage
+
+- **Tool User**: This creature may use its posterior appendages to grasp weapons and shields, but it will move at 30ft when standing on its hind legs.
+
+**Actions:**
+
+- **Jaws**: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (4d8 + 6) Piercing damage.
+
+- **Multiattack**: The creature makes an attack with one of its weapons and one attack with its jaws.
+
+- **Shrieking Roar**: The creature uses its petals to emit a Shrieking noise while it roars; all creatures that are not Sun catchers and can hear it within 100 feet of it must roll a DC 13 Wisdom check or be frightened of it until the end of their next turn. If the creature has direct line of sight, they will be paralyzed instead.
+
+---
+
+## **Kipinöitä** (Sun Catcher Elder)
+
+- Large Monstrosity, Unaligned
+
+| **Armor Class**                  | **Hit Points** | **Speed** |
+| -------------------------------- | -------------- | --------- |
+| 17 (mage armor, ring of evasion) | 85             | 45 ft.    |
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 22 (+6) | 16 (+3) | 16 (+3) | 14 (+2) | 18 (+4) | 6 (-2)  |
+
+- **Senses**: Passive Perception 18, darkvision 60ft
+- **Languages**: --
+- **Challenge**: 5 (1,800 XP)
+- **Proficiency Bonus**: +3
+
+**Traits:**
+
+- **Weapons:**
+
+  - Claws (natural weapon): (+9 to hit) 3d6 + 6 damage
+
+- **Tool User**: This creature may use its posterior appendages and tail to grasp weapons and shields, but it will move at 30ft when standing on its hind legs.
+
+- **Ironwood Staff**: 4d6 + 7, bludgeoning magical damage. Target must succeed on a DC 15 Constitution saving throw or be silenced until the end of their next turn.
+
+**Actions:**
+
+- **Jaws**: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (4d8 + 6) Piercing damage.
+
+- **Multiattack**: The creature makes an attack with one of its weapons and one attack with its jaws.
+
+- **Shrieking Roar**: The creature uses its petals to emit a Shrieking noise while it roars; all creatures that are not Sun catchers and can hear it within 100 feet of it must roll a DC 13 Wisdom check or be frightened of it until the end of their next turn. If the creature has direct line of sight, they will be paralyzed instead.
+
+---
+
+### **Spellcasting:**
+
+- **Cantrips:**
+
+  - Mage Hand
+  - Minor Illusion
+  - Booming Blade
+
+- **Slots:**
+
+  - **Level 1**: 4
+
+    - Magic Missile
+    - Silvery Barbs
+    - Thunderwave
+    - Disguise Self
+
+  - **Level 2**: 2
+    - Misty Step
+    - Pass Without Trace

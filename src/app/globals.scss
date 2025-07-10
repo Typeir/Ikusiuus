@@ -1,0 +1,172 @@
+/* ============================================
+   GLOBAL SCSS VARIABLES (timing & easing)
+============================================ */
+
+$transition-duration-fast: 0.3s;
+$transition-duration-medium: 0.6s;
+$transition-ease-snappy: cubic-bezier(0.65, 0, 0.35, 1);
+
+/* ============================================
+   TAILWIND LAYERS
+============================================ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   THEME DEFINITIONS (replace default colors)
+============================================ */
+
+[theme='light'] {
+  --color-bg: #ffffff;
+  --color-text: #1e1e1e;
+  --color-accent: #0070f3;
+  --color-surface: #f4f4f5;
+
+  --color-primary: #0070f3;
+  --color-secondary: #a0a0a0;
+  --color-actionable: #ff9800;
+}
+
+[theme='dark'] {
+  --color-bg: #0f0f0f;
+  --color-text: #f4f4f5;
+  --color-accent: #38bdf8;
+  --color-surface: #18181b;
+
+  --color-primary: #38bdf8;
+  --color-secondary: #888888;
+  --color-actionable: #ffa500;
+}
+
+[theme='damocles'] {
+  --color-bg: #111217;
+  --color-text: #c8ccc7;
+  --color-accent: #8fd3a1;
+  --color-surface: #1b1d23;
+
+  --color-primary: #7fb79b;
+  --color-secondary: #545d6a;
+  --color-actionable: #b2dfdb;
+}
+
+/* ============================================
+   GLOBAL BODY RESET AND TRANSITION
+============================================ */
+/* globals.scss or layout global style */
+html {
+  scrollbar-gutter: stable;
+}
+
+body[theme] {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  transition: background-color $transition-duration-medium
+      $transition-ease-snappy,
+    scrollbar-color $transition-duration-medium $transition-ease-snappy,
+    color $transition-duration-medium $transition-ease-snappy;
+
+  scrollbar-color: var(--color-secondary) transparent;
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--color-accent);
+    border-radius: 4px;
+    border: 1px solid var(--color-surface);
+  }
+}
+
+body[theme] * {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  border-color: var(--color-secondary);
+  transition: background-color $transition-duration-medium
+      $transition-ease-snappy,
+    color $transition-duration-medium $transition-ease-snappy;
+}
+
+/* ============================================
+   THEME-AWARE COMPONENT OVERRIDES
+============================================ */
+
+@layer components {
+  .search-bar {
+    background-color: var(--color-surface);
+    border-color: var(--color-accent);
+    color: var(--color-text);
+  }
+
+  .search-button {
+    background-color: var(--color-surface);
+    border-color: var(--color-accent);
+    color: var(--color-text);
+  }
+
+  .search-result {
+    background-color: var(--color-surface);
+    border-color: var(--color-accent);
+  }
+
+  .prose {
+    --tw-prose-body: var(--color-text);
+    --tw-prose-headings: var(--color-text);
+    --tw-prose-lead: var(--color-text);
+    --tw-prose-links: var(--color-accent);
+    --tw-prose-bold: var(--color-text);
+    --tw-prose-counters: var(--color-text);
+    --tw-prose-bullets: var(--color-text);
+    --tw-prose-hr: var(--color-surface);
+    --tw-prose-quotes: var(--color-text);
+    --tw-prose-quote-borders: var(--color-accent);
+    --tw-prose-captions: var(--color-text);
+    --tw-prose-code: var(--color-accent);
+    --tw-prose-pre-code: var(--color-text);
+    --tw-prose-pre-bg: var(--color-surface);
+    --tw-prose-th-borders: var(--color-accent);
+    --tw-prose-td-borders: var(--color-surface);
+  }
+
+  .primary {
+    color: var(--color-primary);
+  }
+
+  .secondary {
+    color: var(--color-secondary);
+  }
+
+  .actionable {
+    color: var(--color-actionable);
+    cursor: pointer;
+  }
+}
+
+/* ============================================
+   SITE-WIDE CLASSES
+============================================ */
+
+img.logo {
+  max-height: 3.4rem;
+  max-width: 120px;
+  width: auto;
+  object-fit: contain;
+}
+
+.sidebar {
+  scrollbar-gutter: stable;
+  width: 20rem; /* Tailwind w-64 = 16rem = 256px */
+  padding: 1.5rem;
+  // padding-right: 2.5rem !important;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
