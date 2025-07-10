@@ -4,14 +4,14 @@
 
 ## Spawn of Hollow Joints
 
-_Medium Undead Construct, Chaotic Evil_
+*Medium Undead Construct, Chaotic Evil*
 
 - **Armor Class**: 17 (rusted armor plating)
 - **Hit Points**: 120 (16d8 + 48)
 - **Speed**: 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-| ------- | ------- | ------- | ------- | ------- | ------ |
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
 | 18 (+4) | 16 (+3) | 16 (+3) | 10 (+0) | 14 (+2) | 6 (-2) |
 
 **Damage Resistances**: Cold, Necrotic  
@@ -28,24 +28,24 @@ _Medium Undead Construct, Chaotic Evil_
 
 **Actions:**
 
-- **Crushing Fist.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target.  
+- **Crushing Fist.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.  
   **Hit:** 18 (2d10 + 4) bludgeoning damage.
 
-- **Spinal Latch.** _Ranged Weapon Attack:_ +6 to hit, 30 ft., one target.  
+- **Spinal Latch.** *Ranged Weapon Attack:* +6 to hit, 30 ft., one target.  
   **Hit:** Target is **grappled and restrained** (escape DC 14) by a wormy chain of bone and tendons.
 
 ---
 
 ## Spawn of Iron Hunger
 
-_Medium Undead Construct, Chaotic Evil_
+*Medium Undead Construct, Chaotic Evil*
 
-- **Armor Class**: 18
+- **Armor Class**: 18  
 - **Hit Points**: 105 (14d10 + 28)
 - **Speed**: 25 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
 | 20 (+5) | 14 (+2) | 15 (+2) | 6 (-2) | 12 (+1) | 5 (-3) |
 
 **Damage Resistances**: Necrotic, Cold, Fire  
@@ -61,7 +61,7 @@ _Medium Undead Construct, Chaotic Evil_
 
 **Actions:**
 
-- **Iron Maul.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target.  
+- **Iron Maul.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  
   **Hit:** 20 (3d8 + 5) bludgeoning + 2d6 necrotic.
 
 - **Centipede Torrent (Recharge 5–6).** The Spawn vomits a stream of undead centipedes in a **30-ft. cone**.  
@@ -71,14 +71,14 @@ _Medium Undead Construct, Chaotic Evil_
 
 ## Spawn of Dead Air
 
-_Medium Undead Construct, Chaotic Evil_
+*Medium Undead Construct, Chaotic Evil*
 
-- **Armor Class**: 16
-- **HP**: 100 (13d8 + 39)
+- **Armor Class**: 16  
+- **HP**: 100 (13d8 + 39)  
 - **Speed**: 30 ft., fly 40 ft. (hover)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
 | 14 (+2) | 18 (+4) | 16 (+3) | 13 (+1) | 20 (+5) | 10 (+0) |
 
 **Damage Resistances**: Cold, Necrotic, Thunder  
@@ -90,11 +90,11 @@ _Medium Undead Construct, Chaotic Evil_
 
 - **Aura of Paralysis.** At the start of its turn, creatures within 10 ft. must succeed on a **DC 17 Constitution saving throw** or be **paralyzed until the end of their next turn**.
 
-- **Stillborn Flight.** This creature floats unnaturally, its wings stitched together from wires and bone. It is always considered under the effect of _Feather Fall_.
+- **Stillborn Flight.** This creature floats unnaturally, its wings stitched together from wires and bone. It is always considered under the effect of *Feather Fall*.
 
 **Actions:**
 
-- **Still Touch.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target.  
+- **Still Touch.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.  
   **Hit:** 14 (3d6 + 4) cold damage and the target is **unable to speak or vocalize** until the end of their next turn.
 
 - **Necrostatic Pulse (Recharge 5–6).** Emits a 60-ft. cone of null energy. Creatures in the area must make a **DC 17 Wisdom save** or fall **prone and frightened**. Undead instead **heal 3d10 HP**.
@@ -103,14 +103,14 @@ _Medium Undead Construct, Chaotic Evil_
 
 ## Spawn of the Carrion Choir
 
-_Medium Undead Construct, Chaotic Evil_
+*Medium Undead Construct, Chaotic Evil*
 
-- **Armor Class**: 17
-- **HP**: 95 (11d8 + 44)
+- **Armor Class**: 17  
+- **HP**: 95 (11d8 + 44)  
 - **Speed**: 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
 | 12 (+1) | 16 (+3) | 18 (+4) | 16 (+3) | 20 (+5) | 14 (+2) |
 
 **Damage Resistances**: Cold, Necrotic  
@@ -126,7 +126,7 @@ _Medium Undead Construct, Chaotic Evil_
 
 **Actions:**
 
-- **Rusted Lance.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target.  
+- **Rusted Lance.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.  
   **Hit:** 2d10 + 4 piercing damage. If the target is frightened or paralyzed, they take **+2d6 necrotic damage**.
 
 ---

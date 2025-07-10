@@ -1,6 +1,6 @@
 # **Cerithol Lunam**
 
-![Cerihol](/library/images/Cerithol.png)
+![Cerihol](/library/Images/Cerithol.png)
 
 _Large Monstrosity, Unaligned_
 
@@ -17,7 +17,7 @@ _Large Monstrosity, Unaligned_
 - **Damage Immunities**: Poison
 - **Condition Immunities**: Poisoned, Prone
 - **Senses**: Blindsight 60 ft., Tremorsense 120 ft., Passive Perception 18
-- **Languages**: —
+- **Languages**: Ancient Empyrean
 - **Challenge**: 13 (10,000 XP)
 - **Proficiency Bonus**: +5
 

@@ -1,0 +1,101 @@
+## Blood Memory Ludwig
+
+![LudwigFront](/library/images/LudwigFront.JPG)
+![LudwigSide](/library/images/LudwigSide.JPG)
+
+_Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
+
+### Vital Stats
+
+| AC  | HP  | Speed  | Proficiency Bonus |
+| :-: | :-: | :----: | :---------------: |
+| 20  | 352 | 40 ft. |        +6         |
+
+### Attributes
+
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 24 (+7) | 14 (+2) | 22 (+6) | 10 (+0) | 18 (+4) | 12 (+1) |
+
+**Saving Throws:** STR +13, CON +12, WIS +10  
+**Languages:** Empyrean (fluent), Common (broken)
+**Saving Throws:** STR +13, CON +12, WIS +10  
+**Damage Resistances:** radiant, necrotic, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Condition Immunities:** frightened, charmed.  
+**Senses:** Darkvision 120 ft., passive Perception 14
+
+---
+
+### Traits
+
+**Bloodboil Aura.** Constant. Creatures that start their turn within 15 ft. take **1d6 fire damage**, unavoidable. This ignores resistance and immunity.
+
+**Regeneration.** Ludwig regains **20 HP** at the start of each of his turns. While in Bloodrage, he instead regains **30 HP**.
+
+**Severing Blood (Recharge 5–6).** One creature within 60 ft. is **Paralyzed** and takes **1d10 fire damage** at the start of each of its turns. This burning cannot be extinguished by nonmagical means. At the end of each turn, the creature may attempt a **DC 22 Constitution saving throw** to end the effect.
+
+**Legendary Resistances (3/Long Rest).** If Ludwig fails a saving throw, he can choose to succeed instead.
+
+---
+
+### Bloodrage (1/Short Rest)
+
+As a **bonus action**, Ludwig enters a divine fury for **5 rounds** (30 seconds). While active:
+
+- Gains **50 temporary HP** immediately.
+- Gains **advantage on the first attack** he makes each round.
+- Can make **one extra attack** as part of his Multiattack.
+- All his attacks deal an extra **2d6 fire damage**.
+- Gains **15 temporary HP** at the start of each turn.
+
+**If Ludwig neither deals nor takes damage for a full round, Bloodrage ends early.**
+
+---
+
+### Spellcasting
+
+Ludwig is a 10th-level spellcaster. Constitution is his spellcasting ability (Spell Save DC 19).
+
+- **Cantrips (at will):** Thaumaturgy, Toll the Dead, Minor Illusion
+- **1st level (4/long rest):** _Bloodlash Rebuke_, Shield, Absorb Elements
+- **2nd level (3/long rest):** Hold Person, Misty Step
+- **3rd level (3/long rest):** Counterspell, Spirit Shroud (necrotic)
+- **5th level (2/long rest):** Steel Wind Strike
+
+Ludwig may replace a weapon attack with a **cantrip**.
+
+---
+
+### Actions
+
+**Multiattack.** Ludwig makes **three attacks**, which can be _Mooncleaver_, _Gore Hurl_, _Bloodspire Growth_, or a cantrip. While in Bloodrage, he makes **four**.
+
+**Mooncleaver.** _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target  
+_Hit:_ 2d10 + 10 slashing + 2d6 cold damage, plus **2d6 fire** if Bloodrage is active.
+
+**Gore Hurl.** Ludwig throws a **grappled creature** up to 60 ft. The creature lands in a **20-ft. radius** area. All creatures there must make a **DC 19 Dexterity saving throw** or take **6d6 bludgeoning damage** and fall prone. The thrown creature automatically takes the damage and is no longer grappled.
+
+**Bloodspire Growth (Recharge 5–6).** Ludwig charges up to 30 ft. in a straight line. A massive spire of divine blood erupts beneath a target, who must make a **DC 19 Strength saving throw** or take **10d10 piercing damage**, be **Restrained**, and launched atop a **60-ft. tall spire**. Creatures in a **20-ft. wide** trail take **4d6 fire damage** and are **pushed 5 feet** without a save. The path remains aflame until the start of Ludwig’s next turn.
+
+---
+
+### Battlefield Action: Grand Mooncleave (Recharge 6)
+
+**Declare (Turn 1):** Ludwig channels apocalyptic power into Mooncleaver.  
+**Resolve (Turn 2):** Creatures in a **600-ft.-long**, **40-ft.-wide**, **80-ft.-tall** line must make a **DC 20 Dexterity saving throw**.
+
+- **Fail:** 12d10 + 50 force damage and are knocked prone.
+- **Success:** Half damage.
+
+---
+
+### Legendary Actions (3/round)
+
+- **Attack.** Ludwig makes one _Mooncleaver_ attack.
+- **Dragstep.** Ludwig moves up to 20 ft. and attempts to **grapple each creature** he moves through. Grappled creatures are **Restrained by blood chains**, but his hands remain free.
+- **Spire of Blood (Costs 2).** A blood spire erupts beneath a creature within 30 ft. The target must make a **DC 19 Dexterity saving throw** or take **8d10 piercing damage** and be launched 20 ft. into the air (landing prone unless it succeeds a DC 15 Acrobatics check).
+- **Cast a Spell (Costs 2).** Ludwig casts one spell of 2nd level or lower.
+
+---
+
+_Blood Memory Ludwig is not a god, nor a servant of one—he is what remains when divinity flees and something still refuses to die._

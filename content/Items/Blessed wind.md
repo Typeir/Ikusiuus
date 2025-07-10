@@ -37,7 +37,9 @@ A blade forged from the very breath of the heavens, the **Blessed Wind** hums wi
   - As a **bonus action**, you can **dissipate fog, smoke, or similar obscuring effects** within **a 10ft radius** around you.
 
 - **Harmony with the Gale:**
+
   - The **Blessed Wind** can be used in place of your **Unarmed Strikes**, **Flurry of Blows**, and **Martial Arts feature**, allowing it to seamlessly integrate into a monk’s techniques.
+
 - #### **Weapon Properties:**
 
 - **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **0 lb.**, **Martial**

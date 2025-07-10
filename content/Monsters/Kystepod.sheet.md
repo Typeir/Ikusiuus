@@ -1,6 +1,6 @@
 # **Lunar Kystepod**
 
-![Kystepod](/library/images/Kystepod.png)
+![Kystepod](/library/Images/Kystepod.png)
 
 _Medium Monstrosity, Unaligned_
 
@@ -18,7 +18,7 @@ _Medium Monstrosity, Unaligned_
 - **Damage Immunities**: Poison
 - **Condition Immunities**: Poisoned
 - **Senses**: Tremorsense 60 ft., Darkvision 120 ft., Passive Perception 13
-- **Languages**: —
+- **Languages**: Ancient Empyrean
 - **Challenge**: 3 (700 XP)
 - **Proficiency Bonus**: +2
 
@@ -27,7 +27,7 @@ _Medium Monstrosity, Unaligned_
 ## **Traits**
 
 **Loyal Symbiote.**  
-The Lunar Kystepod is biologically tethered to Cerithol Lunami. While within 300 ft. of a Cerithol, it gains **advantage on all attack rolls** and **cannot be frightened**.
+The Lunar Kystepod is biologically tethered to Cerithol Lunami. While within 300 ft. of a Cerithol, it gains **pack tactics** and **cannot be frightened**. Additionally, the Cerithol can communicate telepathically with it.
 
 **Lunar Chitin.**  
 The Kystepod's outer shell reflects spell energy in strange ways. When the Kystepod is targeted by a damaging spell that requires a saving throw, roll a d6. On a **6**, the spell rebounds at the original caster using the same attack or save DC.
@@ -40,15 +40,19 @@ The Kystepod can move across ceilings, walls, and rough surfaces without needing
 ## **Actions**
 
 **Multiattack.**  
-The Lunar Kystepod makes two attacks: one with _Chitin Claws_ and one with _Acidic Spear-Leg_.
+The Lunar Kystepod makes two attacks: either with _Chitin Claws_, with _Acidic Ventral Harpoon_, it's _Tendrils_ or it's _Held Weapons_.
 
 **Chitin Claws.**  
 _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target.  
 **Hit**: 12 (2d6 + 4) slashing damage. If the target is a creature, it must succeed a **DC 13 Strength saving throw** or be knocked prone.
 
-**Acidic Spear-Leg.**  
+**Acidic Ventral Harpoon.**  
 _Melee Weapon Attack_: +6 to hit, reach 10 ft., one target.  
 **Hit**: 14 (2d8 + 4) piercing damage plus 7 (2d6) acid damage. If the target is already prone, it suffers **maximum acid damage**.
+
+**Tendril**
+_Melee Weapon Attack_: +6 to hit, reach 10 ft., one target.  
+**Hit**: 16 (2d10 + 4) piercing damage.
 
 ---
 

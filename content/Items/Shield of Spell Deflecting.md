@@ -11,7 +11,7 @@ A polished bronze shield etched with whorls that shimmer subtly when struck by a
 The shield has **5 charges**. When you are affected by a spell—whether it targets you directly, includes you in an area of effect, or requires a saving throw—you can use your **reaction** to expend a number of charges equal to the **spell’s level**. If you do, the spell is **reflected back at the caster**, who becomes the **sole target** of the spell, using their original attack roll or save DC against themselves.
 
 - You must use the shield **before** the spell’s effects are resolved.
-- If the spell originally had multiple targets or an area of effect (e.g. _fireball_), the spell is centered on the original caster and redirected appropriately.
+- If the spell originally had multiple targets or an area of effect (e.g. _fireball_), all other targets in the area are affected as normal; the spell is centered on the original caster or redirected appropriately.
 - Spells that do not affect creatures (such as _teleport_ or _wall of force_) cannot be reflected.
 
 The shield **regains 1d4 charges** each day at **dawn**. If you expend the last charge, roll a **d20**. On a **1**, the shield loses all magical properties, becoming a mundane +1 shield.
