@@ -58,9 +58,9 @@ function findFilePath(currentDir: string, slugParts: string[]): string | null {
 }
 
 type PageProps = {
-  params: {
+  params: Promise<{
     slug: string[];
-  };
+  }>;
 };
 
 /**
