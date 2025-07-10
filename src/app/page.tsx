@@ -40,7 +40,7 @@ export default function Home() {
         placeholder='Search the Library...'
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        className='w-full p-3rounded'
+        className='w-full p-3 rounded border-zinc-700 text-white'
       />
 
       {loading && <p className='text-sm'>Searching...</p>}

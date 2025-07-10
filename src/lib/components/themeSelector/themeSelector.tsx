@@ -42,7 +42,6 @@ export const ThemeSelector = ({
       <button
         onClick={() => {
           const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1); // Cycle within bounds
-          console.log(newTheme);
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);
         }}

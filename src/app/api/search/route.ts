@@ -31,7 +31,11 @@ export async function GET(req: Request) {
       if (IGNORED_FOLDERS.has(entry.name)) continue;
 
       const fullPath = path.join(dir, entry.name);
-      const fileName = entry.name.replace(/\.md$/, '');
+      const fileName = entry.name
+        .replace(/\.sheet\.md$/, '')
+        .replace(/\.md$/, '')
+        .replace(/\.sheet$/, '');
+
       const kebabPath = path.join(base, toKebabCase(fileName));
 
       if (entry.isDirectory()) {

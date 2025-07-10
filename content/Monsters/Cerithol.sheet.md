@@ -1,6 +1,6 @@
 # Cerithol Lunam
 
-![Cerihol](/library/Images/Cerithol.png)
+![Cerithol](/library/images/Cerithol.png)
 
 _Large Monstrosity, Unaligned_
 

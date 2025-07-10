@@ -59,11 +59,14 @@ const walk = (
 
       const fullPath = path.join(dir, entry.name);
       const fileName = entry.name.replace(/\.md$/, '');
+
       const kebabPath = path.join(base, toKebabCase(fileName));
+
+      const prettyFileName = fileName.replace(/\.sheet$/, ''); // final fallback if weird casing
 
       if (entry.isDirectory()) {
         return {
-          name: entry.name,
+          name: prettyFileName,
           path: kebabPath,
           children: walk(fullPath, kebabPath),
         };
@@ -71,7 +74,7 @@ const walk = (
 
       if (entry.name.endsWith('.md')) {
         return {
-          name: fileName,
+          name: prettyFileName,
           path: kebabPath,
         };
       }
