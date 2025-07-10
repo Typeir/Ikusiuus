@@ -1,70 +1,69 @@
-## Alfanjón of the Crescent Moon
+### **Alfanjón of the Crescent Moon**
 
-Weapon (finesse longsword / curved greatsword), very rare (requires attunement)  
-_Type:_ Melee weapon (1d8 slashing, versatile 1d10)  
-_Properties:_ Finesse, Versatile, Mastery: Slow
+_Curved longsword (Finesse Longsword / Curved Greatsword) +1_  
+_Very rare (requires attunement)_  
+_Weapon (Melee, Finesse, Versatile, Mastery: Slow)_  
+_Can be used as a spellcasting focus_
 
 Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this crescent blade phases gently in and out of visibility, humming faintly under the stars. Its form is tailored for agile swordmasters whose grace intertwines with arcane instinct.
 
 ---
 
-### Base Effects
+#### **Weapon Mastery:**
 
-- _+1 to attack and damage rolls._
-- _Finesse._ This curved greatsword uses Dexterity for attack and damage rolls.
-- _Spellcasting Focus._ Can be used as a spellcasting focus for spells and cantrips.
+- **Slow**: On hit, the target’s movement speed is reduced by 10 feet until the end of its next turn.
 
----
-
-### Moon Step Technique
-
-If you _forgo all movement_ on your turn:
-
-- You _regain 1d6 hit points_.
-- You may make a _cantrip spell attack as a bonus action_, using this weapon as the focus.  
-  If you do:
-  - Gain _+1 to hit and damage_ with that cantrip.
-  - Until the start of your next turn, gain _+1 to AC, saving throws, and ability checks_.
+- **Mooncleave** _(1/Short rest, or 3/Short rest if the wielder has mastery with Longswords)_:  
+  As an action, sweep the blade in a great lunar arc:
+  - All creatures in a **30-foot cone** must make a **Dexterity saving throw (DC = Spell Save DC + 1)**
+  - **Failure**: 3d8 cold + 3d8 force damage
+  - **Success**: Half damage
 
 ---
 
-### Innate Cantrip – Lesser Mooncleave
+#### **Effects:**
 
-You learn the following cantrip:
+- **+1 to attack and damage rolls** (magical weapon)
 
-> _Lesser Mooncleave_  
-> Evocation Cantrip  
-> _Casting Time:_ 1 action  
-> _Range:_ 120 feet (line)  
-> _Components:_ V , S , M (The blade itself)
-> _Duration:_ Instantaneous
+- **Finesse (Dexterity-based)**  
+  This curved greatsword can use Dexterity for attack and damage rolls.
+
+- **Spellcasting Focus**  
+  May be used as a focus for casting spells and cantrips.
+
+- **Moon Step Technique**:  
+  If the wielder **forgoes all movement** on their turn:
+  - Regain **1d6 hit points**
+  - You may make a **cantrip spell attack** as a bonus action using this weapon as a focus.  
+    If you do:
+    - Gain **+1 to hit and damage** with that cantrip
+    - Until the start of your next turn, gain **+1 to AC, saving throws, and ability checks**
+
+---
+
+#### **Innate Cantrip – Lesser Mooncleave**
+
+> **Lesser Mooncleave**  
+> _Evocation Cantrip_  
+> **Casting Time:** 1 action  
+> **Range:** 120 feet (line)  
+> **Components:** V, S, M (the blade itself)  
+> **Duration:** Instantaneous
 >
 > Unleash a razor-thin crescent of force and frost in a line.  
-> _Hit:_ 1d6 cold + 1d6 force damage.  
-> This damage _doubles_ with each cantrip scaling tier (e.g., 2d6 + 2d6 at level 5, 3d6 + 3d6 etc.).  
-> If a creature is _reduced to 0 HP, the wave\*\*continues through them_, targeting the next creature in line.
+> **Hit**: 1d6 cold + 1d6 force damage.  
+> This damage **doubles** with each cantrip scaling tier (e.g., 2d6 + 2d6 at level 5, 3d6 + 3d6, etc.)  
+> If a creature is **reduced to 0 HP**, the wave **continues through them**, targeting the next creature in line.
 
 ---
 
-### Mastery Effect – Slow
+#### **Special Features:**
 
-On hit, the target’s _movement speed is reduced by 10 feet_ until the end of its next turn.
+- **Lunar Dissolution**:  
+  As a **bonus action**, the blade can vanish or reappear in the wielder’s hand in a shimmer of silver mist.
 
----
+- **Moonlight Glow**:  
+  While under moonlight, the blade glows with a **cerulean hue** (dim light in a 5-foot radius).
 
-### Mastery Feature – Mooncleave
-
-- _Once per short rest, or **three times** per short rest if you have Mastery with Longswords_
-- As an action, sweep the blade in a great lunar arc:
-  - _30-foot cone_
-  - All creatures must make a _Dexterity saving throw (DC = your Spell Save DC + 1)_
-  - _Fail:_ 3d8 cold + 3d8 force damage
-  - _Success:_ Half damage
-
----
-
-### Special Features
-
-- _Lunar Dissolution:_ As a _bonus action_, the blade can vanish or reappear in Loterra’s hand in a shimmer of silver mist.
-- _Moonlight Glow:_ While under moonlight, the blade glows with a _cerulean hue_ (dim light in 5 feet).
-- _Inscription:_ “Crescent is the blade that kills, full is the moon’s embrace.”
+- **Inscription**:  
+  “Crescent is the blade that kills, full is the moon’s embrace.”
