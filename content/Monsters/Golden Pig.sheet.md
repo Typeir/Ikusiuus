@@ -10,13 +10,13 @@ _Large Aberration, neutral_
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 12 (+1) | 20 (+5) | 1 (-5)  | 10 (+0) | 22 (+6) |
 
-**Saving Throws**: Dex +5, Con +9, Cha +10  
-**Skills**: Insight +6, Persuasion +10, Deception +10  
-**Damage Immunities**: Psychic  
-**Condition Immunities**: Charmed, Poisoned  
-**Senses**: Darkvision 60 ft., passive Perception 12  
-**Languages**: Understands the languages of its nurturer but cannot speak.  
-**Challenge**: 11 (7,200 XP)
+- **Saving Throws**: Dex +5, Con +9, Cha +10
+- **Skills**: Insight +6, Persuasion +10, Deception +10
+- **Damage Immunities**: Psychic
+- **Condition Immunities**: Charmed, Poisoned
+- **Senses**: Darkvision 60 ft., passive Perception 12
+- **Languages**: Understands the languages of its nurturer but cannot speak.
+- **Challenge**: 11 (7,200 XP)
 
 ## Traits
 

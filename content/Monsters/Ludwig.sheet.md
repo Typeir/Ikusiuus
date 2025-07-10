@@ -3,7 +3,7 @@
 ![LudwigFront](/library/images/LudwigFront.JPG)
 ![LudwigSide](/library/images/LudwigSide.JPG)
 
-_Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
+_Large humanoid (Sunborn), Lawful Evil, CR 18_
 
 | **AC** | **HP** | **Speed** |
 | :----: | :----: | :-------: |
@@ -13,12 +13,12 @@ _Large humanoid (mutated Sunborn), Neutral Evil, CR 18_
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 24 (+7) | 14 (+2) | 22 (+6) | 10 (+0) | 18 (+4) | 12 (+1) |
 
-**Saving Throws:** STR +13, CON +12, WIS +10  
-**Languages:** Empyrean (fluent), Common (broken)
-**Saving Throws:** STR +13, CON +12, WIS +10  
-**Damage Resistances:** radiant, necrotic, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
-**Condition Immunities:** frightened, charmed.  
-**Senses:** Darkvision 120 ft., passive Perception 14
+- **Saving Throws:** STR +13, CON +12, WIS +10
+- **Languages:** Empyrean (fluent), Common (broken)
+- **Saving Throws:** STR +13, CON +12, WIS +10
+- **Damage Resistances:** radiant, necrotic, fire; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities:** frightened, charmed.
+- **Senses:** Darkvision 120 ft., passive Perception 14
 
 ---
 

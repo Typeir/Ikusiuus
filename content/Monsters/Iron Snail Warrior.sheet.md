@@ -1,6 +1,6 @@
 # Old Iron Snail Warrior
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class**       | **Hit Points** | **Speed** |
 | --------------------- | -------------- | --------- |

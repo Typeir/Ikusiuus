@@ -4,9 +4,7 @@
 
 A lesser hound of the Fold, this being is still dangerous when encountered in places where the veils of reality are thin. It stalks magical activity and slips through the geometry of the world in search of prey marked by temporal anomalies.
 
-- Medium Celestial (Fold), Lawful Neutral
-- **Challenge**: 2 (450 XP)
-- **Proficiency Bonus**: +2
+_Medium Celestial (Fold), Lawful Neutral_
 
 | **Armor Class**       | **Hit Points** | **Speed**            |
 | --------------------- | -------------- | -------------------- |
@@ -22,6 +20,8 @@ A lesser hound of the Fold, this being is still dangerous when encountered in pl
 - **Damage Immunities**: Necrotic
 - **Condition Immunities**: Charmed, Frightened
 - **Senses**: Darkvision 60 ft., Fold-Sense 30 ft.
+- **Challenge**: 2 (450 XP)
+- **Proficiency Bonus**: +2
 - **Languages**: —
 
 ---

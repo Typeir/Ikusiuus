@@ -62,7 +62,7 @@ const walk = (
 
       const kebabPath = path.join(base, toKebabCase(fileName));
 
-      const prettyFileName = fileName.replace(/\.sheet$/, ''); // final fallback if weird casing
+      const prettyFileName = fileName.replace(/\.sheet$/, '');
 
       if (entry.isDirectory()) {
         return {

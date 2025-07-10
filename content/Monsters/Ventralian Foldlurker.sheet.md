@@ -12,9 +12,6 @@
 
 _Large Celestial (Fold), **Neutral**_
 
-- **Challenge**: 8 (3,900 XP)
-- **Proficiency Bonus**: +3
-
 | **Armor Class** | **Hit Points**   | **Speed**                          |
 | --------------- | ---------------- | ---------------------------------- |
 | 18 (Writ-Mask)  | 136 (16d10 + 48) | 30 ft., Climb 20 ft., Hover 10 ft. |
@@ -30,6 +27,8 @@ _Large Celestial (Fold), **Neutral**_
 - **Condition Immunities**: Blinded, Frightened, Grappled, Restrained
 - **Senses**: Blindsight 60 ft. (blind beyond), Fold-Sense 90 ft.
 - **Languages**: Understands all, speaks none
+- **Challenge**: 8 (3,900 XP)
+- **Proficiency Bonus**: +3
 
 ---
 

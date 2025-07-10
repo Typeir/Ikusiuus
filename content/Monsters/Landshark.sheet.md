@@ -1,6 +1,6 @@
 # Great Landshark
 
-- Huge Beast, Unaligned
+_Huge Beast, Unaligned_
 
 | **Armor Class**    | **Hit Points**   | **Speed**             |
 | ------------------ | ---------------- | --------------------- |

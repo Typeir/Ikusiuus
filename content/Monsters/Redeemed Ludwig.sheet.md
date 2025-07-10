@@ -4,18 +4,18 @@ _Large humanoid (Sunborn), Lawful Good, CR 25_
 
 ## Vital Stats
 
-| AC  | HP  | Speed  | Proficiency Bonus |
-| :-: | :-: | :----: | :---------------: |
-| 18  | 540 | 50 ft. |        +7         |
+| **AC** | **HP** | **Speed** |
+| :----: | :----: | :-------: |
+|   18   |  540   |  50 ft.   |
 
 ## Attributes
 
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 28 (+9) | 14 (+2) | 26 (+8) | 12 (+1) | 20 (+5) | 18 (+4) |
 
-**Saving Throws:** STR +16, CON +15, WIS +12, CHA +11  
-**Languages:** Empyrean, Common, Tongue of Dragons
+- **Saving Throws:** STR +16, CON +15, WIS +12, CHA +11
+- **Languages:** Empyrean, Common, Tongue of Dragons
 
 ---
 

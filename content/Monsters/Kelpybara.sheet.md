@@ -2,7 +2,7 @@
 
 ![Kelpy](/library/images/Kelpy.webp)
 
-- Large Monstrosity, Unaligned
+_Large Monstrosity, Unaligned_
 
 | **Armor Class** | **Hit Points** | **Speed** |
 | --------------- | -------------- | --------- |

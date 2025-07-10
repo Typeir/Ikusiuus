@@ -14,20 +14,20 @@ _Gargantuan Aberration, Lawful Evil_
 | -------- | ------- | ------- | ------- | -------- | -------- |
 | 30 (+10) | 16 (+3) | 28 (+9) | 25 (+7) | 30 (+10) | 30 (+10) |
 
-**Saving Throws**: Str +24, Con +18, Int +16, Cha +24  
-**Skills**: Arcana +16, Deception +28, Insight +28, Intimidation +24, Perception +24, Persuasion +24, Religion +16  
-**Damage vulneravilities**: Cold.
-**Damage Resistances**: Lightning.
-**Damage Immunities**: Psychic, Poison, Acid; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered  
-**Condition Immunities**: Blinded, Charmed, Frightened, Paralyzed, Poisoned, Stunned  
-**Senses**: Darkvision 120 ft., truesight 60 ft., passive Perception 29  
-**Languages**: All, telepathy 120 ft.  
-**Challenge**: 29 (155,000 XP)  
-**Proficiency Bonus**: +9
+- **Saving Throws**: Str +24, Con +18, Int +16, Cha +24
+- **Skills**: Arcana +16, Deception +28, Insight +28, Intimidation +24, Perception +24, Persuasion +24, Religion +16
+- **Damage vulneravilities**: Cold.
+- **Damage Resistances**: Lightning.
+- **Damage Immunities**: Psychic, Poison, Acid; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities**: Blinded, Charmed, Frightened, Paralyzed, Poisoned, Stunned
+- **Senses**: Darkvision 120 ft., truesight 60 ft., passive Perception 29
+- **Languages**: All, telepathy 120 ft.
+- **Challenge**: 29 (155,000 XP)
+- **Proficiency Bonus**: +9
 
 ---
 
-## Traits:
+## Traits
 
 - **Angelical Link**: Xanthous can summon angels with which he shares a health pool. Anytime an angel takes damage, xanthous takes an equal ammount of indirect damage.
 
@@ -212,12 +212,12 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-## Traits:
+## Traits
 
 - **Divine Aura**: All creatures within 10 feet of the angel take 5 radiant damage at the start of their turn.
 - **Warding Shield**: The angel can use its reaction to impose disadvantage on an attack roll made against a creature within 5 feet of it.
 
-## Actions:
+## Actions
 
 - **Multiattack**: The angel makes two attacks with its **Blazing Blade**.
 
@@ -247,12 +247,12 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-## Traits:
+## Traits
 
 - **Sevenfold Wings**: The angel can fly up to 90 feet, granting it advantage on Dexterity saving throws while in flight.
 - **Ethereal Shroud**: As a bonus action, it can become incorporeal until the start of its next turn, gaining resistance to all damage and becoming invisible.
 
-## Actions:
+## Actions
 
 - **Wing Slash**: _Melee Weapon Attack_: +12 to hit, reach 10 ft., one target. _Hit_: 18 (2d12 + 6) slashing damage.
 
@@ -280,11 +280,11 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-## Traits:
+## Traits
 
 - **Deathly Aura**: Creatures within 10 feet take 5 necrotic damage at the start of their turn.
 
-## Actions:
+## Actions
 
 - **Tombsteel Claws**: _Melee Weapon Attack_: +12 to hit, reach 5 ft., one target. _Hit_: 25 (3d10 + 6) cold damage.
 
@@ -315,11 +315,11 @@ _Medium Aberration, Lawful Evil_
 **Languages**: All, Telepathy 120 ft.  
 **Challenge**: 9 (5,000 XP)
 
-## Traits:
+## Traits
 
 - **Aura of Somnolence**: Creatures within 10 feet must succeed on a DC 24 Wisdom saving throw or be affected by the _Sleep_ spell (as if cast at 5th level).
 - **Song of invigoration** As a bonus action, the angel may give 10 temporary hit points to any creature that can hear it within 60ft.
 
-## Actions:
+## Actions
 
 - **Dreaming Touch**: _Melee Weapon Attack_: +10 to hit, reach 5 ft., one target. _Hit_: 18 (2d10 + 4) psychic damage and the target must make a DC 24 Wisdom saving throw or be incapacitated until the end of its next turn.

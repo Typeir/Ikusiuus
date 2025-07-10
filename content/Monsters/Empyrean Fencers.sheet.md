@@ -8,18 +8,18 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 | -------------------------- | --------------- | --------- |
 | 17 (natural armor, shield) | 120 (10d8 + 80) | 30 ft.    |
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 18 (+4) | 20 (+5) | 14 (+2) | 12 (+1) | 16 (+3) |
 
-**Saving Throws**: Str +9, Dex +6, Con +8
-**Skills**: Athletics +9, Perception +6, Intimidation +8
-**Damage Resistances**: Cold, Lightning
-**Condition Immunities**: Charmed, Frightened
-**Senses**: Darkvision 60 ft., passive Perception 16
-**Languages**: Common, Empyrean
-**Challenge**: 8 (7,200 XP)
-**Proficiency Bonus**: +4
+- **Saving Throws**: Str +9, Dex +6, Con +8
+- **Skills**: Athletics +9, Perception +6, Intimidation +8
+- **Damage Resistances**: Cold, Lightning
+- **Condition Immunities**: Charmed, Frightened
+- **Senses**: Darkvision 60 ft., passive Perception 16
+- **Languages**: Common, Empyrean
+- **Challenge**: 8 (7,200 XP)
+- **Proficiency Bonus**: +4
 
 ---
 
@@ -72,14 +72,14 @@ _Medium Humanoid (Empyrean), Neutral Evil_
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 20 (+5) | 26 (+8) | 18 (+4) | 14 (+2) | 16 (+3) | 14 (+2) |
 
-**Saving Throws**: Dex +8, Con +8, Wis +6
-**Skills**: Acrobatics +8, Deception +8, Perception +6
-**Damage Resistances**: Cold, Lightning
-**Condition Immunities**: Charmed, Frightened
-**Senses**: Darkvision 60 ft., passive Perception 16
-**Languages**: Common, Empyrean
-**Challenge**: 8 (7,200 XP)
-**Proficiency Bonus**: +4
+- **Saving Throws**: Dex +8, Con +8, Wis +6
+- **Skills**: Acrobatics +8, Deception +8, Perception +6
+- **Damage Resistances**: Cold, Lightning
+- **Condition Immunities**: Charmed, Frightened
+- **Senses**: Darkvision 60 ft., passive Perception 16
+- **Languages**: Common, Empyrean
+- **Challenge**: 8 (7,200 XP)
+- **Proficiency Bonus**: +4
 
 ---
 

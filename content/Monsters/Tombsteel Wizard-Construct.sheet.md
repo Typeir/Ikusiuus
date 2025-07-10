@@ -12,12 +12,12 @@ _Large Construct, Neutral_
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 10 (+0) | 16 (+3) | 3 (-4)  | 12 (+1) | 11 (+0) |
 
-**Damage Immunities**: Bludgeoning, Piercing, and Slashing from nonmagical attacks, Poison  
-**Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned  
-**Senses**: Darkvision 60 ft., Passive Perception 10  
-**Languages**: Understands the languages of its creator but can't speak  
-**Challenge**: 13 (10,000 XP)  
-**Proficiency Bonus**: +5
+- **Damage Immunities**: Bludgeoning, Piercing, and Slashing from nonmagical attacks, Poison
+- **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses**: Darkvision 60 ft., Passive Perception 10
+- **Languages**: Understands the languages of its creator but can't speak
+- **Challenge**: 13 (10,000 XP)
+- **Proficiency Bonus**: +5
 
 ---
 

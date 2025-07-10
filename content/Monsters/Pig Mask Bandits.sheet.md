@@ -12,12 +12,12 @@ _Medium Humanoid, Chaotic Neutral_
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 14 (+2) | 15 (+2) | 8 (-1)  | 10 (+0) | 6 (-2)  |
 
-**Saving Throws**: Str +6, Con +5  
-**Skills**: Perception +3, Stealth +5  
-**Condition Immunities**: Charmed, Frightened  
-**Senses**: Darkvision 60 ft., passive Perception 13  
-**Languages**: Understands Abyssal but cannot speak.  
-**Challenge**: 3 (700 XP)
+- **Saving Throws**: Str +6, Con +5
+- **Skills**: Perception +3, Stealth +5
+- **Condition Immunities**: Charmed, Frightened
+- **Senses**: Darkvision 60 ft., passive Perception 13
+- **Languages**: Understands Abyssal but cannot speak.
+- **Challenge**: 3 (700 XP)
 
 ## Actions
 

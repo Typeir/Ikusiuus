@@ -7,21 +7,21 @@ _Gargantuan fiend (Hiisi), Lawful Evil_
 
 ## Basic Stats
 
-| AC  | HP                | Speed                                                                     |
-| --- | ----------------- | ------------------------------------------------------------------------- |
-| 22  | 455 (35d12 + 245) | 40 ft., climb 40 ft., burrow 40 ft. (clockwork drills), bonus move 60 ft. |
+| **AC** | **HP**            | **Speed**                                                                 |
+| ------ | ----------------- | ------------------------------------------------------------------------- |
+| 22     | 455 (35d12 + 245) | 40 ft., climb 40 ft., burrow 40 ft. (clockwork drills), bonus move 60 ft. |
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 10 (+0) | 24 (+7) | 20 (+5) | 18 (+4) | 20 (+5) |
 
-**Saving Throws:** STR +15, CON +14, INT +12, WIS +11  
-**Damage Resistances:** radiant, necrotic, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
-**Condition Immunities:** frightened, charmed, exhaustion  
-**Senses:** truesight 120 ft., passive Perception 14  
-**Languages:** Empyrean, Hidden, Any dead tongue telepathy 120 ft.
+- **Saving Throws:** STR +15, CON +14, INT +12, WIS +11
+- **Damage Resistances:** radiant, necrotic, fire; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities:** frightened, charmed, exhaustion
+- **Senses:** truesight 120 ft., passive Perception 14
+- **Languages:** Empyrean, Hidden, Any dead tongue telepathy 120 ft.
 
-**Legendary Resistance (3/day).** If Nigredo fails a saving throw, he can choose to succeed instead.
+- **Legendary Resistance (3/day).** If Nigredo fails a saving throw, he can choose to succeed instead.
 
 ---
 

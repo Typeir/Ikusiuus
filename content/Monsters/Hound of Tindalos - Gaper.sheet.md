@@ -4,9 +4,7 @@
 
 Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their enormous, yawning torsos contain not flesh but prophecy — divine code etched into unknowable space. They are the whispering agents of the Canvas, and the only prayer they offer is annihilation.
 
-- Medium Celestial (Fold), Lawful Neutral
-- **Challenge**: 3 (700 XP)
-- **Proficiency Bonus**: +2
+_Medium Celestial (Fold), Lawful Neutral_
 
 | **Armor Class** | **Hit Points** | **Speed** |
 | --------------- | -------------- | --------- |
@@ -22,6 +20,8 @@ Where ordinary Hounds of Tindalos devour space, **Gapers rewrite it**. Their eno
 - **Damage Immunities**: Psychic
 - **Condition Immunities**: Blinded, Charmed, Frightened
 - **Senses**: Blindsight 60 ft., Darkvision 120 ft., Passive Perception 15
+- **Challenge**: 3 (700 XP)
+- **Proficiency Bonus**: +2
 - **Languages**: Understands Celestial; cannot speak
 
 ---

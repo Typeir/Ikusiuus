@@ -12,8 +12,8 @@ _Large Humanoid, Lawful Evil_
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 24 (+7) | 12 (+1) | 22 (+6) | 8 (−1) | 14 (+2) | 9 (−1) |
 
-**Challenge**: 8
-**Proficiency Bonus**: +3
+- **Challenge**: 8
+- **Proficiency Bonus**: +3
 
 ---
 
@@ -40,8 +40,8 @@ _Large Humanoid, Lawful Evil_
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 20 (+5) | 10 (+0) | 24 (+7) | 13 (+1) | 10 (+0) | 15 (+2) |
 
-**Challenge**: 8
-**Proficiency Bonus**: +3
+- **Challenge**: 8
+- **Proficiency Bonus**: +3
 
 ---
 
@@ -68,8 +68,8 @@ _Large Humanoid, Lawful Evil_
 | ------- | ------- | ------- | ------- | ------- | ------ |
 | 14 (+2) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 8 (−1) |
 
-**Challenge**: 5
-**Proficiency Bonus**: +3
+- **Challenge**: 5
+- **Proficiency Bonus**: +3
 
 ---
 
@@ -96,8 +96,8 @@ _Large Humanoid, Lawful Evil_
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 14 (+2) | 17 (+3) | 9 (−1) | 11 (+0) | 7 (−2) |
 
-**Challenge**: 4
-**Proficiency Bonus**: +2
+- **Challenge**: 4
+- **Proficiency Bonus**: +2
 
 ---
 
