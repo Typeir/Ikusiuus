@@ -1,72 +1,91 @@
-const fs = require('fs');
-const path = require('path');
-const { getContentFolder } = require('../src/lib/utils/getContentFolder');
-
-const CONTENT_ROOT = getContentFolder();
-const IGNORED = new Set(['.git', '.obsidian', 'node_modules', '.vscode']);
+// @ts-check
 
 /**
- * Converts a string to kebab-case.
+ * Kebabifies all folders and `.mdx` files in `src/content/` recursively.
+ * - Skips ignored folders
+ * - Handles renaming safely (depth-first)
+ */
+
+const fs = require('fs');
+const path = require('path');
+
+/** Absolute path to the content root */
+const CONTENT_ROOT = path.join(process.cwd(), 'src', 'content');
+
+/** Folder and file names to ignore */
+const IGNORED = new Set([
+  '.git',
+  '.obsidian',
+  'node_modules',
+  '.vscode',
+  '.DS_Store',
+]);
+
+/**
+ * Converts a string to kebab-case
  * @param {string} str
  * @returns {string}
  */
 function toKebabCase(str) {
   return str
-    .replace(/([a-z])([A-Z])/g, '$1-$2')
-    .replace(/\s+/g, '-')
-    .replace(/_/g, '-')
+    .replace(/([a-z])([A-Z])/g, '$1-$2') // camelCase → camel-case
+    .replace(/\s+/g, '-') // spaces → dashes
+    .replace(/_+/g, '-') // underscores → dashes
+    .replace(/--+/g, '-') // collapse multiple dashes
     .toLowerCase();
 }
 
 /**
- * Recursively renames folders and files to kebab-case.
- * Runs depth-first to avoid path collisions.
+ * Recursively renames folders and `.mdx` files to kebab-case.
  * @param {string} dir
  */
 function kebabifyDirectory(dir) {
+  /** @type {fs.Dirent[]} */
   const entries = fs.readdirSync(dir, { withFileTypes: true });
 
-  // Do directories first (depth-first traversal)
+  // First pass: handle directories (depth-first)
   for (const entry of entries) {
     if (IGNORED.has(entry.name)) continue;
-
     const fullPath = path.join(dir, entry.name);
 
     if (entry.isDirectory()) {
       kebabifyDirectory(fullPath);
 
       const kebabName = toKebabCase(entry.name);
-      const kebabPath = path.join(dir, kebabName);
-
       if (entry.name !== kebabName) {
+        const kebabPath = path.join(dir, kebabName);
         fs.renameSync(fullPath, kebabPath);
         console.log(`📁 Renamed folder: ${entry.name} → ${kebabName}`);
       }
     }
   }
 
-  // Then do files
+  // Second pass: handle `.mdx` files
   for (const entry of entries) {
     if (IGNORED.has(entry.name)) continue;
     const fullPath = path.join(dir, entry.name);
 
-    if (entry.isFile()) {
-      const ext = path.extname(entry.name);
-      const name = path.basename(entry.name, ext);
+    if (entry.isFile() && path.extname(entry.name) === '.mdx') {
+      const baseName = path.basename(entry.name, '.mdx');
+      const kebabName = toKebabCase(baseName);
+      const newFile = path.join(dir, `${kebabName}.mdx`);
 
-      if (ext === '.mdx') {
-        const kebabName = toKebabCase(name);
-        const newPath = path.join(dir, `${kebabName}${ext}`);
-
-        if (entry.name !== `${kebabName}${ext}`) {
-          fs.renameSync(fullPath, newPath);
-          console.log(`📝 Renamed file: ${entry.name} → ${kebabName}${ext}`);
-        }
+      if (entry.name !== `${kebabName}.mdx`) {
+        fs.renameSync(fullPath, newFile);
+        console.log(`📝 Renamed file: ${entry.name} → ${kebabName}.mdx`);
       }
     }
   }
 }
 
+// Entry point
 console.log('🔁 Kebabifying content folder...\n');
-kebabifyDirectory(CONTENT_ROOT);
-console.log('\n✅ All done.');
+
+try {
+  kebabifyDirectory(CONTENT_ROOT);
+  console.log('\n✅ All done.');
+} catch (err) {
+  console.error('\n✖ Error during kebabification');
+  console.error(err);
+  process.exit(1);
+}
