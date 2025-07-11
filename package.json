@@ -10,8 +10,9 @@
     "kebabify-content": "node scripts/kebabifyContent.js",
     "md-to-mdx": "node scripts/mdToMdx.js",
     "mdxify-heading-images": "node scripts/mdxifyHeadingImages.js",
-    "clean-fullsize": "rm -rf public/full-size",
-    "build": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && npm run clean-fullsize && next build"
+    "clean-fullsize-forced": "rm -rf public/full-size",
+    "clean-fullsize": "node scripts/cleanFullSize.js",
+    "build": "git lfs pull && npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && npm run clean-fullsize && next build"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
