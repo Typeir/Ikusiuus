@@ -8,9 +8,9 @@ import styles from './page.module.scss';
  * Props passed to the dynamic route page, containing the MDX slug segments.
  */
 type PageProps = {
-  params: {
+  params: Promise<{
     slug: string[];
-  };
+  }>;
 };
 
 /**
