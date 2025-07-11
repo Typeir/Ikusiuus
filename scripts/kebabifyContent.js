@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-import { getContentFolder } from '../src/lib/utils/getContentFolder.js';
+const { getContentFolder } = require('../src/lib/utils/getContentFolder');
 
 const CONTENT_ROOT = getContentFolder();
 const IGNORED = new Set(['.git', '.obsidian', 'node_modules', '.vscode']);
