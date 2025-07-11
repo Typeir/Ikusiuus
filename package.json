@@ -4,9 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "compress-assets": "node scripts/compressAssets.js",
+    "kebabify-content": "node scripts/kebabifyContent.js",
+    "md-to-mdx": "node scripts/mdToMdx.js",
+    "mdxify-heading-images": "node scripts/mdxifyHeadingImages.js"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
@@ -32,7 +36,9 @@
     "autoprefixer": "^10",
     "eslint": "^8",
     "eslint-config-next": "13.5.11",
+    "globby": "^14.1.0",
     "postcss": "^8",
+    "sharp": "^0.34.3",
     "tailwindcss": "^3",
     "tslib": "^2.8.1",
     "typescript": "^5"
