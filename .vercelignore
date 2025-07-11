@@ -14,7 +14,3 @@ yarn.lock
 # Heavy assets not needed server-side
 public/library/resources
 public/full-size
-scripts/
-
-# Scripts not used in runtime
-scripts
