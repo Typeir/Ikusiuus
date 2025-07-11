@@ -9,9 +9,9 @@ Only **greatswords refitted for the quiver** can be used properly; **standard gr
 
 ## Weapon Mastery
 
-- **Graze** – When you miss an attack with this weapon, the target still takes damage equal to your Strength modifier.
+- **Graze** _(Only available if the wielder has mastery with Greatswords)_: – When you miss an attack with this weapon, the target still takes damage equal to your Strength modifier.
 
-- **Mastery Ability – Thunderous Hurl (1/Short Rest, or 3/Short Rest if the wielder has mastery with Greatswords)**
+- **Mastery Ability – Thunderous Hurl** _(1/Short Rest, or 3/Short Rest if the wielder has mastery with Greatswords)_:
   - As an **attack**, you may **hurl a greatsword** from the quiver at a target **within 30/60 ft**.
   - The blade releases a **thunderous blast**, forcing all creatures in a **5ft wide line** between you and the target to make a **Dexterity saving throw (DC 8 + STR + PB)**.
   - **On failure,** they take **2d6 lightning damage**.
@@ -45,9 +45,9 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 
 ## Weapon Mastery
 
-- **Sap** – After hitting a creature with this weapon, their next attack roll before the start of your next turn is made at **disadvantage**.
+- **Sap** _(Only available if the wielder has mastery with Rapiers)_: - After hitting a creature with this weapon, their next attack roll before the start of your next turn is made at **disadvantage**.
 
-- **Mastery Ability – Riposte Parry (1/Short Rest, or 3/Short Rest if the wielder has mastery with Rapiers)**
+- **Mastery Ability – Parry and Riposte** _(1/Short Rest, or 3/Short Rest if the wielder has mastery with Rapiers)_:
   - **As a reaction,** when a creature makes a melee attack against you but before the result is known, you may force them to **re-roll and take the lower result**.
   - If the attack **misses**, you may **immediately counterattack** with this weapon, dealing **an additional 1d8 lightning damage**.
 
@@ -109,4 +109,4 @@ A **colossal estoc** that boasts a **razor-thin but rigid blade**, designed for 
 - **On failure:** They take **2d8 slashing damage**.
 - **If deflecting a ranged attack**, the saving throw is made **with advantage**.
 
-- If the **thread of fate is severed**, these abilities become **permanent**, and the weapons each gain **1 charge**, replenishing at **noon each day**.
+- If the **thread of fate is severed**, these abilities become **permanent**, and the weapons each gain **1 charge to use them, instead of using short rests**, replenishing at **noon each day**.

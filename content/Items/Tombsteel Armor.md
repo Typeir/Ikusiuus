@@ -2,19 +2,21 @@
 
 _Wondrous item, rare (requires attunement by a creature proficient in heavy armor)_
 
-**Armor Type:** Any Heavy Armor (typically Plate or Half-Plate)  
-**Weight:** +15 lb. (heavier than standard due to density)  
-**Properties:** Nonmagical, Empyrean Alloy
-
 ---
 
-### Description
+## Description
 
 Tombsteel was the hallmark alloy of the final Empyrean era—its cold silence a grim echo of that civilization’s decline. Forged for the **Demon-Hunting Knights** and the **Godslaying Battalions**, this armor is feared not for what it does, but for what it represents: the slow death of a world once governed by mechanical perfection.
 
 Though nonmagical, the alloy is unnaturally dense and eternally cold to the touch. To wear it is to **entomb oneself in duty**.
 
 ---
+
+## Armor Properties
+
+- **Armor Type:** Any Heavy Armor (typically Plate or Half-Plate)
+- **Weight:** +15 lb. (heavier than standard due to density)
+- **Properties:** Nonmagical
 
 ## Effects
 

@@ -2,13 +2,9 @@
 
 _Large humanoid (Sunborn), Lawful Good, CR 25_
 
-## Vital Stats
-
 | **AC** | **HP** | **Speed** |
 | :----: | :----: | :-------: |
 |   18   |  540   |  50 ft.   |
-
-## Attributes
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |

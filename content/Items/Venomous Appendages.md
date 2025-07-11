@@ -7,7 +7,14 @@ This creature’s body is biologically engineered for violence. Multiple venomou
 
 ---
 
-## Weapon Mastery:
+## Weapon Properties
+
+- **Natural (Finesse, Special)**
+- **Type:** Martial
+- **Range:** Melee
+- **Damage:** 1d6 poison
+
+## Weapon Mastery
 
 - **Slow** _(Only available if the wielder has mastery with natural weapons)_:  
   When this weapon deals damage, the target’s **movement speed is reduced by 10 ft.** until the start of your next turn.
@@ -20,7 +27,7 @@ This creature’s body is biologically engineered for violence. Multiple venomou
 
 ---
 
-## Effects:
+## Effects
 
 - **Magical Weapon**:
 
@@ -34,10 +41,3 @@ This creature’s body is biologically engineered for violence. Multiple venomou
   - These attacks count as **finesse weapons**, allowing the use of **Dexterity or Strength** for attack and damage rolls.
 
 ---
-
-## Weapon Properties:
-
-- **Natural (Finesse, Special)**
-- **Type:** Martial
-- **Range:** Melee
-- **Damage:** 1d6 poison

@@ -1,4 +1,4 @@
-# **Platonian Hunter**
+# Platonian Hunter
 
 _Large Construct, Lawful Neutral_
 

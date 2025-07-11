@@ -11,7 +11,15 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ---
 
+## Weapon Properties
+
+- **Type:** Curved Longsword (Versatile, Special)
+- **Damage:** 1d10 slashing (1d12), **3 lb.**, **Martial**
+- **Weight:** 3lbs
+
 ## Special Features
+
+- **Enhanced Materials**: This weapon has an extra **die level** due to it's premium quality.
 
 - **Lunar Dissolution**:  
   As a **bonus action**, the blade can vanish or reappear in the wielder’s hand in a shimmer of silver mist.
@@ -56,7 +64,7 @@ Forged from a sliver of condensed moonlight and the scale of a lunar wyrm, this 
 
 ## Weapon Mastery
 
-- **Slow**: On hit, the target’s movement speed is reduced by 10 feet until the end of its next turn.
+- **Slow** _(Only available if the wielder has mastery with Longswords)_: On hit, the target’s movement speed is reduced by 10 feet until the end of its next turn.
 
 - **Mooncleave** _(1/Short rest, or 3/Short rest if the wielder has mastery with Longswords)_:  
   As an action, sweep the blade in a great lunar arc:

@@ -8,6 +8,11 @@ A speck of truth, granted to those who've been inflicted vileness — so they ma
 
 ---
 
+## Weapon Properties
+
+- **Type**: Rifle (Heavy, Ranged 60/120, Martial, Two-Handed, Special)
+- **Weight:** 10 lb.
+
 ## Weapon Mastery
 
 - **Slow** _(Only available if the wielder has mastery with rifles)_:  
@@ -35,10 +40,3 @@ A speck of truth, granted to those who've been inflicted vileness — so they ma
   - The rifle **regains 1 expended slot at midnight**, when the **Light of Creation** shines brightest.
 
 ---
-
-## **Weapon Properties:**
-
-- **Rifle (Heavy, Ranged 60/120)**
-- **Weight:** 10 lb.
-- **Type:** Martial, Two-Handed
-- **Special:** Can be customized through phial-slot poisoning.

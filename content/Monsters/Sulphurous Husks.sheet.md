@@ -1,4 +1,8 @@
-# Husk of Xanthosis (Sword-Wielder)
+# Husks of Xanthosis
+
+These creatures are old empyrean and human inhabitants of the original city of the brume, buried in sulphur, fire and xanthosis when their god-patron Xanthous destroyed his own empire in a mad fit of rage and self sabotage.
+
+## Husk of Xanthosis (Sword-Wielder)
 
 _Medium Undead, Neutral Evil_
 
@@ -34,7 +38,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-# Husk of Xanthosis (Biter)
+## Husk of Xanthosis (Biter)
 
 _Medium Undead, Neutral Evil_
 
@@ -71,7 +75,7 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-# Husk of Xanthosis (Spellcaster/Ranged)
+## Husk of Xanthosis (Spellcaster/Ranged)
 
 _Medium Undead, Neutral Evil_
 

@@ -7,6 +7,12 @@ _Versatile_
 
 This blade is forged in the image of the **White Steed of Fear and Creation**, eternally locked in conflict with the **Black Steed of Ambition and Destruction**, each vying for control of the **long-abandoned Golden Chariot of Eternal Motion**.
 
+## Weapon Properties
+
+- **Type:** Longsword (Versatile)
+- **Damage:** 1d8 slashing (1d10), **3 lb.**, **Martial**
+- **Weight:** 3lbs
+
 ## Weapon Mastery
 
 - **Sap** _(Only available if the wielder has mastery with Longswords)_:  
@@ -35,9 +41,5 @@ This blade is forged in the image of the **White Steed of Fear and Creation**, e
 - **Paired Weapon**:
   - This weapon **chains itself to another**, making **both count as the wielder’s pact weapon** and gain all the benefits of the feature.
   - This weapon **will not gain a +1 modifier** from being used as a pact weapon.
-
-## Weapon Properties
-
-- **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **3 lb.**, **Martial**
 
 ---

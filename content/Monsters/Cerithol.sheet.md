@@ -2,6 +2,8 @@
 
 ![Cerithol](/library/images/Cerithol.png)
 
+A **Cerithol Lunam** is a grotesque, fleshy orb that dwells deep within the corpse-womb of the half-slain moon goddess. Half-Blind and bulbous, it moves on four bloated intestine-like ungulate hooves and is covered in translucent, sticky mucus. When threatened, it splits open to reveal a writhing core of veins, flesh and razor-sharp bones that lashes out across impossible distance. It casts spells from holes that open briefly to hiss, bleed, or scream, uses malformed apendages to communicate in windings, and its acidic blood burns like starfire.
+
 _Large Monstrosity, Unaligned_
 
 | **Armor Class**        | **Hit Points**    | **Speed**            |
@@ -25,17 +27,17 @@ _Large Monstrosity, Unaligned_
 
 ## Traits
 
-**Lunar Vessel.**  
-While closed, the Cerithol Lunam cannot cast spells but gains a +4 bonus to AC and is immune to being charmed or stunned.
+- **Lunar Vessel.**  
+  While closed, the Cerithol Lunam cannot cast spells but gains a +4 bonus to AC and is immune to being charmed or stunned.
 
-**Open Form (Bonus Action).**  
-The Cerithol opens fully, revealing its vasculomuscular system. It loses the AC bonus from **Lunar Vessel**, but gains access to its _Pseudopod Surge_ attack and spellcasting.
+- **Open Form (Bonus Action).**  
+  The Cerithol opens fully, revealing its vasculomuscular system. It loses the AC bonus from **Lunar Vessel**, but gains access to its _Pseudopod Surge_ attack and spellcasting.
 
-**Spell Point Casting.**
+- **Spell Point Casting.**
 
-The Cerithol has **50 spell points**
+- The Cerithol has **50 spell points**
 
-The Cerithol Lunam can spend **5 spell points per round**, using the points to cast the following spells. Spell levels correspond to point costs. The cerithol is a 9th level spellcaster.
+- The Cerithol Lunam can spend **5 spell points per round**, using the points to cast the following spells. Spell levels correspond to point costs. The cerithol is a 9th level spellcaster.
 
 - **1st-Level (1 point):** _Ray of Sickness_, _Cause Fear_, _Bloodlash Rebuke_ (see below)
 - **2nd-Level (2 points):** _Mirror Image_, _Misty Step_, _Shatter_
@@ -43,47 +45,43 @@ The Cerithol Lunam can spend **5 spell points per round**, using the points to c
 - **4th-Level (4 points):** _Greater Invisibility_, _Phantasmal Killer_
 - **5th-Level (5 points):** _Wall of Force_, _Cloudkill_
 
-> Cantrips (at will): _Toll the Dead_, _Ray of Frost_, _Poison Spray_
+- > Cantrips (at will): _Toll the Dead_, _Ray of Frost_, _Poison Spray_
 
-**Legendary Actions**:
-
-The Cerithol has **1** Legendary Action.
-
-**Cantrip Volley (Costs 1 Action).**  
-The Cerithol Lunam targets up to **10 creatures** within 120 feet that it can sense. It casts **Poison Spray**, **Ray of Frost**, or **Toll the Dead** on each of them as part of the same action, as a level 5 spellcaster.
-
-**Heightened Reactions.**  
-The Cerithol Lunam can take up to **3 reactions per round**, but no more than one per turn.
+- **Heightened Reactions.**  
+  The Cerithol Lunam can take up to **3 reactions per round**, but no more than one per turn.
 
 ---
 
 ## Actions
 
-**Multiattack.**  
-The Cerithol Lunam makes three _Tentacle Whip_ attacks or one _Pseudopod Surge_ if open.
+- **Multiattack.**  
+  The Cerithol Lunam makes three _Tentacle Whip_ attacks or one _Pseudopod Surge_ if open.
 
-**Tentacle Whip.**  
-_Melee Weapon Attack_: +12 to hit, reach 15 ft., one target.  
-**Hit**: 20 (3d10 + 7) slashing damage.
+- **Tentacle Whip.**  
+  _Melee Weapon Attack_: +12 to hit, reach 15 ft., one target.  
+  **Hit**: 20 (3d10 + 7) slashing damage.
 
-**Pseudopod Surge (Open Only).**  
-_Melee Weapon Attack_: +12 to hit, reach 60 ft., one target.  
-**Hit**: 40 (5d12 + 7) bludgeoning damage. The target must succeed on a **DC 20 Strength saving throw** or be hurled up to **60 feet** in a direction of the Cerithol’s choosing and knocked prone. Colliding with terrain deals 3d6 additional damage.
+- **Pseudopod Surge (Open Only).**  
+  _Melee Weapon Attack_: +12 to hit, reach 60 ft., one target.  
+  **Hit**: 40 (5d12 + 7) bludgeoning damage. The target must succeed on a **DC 20 Strength saving throw** or be hurled up to **60 feet** in a direction of the Cerithol’s choosing and knocked prone. Colliding with terrain deals 3d6 additional damage.
 
 ---
 
 ## Reactions
 
-**Bloodlash Rebuke (1st-level Unique Spell)**  
-_When a creature within 60 ft. succeeds on a saving throw or hits with an attack roll_  
-The Cerithol Lunam sprays burning acidic blood from a pulsing orifice.  
-The creature must succeed on a **DC 18 Dexterity saving throw** or take **4d10 damage**: **2d10 acid** and **2d10 fire**. Regardless of it's result, it must **reroll the triggering d20**, using the new result. The Cerithol gains **advantage** on the next roll it makes before the end of its next turn.
+- **Bloodlash Rebuke (1st-level Unique Spell)**  
+  _When a creature within 60 ft. succeeds on a saving throw or hits with an attack roll_  
+  The Cerithol Lunam sprays burning acidic blood from a pulsing orifice.  
+  The creature must succeed on a **DC 18 Dexterity saving throw** or take **4d10 damage**: **2d10 acid** and **2d10 fire**. Regardless of it's result, it must **reroll the triggering d20**, using the new result. The Cerithol gains **advantage** on the next roll it makes before the end of its next turn.
 
 ---
 
-## Description
+## Legendary Actions
 
-A **Cerithol Lunam** is a grotesque, fleshy orb that dwells deep within the corpse-womb of the half-slain moon goddess. Blind and bulbous, it moves on five bloated intestine-like limbs and is covered in translucent, sticky mucus. When threatened, it splits open to reveal a writhing core of veins and flesh that lashes out across impossible distance. It casts spells from holes that open briefly to hiss, bleed, or scream, and its acidic blood burns like starfire.
+The Cerithol has **1** Legendary Action.
+
+- **Cantrip Volley (Costs 1 Action).**  
+  The Cerithol Lunam targets up to **10 creatures** within 120 feet that it can sense. It casts **Poison Spray**, **Ray of Frost**, or **Toll the Dead** on each of them as part of the same action, as a level 5 spellcaster.
 
 ---
 

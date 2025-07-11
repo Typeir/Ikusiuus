@@ -1,17 +1,23 @@
 # Grand Empyrean Sword-Spear
 
-_Sword-Spear +1 (versatile)_  
+_Sword-Spear +1_  
 _Wondrous item, rare (requires attunement)_  
 _Versatile_
 
 The Empyrean Empire knew no bounds, and so did its cruelty. After the old gods were felled, tombsteel swords, spears, and lances such as this were forged in the image of the _heaven-piercers_ that killed **Päimar**, the sun god. These weapons were designed to channel the icy cold of the Empyrean’s wrath, bringing swift death to their enemies.
 
+## Weapon Properties
+
+- **Type**: Sword-Spear (Versatile)
+- **Damage**: 1d8 slashing (1d10)
+- **Additional Damage**: 2d6 cold damage
+
 ## Weapon Mastery
 
-- **Thrust** (Passive Mastery, available if the wielder has mastery with Sword-Spears):  
+- **Thrust** _(Only available if the wielder has mastery with Sword-Spears)_:  
    When making an attack with this weapon, you can choose to deal piercing damage instead of slashing damage. When you do so, you gain +1 to the attack roll.
 
-- **Frozen Riposte** (Active Mastery, 1/Short rest, available if the wielder has mastery with Sword-Spears):  
+- **Frozen Riposte** _(1/Short Rest, or 3/Short Rest if wielder has Mastery with Sword-Spears)_:  
    After taking damage from a melee attack, you can use your reaction to make an immediate attack against the attacker. If this attack hits, it deals an additional 2d6 cold damage.
 
 ---
@@ -25,10 +31,3 @@ The Empyrean Empire knew no bounds, and so did its cruelty. After the old gods w
    This weapon deals an additional 2d6 cold damage on a hit. The freezing energy of the sword-spear slows the blood of its enemies, leaving them vulnerable to its wrath.
 
 ---
-
-## Weapon Stats
-
-- **Weapon Type**: Sword-Spear (counts as versatile)
-- **Damage**: 1d8 slashing (one-handed) / 1d10 slashing (two-handed)
-- **Additional Damage**: 2d6 cold damage
-- **Properties**: Versatile, Magical, +1 Weapon, Thrust (Mastery), Frozen Riposte (Mastery)

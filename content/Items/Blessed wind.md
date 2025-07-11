@@ -6,6 +6,13 @@ _Finesse, Versatile (1d10), Reach, Vex_
 
 A blade forged from the very breath of the heavens, the **Blessed Wind** hums with an endless, unseen current. Those who wield it move as if guided by the storm itself, striking with a force that echoes beyond their own motion.
 
+## Weapon Properties
+
+- **Type:** Longsword (Versatile)
+- **Damage:** 1d8 slashing (1d10 versatile), **3 lb.**, **Martial**
+- **Weight:** 0lbs
+-
+
 ## Weapon Mastery
 
 - **Vex:**
@@ -39,9 +46,3 @@ A blade forged from the very breath of the heavens, the **Blessed Wind** hums wi
 - **Harmony with the Gale:**
 
   - The **Blessed Wind** can be used in place of your **Unarmed Strikes**, **Flurry of Blows**, and **Martial Arts feature**, allowing it to seamlessly integrate into a monk’s techniques.
-
-- ## Weapon Properties
-
-- **Longsword (Versatile):** 1d8 slashing (1d10 versatile), **0 lb.**, **Martial**
-
----

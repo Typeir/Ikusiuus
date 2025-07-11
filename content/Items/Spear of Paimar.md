@@ -38,8 +38,8 @@ A Spear as weightless as light itself. it still carries fraction of the suns pow
 
 ## Weapon Mastery
 
-- **Sap** _(Only available if the wielder has mastery with Spears)_:  
-  When you hit a creature with this weapon, that creature has **disadvantage on its next attack roll** before the end of its next turn.
+- **Flex** _(Only available if the wielder has mastery with Spears)_:  
+   When you make an attack with this weapon using both hands, you gain a **+1 bonus to damage rolls**.
 
 - **Lightspeed Hurl** _(Mastery Skill — 1/Short Rest, or 3/Short Rest if wielding with mastery)_:  
   When you throw this weapon as part of the **Attack action**, it blazes with solar velocity.

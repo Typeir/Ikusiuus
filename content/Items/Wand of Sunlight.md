@@ -1,12 +1,28 @@
 # Wand of Sunlight
 
-- Roll 1d10
-
-  - Any even number: Casts sunlight on the user
-  - 1: casts guiding bolt at the target, as a third-level spell
-  - 9: casts sunbeam at the target
-  - 3: casts scorching ray at random targets as a 7th-level spell
-  - 5: casts fireball at the target as a 4th-level spell
-  - 7: casts bless on everyone in a 120 feet radius
+_“The Brumeans used these to calibrate their solar cannons before departing for the Glass Wars in Cavar. The brilliance of those machines was obscured only by the atrocities the Empire committed with them.”_
 
 ---
+
+## Usage
+
+When first discovered, the Wand of Sunlight holds **4d6 charges**. Each activation **expends 1 charge**. Once all charges are used, the wand becomes inert and cannot be recharged.
+
+To activate the wand, a creature must spend an action and roll **1d10**, consulting the following table:
+
+| Roll                      | Effect                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Even (2, 4, 6, 8, 10)** | Emits pure daylight centered on the user. This functions as the _sunlight_ effect (bright light in 60 ft., treated as "sunlight" for mechanics such as vampirism, drow, etc.). |
+| **1**                     | _Guiding Bolt_ at 3rd level, targeting a creature within 120 ft. (Spell save DC 15, +7 to hit).                                                                                |
+| **3**                     | _Scorching Ray_ at 7th level, firing 9 rays. Each ray targets a random creature within 60 ft. (roll separately for each).                                                      |
+| **5**                     | _Fireball_ at 4th level, targeting a creature or location of the wielder's choice within 150 ft. (DC 15).                                                                      |
+| **7**                     | _Bless_ cast at 3rd level on all allies within 120 ft. radius (up to 9 creatures).                                                                                             |
+| **9**                     | _Sunbeam_, targeting a creature within 60 ft. (DC 16 Con save or blinded; 6d8 radiant damage). Only fires one beam (not a persistent effect).                                  |
+
+---
+
+## Notes
+
+- This wand is an **unpredictable relic**, originally used not as a weapon, but as a calibration tool for solar siege arrays.
+- The **sunlight effect** can **disrupt illusions, reveal hidden glyphs**, or trigger wards tied to solar exposure.
+- **Once all charges are spent, the wand turns cold and blackened, its photonic core burned out.**
