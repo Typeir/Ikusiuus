@@ -78,3 +78,9 @@ compressImages().catch((err) => {
   console.error(err);
   process.exit(1);
 });
+
+if (process.env.VERCEL) {
+  const fullSizePath = path.join(__dirname, '..', 'public', 'full-size');
+  require('fs').rmSync(fullSizePath, { recursive: true, force: true });
+  console.log('🧹 Cleaned up full-size folder (VERCEL only)');
+}
