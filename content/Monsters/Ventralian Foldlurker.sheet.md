@@ -2,13 +2,10 @@
 
 ![Ventral Floodborne](/library/images/VentralFloodborne.png)
 
-> The **Ventralian Foldlurker** is the **inevitability of written law**, made manifest. It exists not to judge—but to enforce.
->
-> Its **mask** reflects the mechanisms that shaped Damocles—the **Canvas**, the **Tree**, the **Cycle**. Behind it is no face, only a void, and inside, a digestive logic that sees only **violation** and **resolution**.
->
-> These beings are rare but not unique. They are **record-keepers**, **enforcers**, **severance agents** of the Fold, manifest when the energies of the precursor reach unbearable instability.
->
-> Most who meet them die having never understood they were speaking to the world’s **final editor**.
+The **Ventralian Foldlurker** is the **inevitability of written law**, made manifest. It exists not to judge—but to enforce.
+Its **mask** reflects the mechanisms that shaped Damocles—the **Canvas**, the **Tree**, the **Cycle**. Behind it is no face, only a void, and inside, a digestive logic that sees only **violation** and **resolution**.
+These beings are rare but not unique. They are **record-keepers**, **enforcers**, **severance agents** of the Fold, manifest when the energies of the precursor reach unbearable instability.
+Most who meet them die having never understood they were speaking to the world’s **final editor**.
 
 _Large Celestial (Fold), **Neutral**_
 
@@ -32,33 +29,33 @@ _Large Celestial (Fold), **Neutral**_
 
 ---
 
-# Traits
+## Traits
 
-**Anatomy of Judgment.**  
-The Foldborne’s body is a writhing digestive organ wrapped in tethered manuscript-flesh. Any creature grappled by it takes **2d8 radiant damage** at the start of its turn.
+- **Anatomy of Judgment.**  
+  The Foldborne’s body is a writhing digestive organ wrapped in tethered manuscript-flesh. Any creature grappled by it takes **2d8 radiant damage** at the start of its turn.
 
-**Writmask Anchor.**  
-As a bonus action, the Foldborne may throw its mask up to 60 ft. (ignores line of sight). At the end of its movement, it may **teleport to any unoccupied space between itself and the mask**, then recall the mask as a free action. Creatures in the path of the mask when thrown must make a **DC 15 Dex save or take 2d6 force damage** and be knocked prone.
+- **Writmask Anchor.**  
+  As a bonus action, the Foldborne may throw its mask up to 60 ft. (ignores line of sight). At the end of its movement, it may **teleport to any unoccupied space between itself and the mask**, then recall the mask as a free action. Creatures in the path of the mask when thrown must make a **DC 15 Dex save or take 2d6 force damage** and be knocked prone.
 
-**Anti-Spell Shell (Passive).**  
-Concentration checks within 10 ft. of the Foldborne are made with disadvantage. The first spell cast each round within 30 ft. of it requires a **DC 15 Cha save** or fizzles (no effect, slot lost).
+- **Anti-Spell Shell (Passive).**  
+  Concentration checks within 10 ft. of the Foldborne are made with disadvantage. The first spell cast each round within 30 ft. of it requires a **DC 15 Cha save** or fizzles (no effect, slot lost).
 
-**Spatial Feedback.**  
-If the Foldborne takes force, radiant, or thunder damage, it may use its reaction to force the attacker to make a **DC 15 Dex save** or be teleported 30 ft. straight away.
+- **Spatial Feedback.**  
+  If the Foldborne takes force, radiant, or thunder damage, it may use its reaction to force the attacker to make a **DC 15 Dex save** or be teleported 30 ft. straight away.
 
 ---
 
-# Actions
+## Actions
 
-**Multiattack.**  
-The Foldborne makes **three attacks**: two with **Pseudopods**, and one with **Fold-Shear** if available.
+- **Multiattack.**  
+  The Foldborne makes **three attacks**: two with **Pseudopods**, and one with **Fold-Shear** if available.
 
 **Pseudopod.**  
 _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target.  
 _Hit:_ 12 (2d8 + 3) bludgeoning damage and the target is **grappled** (DC 15 escape). If already grappled, the target takes **2d8 radiant damage** instead.
 
-**Fold-Shear (Recharge 5–6).**  
-The Foldborne opens a line of torn space. A 30 ft. line, 5 ft. wide, erupts from a point within 30ft of it. All creatures in the line must make a **DC 15 Constitution saving throw** or take **4d10 force damage** and fall prone. On success, half damage and no prone. Concentration, lasts up to one minute.
+- **Fold-Shear (Recharge 5–6).**  
+  The Foldborne opens a line of torn space. A 30 ft. line, 5 ft. wide, erupts from a point within 30ft of it. All creatures in the line must make a **DC 15 Constitution saving throw** or take **4d10 force damage** and fall prone. On success, half damage and no prone. Concentration, lasts up to one minute.
 
 ---
 
@@ -66,19 +63,19 @@ The Foldborne opens a line of torn space. A 30 ft. line, 5 ft. wide, erupts from
 
 _Declared at the end of its turn. They resolve at the **start of its next turn**. Only one may be active at a time._
 
-**1. Heavensent**
+- **1. Heavensent**
 
 The creature Prepares to leap upwards. Any creature starting it's turn within 5ft of the FoldBorne must make a **DC 18** Charisma save, or be thrust 100ft into the sky, then plunge downwards like a comet. When it lands on top of another creature, tashas split fall damage rules apply.
 
-**2. Echo of the First Contract**  
-At the start of its next turn, **each creature within 30 ft.** must make a **DC 15 Wis save** or be affected by _Command (Approach)_, even if immune to charm.
+- **2. Echo of the First Contract**  
+  At the start of its next turn, **each creature within 30 ft.** must make a **DC 15 Wis save** or be affected by _Command (Approach)_, even if immune to charm.
 
-**3. Total Reversal**  
-The Foldborne reverses space. **Switches places with up to two creatures** within 60 ft., **no save**. If either is unwilling, they take **4d8 thunder damage** and are stunned until the end of their next turn.
+- **3. Total Reversal**  
+  The Foldborne reverses space. **Switches places with up to two creatures** within 60 ft., **no save**. If either is unwilling, they take **4d8 thunder damage** and are stunned until the end of their next turn.
 
 ---
 
-## Death Rattle – Mechanical Hands (1/Day
+## Death Rattle – Mechanical Hands (1/Day)
 
 When reduced to 0 HP, the Foldborne emits a final bell-like pulse. All creatures who have cast a spell in the last minute must make a **DC 16 Wisdom saving throw** or be **stunned until the end of their next turn**, after which the creature casts:
 
