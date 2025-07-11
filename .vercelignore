@@ -12,7 +12,6 @@ pnpm-lock.yaml
 yarn.lock
 
 # Heavy assets not needed server-side
-public/library/images
 public/library/resources
 
 # Scripts not used in runtime
