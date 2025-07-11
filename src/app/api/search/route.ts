@@ -1,6 +1,8 @@
 import fs from 'fs';
 import { NextResponse } from 'next/server';
 import path from 'path';
+import { RegexPatterns } from '../../../lib/enums/constants';
+import { getContentFolder } from '../../../lib/utils/getContentFolder';
 
 const IGNORED_FOLDERS = new Set([
   '.obsidian',
@@ -24,7 +26,7 @@ export async function GET(req: Request) {
 
   if (q.length < 2) return NextResponse.json([]);
 
-  const contentDir = path.join(process.cwd(), 'src', 'content');
+  const contentDir = getContentFolder();
   console.log(contentDir);
 
   function walk(dir: string, base = '') {
@@ -45,7 +47,7 @@ export async function GET(req: Request) {
         matches.push({
           name: fileName
             .replace(/\.sheet\.(md|mdx)$/, '')
-            .replace(/\.sheet$/, ''),
+            .replace(RegexPatterns.SheetSuffix, ''),
           path: kebabPath,
         });
       }

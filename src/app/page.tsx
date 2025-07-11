@@ -3,14 +3,30 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
-type SearchResult = { name: string; path: string };
+/**
+ * Represents a single search result item.
+ */
+type SearchResult = {
+  /** Display name of the result */
+  name: string;
+  /** Path used for navigation */
+  path: string;
+};
 
+/**
+ * Home component providing a live search input and displaying results.
+ *
+ * Features debounced search that queries an API and renders results with links.
+ *
+ * @returns {JSX.Element} The search input and results UI.
+ */
 export default function Home() {
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState<string>('');
   const [results, setResults] = useState<SearchResult[]>([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
+    // Debounce search input by 300ms before querying the API
     const timeout = setTimeout(async () => {
       if (query.length < 2) {
         setResults([]);
@@ -41,6 +57,7 @@ export default function Home() {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         className='w-full p-3 rounded border-zinc-700 text-white'
+        aria-label='Search the Library'
       />
 
       {loading && <p className='text-sm'>Searching...</p>}

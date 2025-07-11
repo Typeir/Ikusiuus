@@ -13,6 +13,17 @@ type Item = {
   children?: Item[];
 };
 
+/**
+ * Responsive layout shell component wrapping the application content.
+ *
+ * Provides a sidebar navigation, theme selector, and mobile-friendly menu toggle.
+ *
+ * @param {Object} props - Component props.
+ * @param {React.ReactNode} props.children - The main content to render.
+ * @param {Theme} props.theme - Current theme selected.
+ * @param {Item[]} props.tree - Navigation tree items for sidebar.
+ * @returns {JSX.Element} The rendered layout with sidebar and main content.
+ */
 export default function ResponsiveLayoutShell({
   children,
   theme,
