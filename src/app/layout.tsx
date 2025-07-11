@@ -138,7 +138,7 @@ export default async function RootLayout({
   return (
     <html lang='en'>
       {/* @ts-ignore */}
-      <body theme={theme}>
+      <body theme={theme} className=''>
         {/* @ts-ignore */}
         <ResponsiveLayoutShell theme={theme} tree={tree}>
           {children}

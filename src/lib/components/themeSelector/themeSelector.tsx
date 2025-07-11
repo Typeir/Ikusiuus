@@ -45,7 +45,7 @@ export const ThemeSelector = ({
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);
         }}
-        className='px-6 py-3 rounded border text-lg font-medium transition-all duration-700'>
+        className='px-6 py-3 rounded border text-lg font-medium '>
         Theme: {THEMES[themeIndex % THEMES.length]}
       </button>
     </div>

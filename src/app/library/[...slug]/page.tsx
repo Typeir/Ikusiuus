@@ -62,7 +62,7 @@ const Page = async ({ params }: PageProps) => {
   const { data } = matter(rawContent);
 
   return (
-    <div className='prose prose-invert mx-auto p-5'>
+    <div className='prose prose-invert mx-auto p-5 '>
       <h1 className='text-4xl font-mono font-black mb-6'>
         {data.title ?? slugPath}
       </h1>
