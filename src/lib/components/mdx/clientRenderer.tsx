@@ -1,32 +1,30 @@
 'use client';
 
 import { MDXProvider } from '@mdx-js/react';
-import React from 'react';
-import * as runtime from 'react/jsx-runtime';
-import { mdxComponents } from './index';
+import { useEffect, useState } from 'react';
+import { mdxComponents } from '.';
 
 type Props = {
-  code: string;
+  slug: string;
 };
 
-export default function ClientRenderer({ code }: Props) {
-  const exports = {};
-  const fn = new Function(
-    'exports',
-    'require',
-    'module',
-    'React',
-    ...Object.keys(runtime),
-    code
-  );
-  fn(exports, require, { exports }, React, ...Object.values(runtime));
+export default function ClientRenderer({ slug }: Props) {
+  const [Component, setComponent] = useState<React.ComponentType | null>(null);
 
-  //@ts-ignore
-  const MDXContent = exports.default;
+  useEffect(() => {
+    // Dynamically load the MDX file as a client component
+    const load = async () => {
+      const mod = await import(`@content/${slug}.mdx`);
+      setComponent(() => mod.default);
+    };
+    load();
+  }, [slug]);
+
+  if (!Component) return null;
 
   return (
     <MDXProvider components={mdxComponents}>
-      <MDXContent />
+      <Component />
     </MDXProvider>
   );
 }

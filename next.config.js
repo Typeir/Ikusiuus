@@ -1,18 +1,20 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+const path = require('path');
+const remarkGfm = require('remark-gfm').default || require('remark-gfm');
 
 const withMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
-});
-
-const path = require('path');
-
-module.exports = {};
-
-module.exports = withMDX({
-  pageExtensions: ['ts', 'tsx', 'mdx'],
-  webpack(config) {
-    config.resolve.alias['~content'] = path.resolve(__dirname, 'content');
-    return config;
+  options: {
+    remarkPlugins: [remarkGfm],
   },
 });
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  pageExtensions: ['ts', 'tsx', 'mdx'],
+  webpack(config) {
+    config.resolve.alias['@content'] = path.resolve(__dirname, 'src/content');
+    return config;
+  },
+};
+
+module.exports = withMDX(nextConfig);

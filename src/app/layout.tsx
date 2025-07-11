@@ -49,7 +49,7 @@ const walk = (
     })
     .filter(Boolean) as any[];
 
-const contentDir = path.join(process.cwd(), 'content');
+const contentDir = path.join(process.cwd(), 'src', 'content');
 const tree = walk(contentDir);
 
 export default async function RootLayout({

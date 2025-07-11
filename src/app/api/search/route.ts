@@ -24,7 +24,8 @@ export async function GET(req: Request) {
 
   if (q.length < 2) return NextResponse.json([]);
 
-  const contentDir = path.join(process.cwd(), 'content');
+  const contentDir = path.join(process.cwd(), 'src', 'content');
+  console.log(contentDir);
 
   function walk(dir: string, base = '') {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {

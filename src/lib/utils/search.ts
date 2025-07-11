@@ -20,7 +20,7 @@ const toKebabCase = (str: string) => {
     .replace(/([a-z])([A-Z])/g, '$1-$2') // camelCase to kebab-case
     .replace(/\s+/g, '-') // spaces to dashes
     .replace(/_/g, '-') // underscores to dashes
-    .toLowerCase(); // normalize casing
+    .toLowerCase(); // normalize casinge: fileName.replace(/\.sheet\.md$/, '').replace(/\.sheet$/, ''),e: fileName.replace(/\.sheet\.md$/, '').replace(/\.sheet$/, ''),
 };
 
 /**
@@ -35,7 +35,7 @@ const toKebabCase = (str: string) => {
 export const searchContent = async (
   query: string
 ): Promise<{ name: string; path: string }[]> => {
-  const contentDir = path.join(process.cwd(), 'content');
+  const contentDir = path.join(process.cwd(), 'src', 'content');
 
   /**
    * Recursively walks through a directory and its subdirectories to find matching `.md or .mdx` files.

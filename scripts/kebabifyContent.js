@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CONTENT_ROOT = path.join(process.cwd(), 'content');
+const CONTENT_ROOT = path.join(process.cwd(), 'src', 'content');
 const IGNORED = new Set(['.git', '.obsidian', 'node_modules', '.vscode']);
 
 /**

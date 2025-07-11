@@ -5,7 +5,7 @@ const path = require('path');
  * The root directory containing markdown files.
  * @type {string}
  */
-const contentRoot = path.join(__dirname, '../content');
+const contentRoot = path.join(__dirname, '../src/content');
 
 /**
  * Recursively walks a directory and renames all `.md` files to `.mdx`.
