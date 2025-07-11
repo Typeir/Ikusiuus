@@ -47,7 +47,7 @@ const SidebarItem = ({
     return (
       <li className={`ml-2 ${styles.accordion}`}>
         <div
-          className={`text-lg ${styles.label} cursor-pointer font-black ${
+          className={`text-lg ${styles.label} cursor-pointer font-bold ${
             open ? styles.open : ''
           }`}
           onClick={toggle}>

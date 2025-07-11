@@ -38,7 +38,7 @@ export const searchContent = async (
   const contentDir = path.join(process.cwd(), 'content');
 
   /**
-   * Recursively walks through a directory and its subdirectories to find matching `.md` files.
+   * Recursively walks through a directory and its subdirectories to find matching `.md or .mdx` files.
    *
    * @param {string} dir - The absolute path of the directory to scan.
    * @param {string} base - The base relative path built from previous recursion steps.
@@ -51,13 +51,13 @@ export const searchContent = async (
       if (IGNORED_FOLDERS.has(entry.name)) continue;
 
       const fullPath = path.join(dir, entry.name);
-      const fileName = entry.name.replace(/\.md$/, '');
+      const fileName = entry.name.replace(/\.(md|mdx)$/, '');
       const kebabPath = path.join(base, toKebabCase(fileName));
 
       if (entry.isDirectory()) {
         walk(fullPath, kebabPath); // recurse into subdirectories
       } else if (
-        entry.name.endsWith('.md') &&
+        (entry.name.endsWith('.md') || entry.name.endsWith('.mdx')) &&
         fileName.toLowerCase().includes(query.toLowerCase())
       ) {
         matches.push({ name: fileName, path: kebabPath });

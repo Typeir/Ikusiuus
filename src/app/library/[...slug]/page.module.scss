@@ -126,3 +126,46 @@
   background-color: var(--color-surface);
   color: var(--color-accent);
 }
+
+.markdown img {
+  display: block;
+  position: relative;
+  margin: 2rem auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 1.5rem;
+  z-index: 0;
+
+  // Container for the pseudo element
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    pointer-events: none;
+    z-index: 1;
+    background-color: red;
+  }
+
+  // Reasonable global height clamp
+  max-height: 90vh;
+
+  // Shrink ultra-tall images slightly
+  @media (max-aspect-ratio: 3/4) {
+    max-height: 75vh;
+  }
+
+  // Shrink ultra-wide images slightly
+  @media (min-aspect-ratio: 3/1) {
+    max-width: 60vw;
+  }
+
+  // Optional: shrink extremely tall ones
+  @media (max-aspect-ratio: 1/3) {
+    max-height: 60vh;
+  }
+}

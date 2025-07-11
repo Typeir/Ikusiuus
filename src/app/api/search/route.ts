@@ -31,18 +31,20 @@ export async function GET(req: Request) {
       if (IGNORED_FOLDERS.has(entry.name)) continue;
 
       const fullPath = path.join(dir, entry.name);
-      const fileName = entry.name.replace(/\.md$/, '');
+      const fileName = entry.name.replace(/\.(md|mdx)$/, '');
 
       const kebabPath = path.join(base, toKebabCase(fileName));
 
       if (entry.isDirectory()) {
         walk(fullPath, kebabPath);
       } else if (
-        entry.name.endsWith('.md') &&
+        (entry.name.endsWith('.md') || entry.name.endsWith('.mdx')) &&
         fileName.toLowerCase().includes(q)
       ) {
         matches.push({
-          name: fileName.replace(/\.sheet\.md$/, '').replace(/\.sheet$/, ''),
+          name: fileName
+            .replace(/\.sheet\.(md|mdx)$/, '')
+            .replace(/\.sheet$/, ''),
           path: kebabPath,
         });
       }

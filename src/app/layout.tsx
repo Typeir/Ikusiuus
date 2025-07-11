@@ -29,7 +29,7 @@ const walk = (
     .map((entry) => {
       if (IGNORED_FOLDERS.has(entry.name)) return null;
       const fullPath = path.join(dir, entry.name);
-      const fileName = entry.name.replace(/\.md$/, '');
+      const fileName = entry.name.replace(/\.(md|mdx)$/, '');
       const kebabPath = path.join(base, toKebabCase(fileName));
       const prettyFileName = fileName.replace(/\.sheet$/, '');
       if (entry.isDirectory()) {
@@ -39,7 +39,7 @@ const walk = (
           children: walk(fullPath, kebabPath),
         };
       }
-      if (entry.name.endsWith('.md')) {
+      if (entry.name.endsWith('.md') || entry.name.endsWith('.mdx')) {
         return {
           name: prettyFileName,
           path: kebabPath,
