@@ -16,17 +16,29 @@ type Item = {
  *
  * @param items - Tree of files and folders
  */
-export const Sidebar = ({ items }: { items: Item[] }) => {
+export const Sidebar = ({
+  items,
+  onNavigate,
+}: {
+  items: Item[];
+  onNavigate?: () => void;
+}) => {
   return (
     <ul className='space-y-1 text-sm'>
       {items.map((item) => (
-        <SidebarItem key={item.path} item={item} />
+        <SidebarItem key={item.path} item={item} onNavigate={onNavigate} />
       ))}
     </ul>
   );
 };
 
-const SidebarItem = ({ item }: { item: Item }) => {
+const SidebarItem = ({
+  item,
+  onNavigate,
+}: {
+  item: Item;
+  onNavigate?: () => void;
+}) => {
   const [open, setOpen] = useState(false);
 
   const toggle = () => setOpen((prev) => !prev);
@@ -47,7 +59,7 @@ const SidebarItem = ({ item }: { item: Item }) => {
           />
         </div>
         <div className={`${styles.content} ${open ? styles.expanded : ''}`}>
-          <Sidebar items={item.children} />
+          <Sidebar items={item.children} onNavigate={onNavigate} />
         </div>
       </li>
     );
@@ -57,6 +69,7 @@ const SidebarItem = ({ item }: { item: Item }) => {
     <li className='ml-4'>
       <Link
         href={`/library/${item.path}`}
+        onClick={onNavigate}
         className={`text-accent hover:underline block ${styles['link-item']}`}>
         {item.name}
       </Link>

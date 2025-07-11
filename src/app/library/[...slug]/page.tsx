@@ -83,7 +83,7 @@ export default async function Page(props: PageProps) {
   const processed = await remark().use(gfm).use(html).process(content);
 
   return (
-    <div className='prose prose-invert mx-auto p-10'>
+    <div className='prose prose-invert mx-auto p-5'>
       <h1 className='text-4xl font-mono font-black'>
         {data.title || slug.join(' / ')}
       </h1>

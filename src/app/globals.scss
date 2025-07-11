@@ -171,12 +171,25 @@ img.logo {
   object-fit: contain;
 }
 
+/* sidebar.module.scss */
+
 .sidebar {
-  scrollbar-gutter: stable;
-  width: 20rem; /* Tailwind w-64 = 16rem = 256px */
-  padding: 1.5rem;
-  // padding-right: 2.5rem !important;
-  position: sticky;
-  top: 0;
-  height: 100vh;
+  @media (max-width: 1024px) {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: 50;
+    background-color: var(--background);
+    border-right: none;
+    padding: 1rem;
+    padding-top: 5rem;
+  }
 }
+
+aside {
+  @media (max-width: 1024px) {
+    padding-top: 5rem !important;
+  }
+}
+
+/* Existing styles like .accordion, .label, etc. remain unchanged */

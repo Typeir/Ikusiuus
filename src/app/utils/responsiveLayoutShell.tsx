@@ -1,0 +1,77 @@
+'use client';
+
+import Link from 'next/link';
+import { useState } from 'react';
+import { Sidebar } from '../../lib/components/sidebar/sidebar';
+import type { Theme } from '../../lib/enums/themes';
+import styles from './responsiveLayoutShell.module.scss';
+import { ThemeSelectorLayout } from './themeSelectorLayout';
+
+type Item = {
+  name: string;
+  path: string;
+  children?: Item[];
+};
+
+export default function ResponsiveLayoutShell({
+  children,
+  theme,
+  tree,
+}: {
+  children: React.ReactNode;
+  theme: Theme;
+  tree: Item[];
+}) {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <div className='sidebar-container flex flex-col lg:flex-row min-h-screen relative'>
+      {/* Sticky Hamburger Button */}
+      <button
+        onClick={() => setOpen(!open)}
+        className='lg:hidden fixed top-4 right-4 z-50 bg-background border p-2 rounded shadow-md'
+        aria-label='Toggle Sidebar'>
+        <img
+          src='/icons/menuHamburguer.png'
+          alt='Menu'
+          className={`${styles.hamburguer} w-6 h-6`}
+        />
+      </button>
+
+      {/* Sticky Mobile Title Bar */}
+      <div className='solid lg:hidden fixed top-0 left-0 w-full h-[72px] z-40 flex items-center px-4 border-b bg-background shadow-sm'>
+        <Link
+          href='/'
+          className='py-8 px-6 text-base font-semibold leading-tight'>
+          Library of Ikuisuus
+        </Link>
+      </div>
+
+      {/* Sidebar */}
+      <aside
+        className={`${
+          open ? 'block' : 'hidden'
+        } lg:block w-full lg:w-80 p-6 border-r fixed lg:sticky top-0 h-screen overflow-y-auto solid bg-background z-30`}>
+        <div className='flex flex-col gap-4'>
+          <Link
+            href='/'
+            className='text-lg font-semibold hover:underline hidden lg:block'>
+            <div className='flex flex-row gap-4'>
+              <img src='/logo.png' alt='Library of Ikuisuus' className='logo' />
+              <h1 className='text-xl'>
+                <span className='text-sm'>The</span>
+                <br />
+                Library of Ikuisuus
+              </h1>
+            </div>
+          </Link>
+          <ThemeSelectorLayout defaultTheme={theme} />
+          <Sidebar onNavigate={() => setOpen(false)} items={tree} />
+        </div>
+      </aside>
+
+      {/* Main Content */}
+      <main className='flex-1 p-6 sm:p-10 mt-12 lg:mt-0'>{children}</main>
+    </div>
+  );
+}
