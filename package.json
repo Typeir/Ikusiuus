@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && next build",
     "start": "next start",
     "lint": "next lint",
     "compress-assets": "node scripts/compressAssets.js",
     "kebabify-content": "node scripts/kebabifyContent.js",
     "md-to-mdx": "node scripts/mdToMdx.js",
-    "mdxify-heading-images": "node scripts/mdxifyHeadingImages.js"
+    "mdxify-heading-images": "node scripts/mdxifyHeadingImages.js",
+    "clean-fullsize": "rm -rf public/full-size",
+    "build": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && npm run clean-fullsize && next build"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
