@@ -2,9 +2,9 @@
 
 _Large Construct, Lawful Neutral_
 
-| **Armor Class** | **Hit Points**   | **Speed** |
-| --------------- | ---------------- | --------- |
-| 20              | 178 (14d10 + 80) | 45 ft.    |
+| **Armor Class** | **Hit Points**    | **Speed** |
+| --------------- | ----------------- | --------- |
+| 20              | 258 (18d12 + 120) | 45 ft.    |
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -17,7 +17,7 @@ _Large Construct, Lawful Neutral_
 - **Condition Immunities**: Stunned, Paralyzed, Charmed, Frightened
 - **Senses**: Darkvision 120 ft., Passive Perception 21
 - **Languages**: —
-- **Challenge**: 10 (5,900 XP)
+- **Challenge**: 12 (8,300 XP)
 - **Proficiency Bonus**: +5
 
 ---
@@ -37,6 +37,9 @@ The Platonian Hunter can cast each of the following spells once per day without 
 
 **Spell Point Reserve.**  
 The Platonian Hunter has **8 spell points**, which can be spent to cast any of its known spells again.
+
+**Clockwork Reactions**
+The hunter does not consume a reaction for opportunity attacks, but can only perform one per target per round
 
 ---
 
@@ -79,6 +82,16 @@ If the target takes damage from this attack, it **catches fire** (see below).
 > **On Fire**: While on fire, the target takes **1d6 fire damage** at the start of each of its turns. A creature can use its action to extinguish the flames, or automatically extinguish them by being submerged in water.
 
 ---
+
+## Legendary actions
+
+WIP
+
+Spawn 2 lil antimagic guys that make the target lose all magic effects currently affecting it, such as _bless_ or _haste_.
+
+Move up to 45 ft.
+
+Fireball.
 
 ## Coatings
 
