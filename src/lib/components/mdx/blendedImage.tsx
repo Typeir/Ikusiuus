@@ -4,11 +4,12 @@ import styles from './blendedImage.module.scss';
  * A custom image component that wraps images in a vignette container.
  */
 export default function BlendedImage(
-  props: ImgHTMLAttributes<HTMLImageElement>
+  props: ImgHTMLAttributes<HTMLImageElement>,
+  mode = 'square'
 ) {
   return (
     <div
-      className={styles['vignette-img']}
+      className={`${styles['vignette-img']} ${styles[mode]}`}
       style={{ '--bg-image': `url(${props.src})` } as React.CSSProperties}>
       <img {...props} />
     </div>
