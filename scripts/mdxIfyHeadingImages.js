@@ -18,7 +18,7 @@ function replaceHeadingImage(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
   const lines = content.split(/\r?\n/);
 
-  for (let i = 0; i < Math.min(10, lines.length); i++) {
+  for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
     const match = line.match(IMAGE_MARKDOWN_REGEX);
     if (match) {
