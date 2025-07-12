@@ -68,10 +68,10 @@ export default function ResponsiveLayoutShell({
         <div className='flex flex-col gap-4'>
           <Link
             href='/'
-            className='text-lg font-semibold hover:underline hidden lg:block'>
+            className={`text-lg font-semibold hidden lg:block ${styles.title}`}>
             <div className='flex flex-row gap-4'>
               <img src='/logo.png' alt='Library of Ikuisuus' className='logo' />
-              <h1 className='text-xl'>
+              <h1 className={`text-xl ${styles.title}`}>
                 <span className='text-sm'>The</span>
                 <br />
                 Library of Ikuisuus

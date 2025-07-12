@@ -22,28 +22,33 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
 
 [theme='light'] {
   --color-bg: #ffffff;
+  --color-bg-secondary: #ebebeb;
   --color-text: #1e1e1e;
   --color-accent: #0070f3;
   --color-surface: #f4f4f5;
 
-  --color-primary: #0070f3;
+  --color-primary: #77a6ec;
   --color-secondary: #a0a0a0;
-  --color-actionable: #ff9800;
+  --color-actionable: #ebbe7a;
+  --color-emphasis: #ebbb73;
 }
 
 [theme='dark'] {
   --color-bg: #0f0f0f;
+  --color-bg-secondary: #23272e;
   --color-text: #f4f4f5;
   --color-accent: #38bdf8;
   --color-surface: #18181b;
 
-  --color-primary: #38bdf8;
+  --color-primary: #d3a160;
   --color-secondary: #888888;
-  --color-actionable: #ffa500;
+  --color-actionable: #38bdf8;
+  --color-emphasis: #ca9d62;
 }
 
 [theme='damocles'] {
   --color-bg: #111217;
+  --color-bg-secondary: #28303b;
   --color-text: #c8ccc7;
   --color-accent: #8fd3a1;
   --color-surface: #1b1d23;
@@ -51,6 +56,7 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
   --color-primary: #7fb79b;
   --color-secondary: #545d6a;
   --color-actionable: #b2dfdb;
+  --color-emphasis: #b2dfdb;
 }
 
 /* ============================================
@@ -85,15 +91,64 @@ body[theme] {
   }
 }
 
-body[theme] * {
-  color: var(--color-text);
-  border-color: var(--color-secondary);
-}
-
-body[theme] * .solid {
+body[theme] {
+  // Default global text and background
   background-color: var(--color-bg);
   color: var(--color-text);
   border-color: var(--color-secondary);
+
+  // Core content styling
+  * {
+    border-color: var(--color-secondary);
+  }
+
+  // Preserve semantic meaning
+  a,
+  .link {
+    color: var(--color-accent);
+    transition: color 0.2s var(--springy-bezier);
+
+    &:hover,
+    &:focus {
+      color: var(--color-primary);
+    }
+  }
+
+  strong,
+  b,
+  .emphasis {
+    color: var(--color-emphasis);
+  }
+
+  .accent {
+    color: var(--color-accent);
+  }
+
+  .muted {
+    color: var(--color-secondary);
+  }
+
+  .surface {
+    background-color: var(--color-surface);
+  }
+
+  .solid {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  button,
+  .actionable {
+    color: var(--color-bg);
+    background-color: var(--color-actionable);
+    border: none;
+    transition: background-color 0.2s var(--springy-bezier);
+
+    &:hover {
+      background-color: var(--color-primary);
+    }
+  }
 }
 
 /* ============================================
@@ -142,7 +197,7 @@ body[theme] * .solid {
   }
 
   .secondary {
-    color: var(--color-secondary);
+    color: var(--color-secondary) !important;
   }
 
   .actionable {
