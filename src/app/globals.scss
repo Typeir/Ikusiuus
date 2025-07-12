@@ -152,6 +152,18 @@ body[theme] * .solid {
    SITE-WIDE CLASSES
 ============================================ */
 
+.hamburger.is-open .bar-top {
+  transform: translateY(25px) rotate(45deg);
+}
+
+.hamburger.is-open .bar-middle {
+  opacity: 0;
+}
+
+.hamburger.is-open .bar-bottom {
+  transform: translateY(-25px) rotate(-45deg);
+}
+
 img.logo {
   max-height: 3.4rem;
   max-width: 120px;
