@@ -1,8 +1,8 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 import path from 'path';
-import ClientRenderer from '../../../lib/components/mdx/clientRenderer';
 import { getContentFolder } from '../../../lib/utils/getContentFolder';
+import ClientRenderer from '../../utils/clientRenderer';
 import styles from './page.module.scss';
 
 /**

@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import Icon from '../icon/icon';
 import styles from './sidebar.module.scss';
 
 type Item = {
@@ -52,9 +53,8 @@ const SidebarItem = ({
           }`}
           onClick={toggle}>
           <p>{item.name}</p>
-          <img
-            src='/icons/arrow.png'
-            alt='Toggle'
+          <Icon
+            type='arrow'
             className={`${styles.arrow} ${open ? styles.open : ''}`}
           />
         </div>

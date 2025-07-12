@@ -42,6 +42,12 @@ $springy-bezier: cubic-bezier(0.68, -0.6, 0.32, 1.6);
 }
 
 .arrow {
+  svg path {
+    fill: green !important;
+  }
+  svg text {
+    fill: green !important;
+  }
   display: inline-block;
   width: 3.15rem; // ~32px
   height: 3.15rem;

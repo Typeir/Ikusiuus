@@ -30,6 +30,7 @@
     "sass": "^1.89.2"
   },
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
     "@types/mdx": "^2.0.13",
     "@types/node": "^20.19.7",
     "@types/react": "^18",

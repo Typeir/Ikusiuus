@@ -12,6 +12,11 @@ const withMDX = require('@next/mdx')({
 const nextConfig = {
   pageExtensions: ['ts', 'tsx', 'mdx'],
   webpack(config) {
+    config.module.rules.push({
+      test: /\.svg$/,
+      issuer: /\.[jt]sx?$/,
+      use: ['@svgr/webpack'],
+    });
     config.resolve.alias['@content'] = path.resolve(__dirname, 'src/content');
     return config;
   },

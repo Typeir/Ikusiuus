@@ -2,7 +2,7 @@
 
 import { MDXProvider } from '@mdx-js/react';
 import { useEffect, useState } from 'react';
-import { mdxComponents } from '.';
+import { mdxComponents } from '../../lib/components/mdx';
 
 type Props = {
   slug: string;
