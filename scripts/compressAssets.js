@@ -29,7 +29,7 @@ const MAX_WIDTH = 1600;
  */
 const compressImages = async () => {
   /** @type {string[]} */
-  const files = await globby(`${SOURCE_DIR}/**/*.{png,jpg,jpeg,JPG}`, {
+  const files = await globby(`${SOURCE_DIR}/**/*.{png,jpg,jpeg,JPG,webp}`, {
     absolute: true,
   });
 
