@@ -21,8 +21,7 @@
     margin-bottom 0.4s var(--springy-bezier) !important;
   & > p {
     transition: border-bottom 0.3s 0.1s var(--springy-bezier),
-      margin-bottom 0.3s 0.1s var(--springy-bezier),
-      filter var(--springy-bezier) 0.4s 0.1s !important;
+      margin-bottom 0.3s 0.1s var(--springy-bezier), filter linear 0.5s !important;
   }
   &:hover,
   &.open {
@@ -55,8 +54,8 @@
   transition: transform 0.2s ease;
   vertical-align: middle;
   object-fit: contain; // ensures it doesn't stretch
-  transition: opacity 0.3s 0.1s var(--springy-bezier),
-    transform 0.4s var(--springy-bezier), filter var(--springy-bezier) 0.4s 0.2s !important;
+  transition: opacity 0.3s var(--springy-bezier),
+    transform 0.4s var(--springy-bezier), filter linear 0.5s !important;
   margin-left: 0.5rem;
   background-color: transparent !important;
   opacity: 0;

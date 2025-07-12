@@ -1,6 +1,6 @@
 'use client';
 
-import { LibrarySearch } from '../lib/components/librarySearch/librarySearch';
+import { LibrarySearch } from '../../lib/components/librarySearch/librarySearch';
 
 export default function Home() {
   return (

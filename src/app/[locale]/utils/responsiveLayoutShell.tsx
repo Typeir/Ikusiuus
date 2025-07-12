@@ -2,9 +2,9 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import Icon from '../../lib/components/icon/icon';
-import { Sidebar } from '../../lib/components/sidebar/sidebar';
-import type { Theme } from '../../lib/enums/themes';
+import Icon from '../../../lib/components/icon/icon';
+import { Sidebar } from '../../../lib/components/sidebar/sidebar';
+import type { Theme } from '../../../lib/enums/themes';
 import styles from './responsiveLayoutShell.module.scss';
 import { ThemeSelectorLayout } from './themeSelectorLayout';
 

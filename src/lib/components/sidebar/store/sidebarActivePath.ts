@@ -26,7 +26,6 @@ class SidebarActivePathStore {
    * @param {string | null} path - The new path.
    */
   set(path: string | null): void {
-    console.log(this);
     this._value = path;
     this.subscribers.forEach((cb) => cb(path));
   }

@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import Icon from '../icon/icon';
 import styles from './sidebar.module.scss';
@@ -100,6 +101,8 @@ const SidebarItem = ({
   pathStore,
 }: SidebarItemProps): JSX.Element | null => {
   const [open, setOpen] = useState<boolean>(false);
+  const params = useParams();
+  const locale = params?.locale as string;
 
   useEffect(() => {
     return pathStore.subscribe((path: any) => {
@@ -112,7 +115,6 @@ const SidebarItem = ({
   const toggle = (): void => {
     const nextState = !open;
     setOpen(nextState);
-    console.log(collapseSiblings, nextState);
 
     if (collapseSiblings && nextState) {
       pathStore.set(item.path);
@@ -149,7 +151,7 @@ const SidebarItem = ({
   return (
     <li className='ml-4'>
       <Link
-        href={`/library/${item.path}`}
+        href={`/${locale}/library/${locale}/${item.path}`}
         onClick={onNavigate}
         className={`text-accent hover:underline block ${styles['link-item']}`}>
         {item.name}

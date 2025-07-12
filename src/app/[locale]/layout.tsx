@@ -8,11 +8,11 @@ import {
   IGNORED_FOLDERS,
   REGEX_EXTENSION,
   RegexPatterns,
-} from '../lib/enums/constants';
-import { PersistentData } from '../lib/enums/persistentData';
-import { Theme } from '../lib/enums/themes';
-import { getContentFolder } from '../lib/utils/getContentFolder';
-import { toTitleCase } from '../lib/utils/toTitleCase';
+} from '../../lib/enums/constants';
+import { PersistentData } from '../../lib/enums/persistentData';
+import { Theme } from '../../lib/enums/themes';
+import { getContentFolder } from '../../lib/utils/getContentFolder';
+import { toTitleCase } from '../../lib/utils/toTitleCase';
 import './globals.scss';
 import ResponsiveLayoutShell from './utils/responsiveLayoutShell';
 
@@ -124,19 +124,22 @@ const walk = (
     .filter(Boolean) as any[];
 };
 
-const contentDir = getContentFolder();
-const tree = walk(contentDir);
-
 export default async function RootLayout({
   children,
+  params,
 }: {
   children: React.ReactNode;
+  params: { locale: string };
 }) {
+  const { locale } = await params;
   const theme =
     (await cookies()).get(PersistentData.Theme)?.value || Theme.Dark;
 
+  const contentDir = path.join(getContentFolder(locale));
+  const tree = walk(contentDir);
+
   return (
-    <html lang='en'>
+    <html lang={locale}>
       {/* @ts-ignore */}
       <body theme={theme} className=''>
         {/* @ts-ignore */}

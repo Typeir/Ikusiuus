@@ -11,6 +11,15 @@ const withMDX = require('@next/mdx')({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['ts', 'tsx', 'mdx'],
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/en',
+        permanent: false,
+      },
+    ];
+  },
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
@@ -18,6 +27,7 @@ const nextConfig = {
       use: ['@svgr/webpack'],
     });
     config.resolve.alias['@content'] = path.resolve(__dirname, 'src/content');
+    config.resolve.alias['@lib'] = path.resolve(__dirname, 'src/lib');
     return config;
   },
 };
