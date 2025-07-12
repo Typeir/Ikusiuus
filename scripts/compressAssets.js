@@ -8,10 +8,10 @@
  * Keeps originals untouched.
  */
 
-import fs from 'fs/promises';
-import { globby } from 'globby';
-import path from 'path';
-import sharp from 'sharp';
+const fs = require('fs/promises');
+const { globby } = require('globby');
+const path = require('path');
+const sharp = require('sharp');
 
 /** Directory containing original full-resolution assets */
 const SOURCE_DIR = 'public/full-size';

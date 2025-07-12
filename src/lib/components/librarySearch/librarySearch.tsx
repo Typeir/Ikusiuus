@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { useDebounce } from '../../hooks/useDebounce';
 import { ExternalSearchResults } from '../externalSearchResults/externalSearchResults';
@@ -34,6 +35,9 @@ export const LibrarySearch = (): JSX.Element => {
   const [loading, setLoading] = useState(false);
   const [showLoadingText, setShowLoadingText] = useState(false);
   const [searchBeyond, setSearchBeyond] = useState(false);
+  const params = useParams();
+
+  const locale = params.locale as string;
 
   /**
    * Tracks the most recent request for local search to avoid race conditions.
@@ -133,7 +137,9 @@ export const LibrarySearch = (): JSX.Element => {
             <ul className='space-y-1 text-sm'>
               {results.map((r) => (
                 <li key={r.path}>
-                  <Link href={`/library/${r.path}`} className='hover:underline'>
+                  <Link
+                    href={`${locale}/library/${r.path}`}
+                    className='hover:underline'>
                     {r.name}
                   </Link>
                 </li>

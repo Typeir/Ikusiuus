@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 
 /**
@@ -19,6 +20,8 @@ type GoogleSearchResult = {
 export const ExternalSearchResults = ({ query }: { query: string }) => {
   const [extResults, setExtResults] = useState<GoogleSearchResult[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
+  const params = useParams();
+  const locale = params.locale as string;
 
   /** Tracks latest request ID to prevent race-condition overwrites. */
   const requestIdRef = useRef<number>(0);
@@ -83,7 +86,11 @@ export const ExternalSearchResults = ({ query }: { query: string }) => {
         {extResults.map((r) => (
           <li key={r.link}>
             <Link
-              href={`/library/beyond?url=${encodeURIComponent(r.link)}`}
+              href={{
+                pathname: `${locale}/library/beyond`,
+                query: { url: r.link },
+              }}
+              locale={undefined}
               className='hover:underline'>
               {r.title}
             </Link>

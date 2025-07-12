@@ -2,6 +2,8 @@
 
 import { useSearchParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
+import { LibrarySearch } from '../../../../lib/components/librarySearch/librarySearch';
+import styles from './page.module.scss';
 
 /**
  * Renders an external URL in an iframe or shows a poetic fallback
@@ -13,7 +15,7 @@ export default function BeyondViewer() {
   const searchParams = useSearchParams();
   const [safeUrl, setSafeUrl] = useState<string | null>(null);
   const [blocked, setBlocked] = useState<boolean>(false);
-  const [opened, setOpened] = useState<boolean>(false); // to avoid repeat tab openings
+  const [opened, setOpened] = useState<boolean>(false);
 
   useEffect(() => {
     const rawUrl = searchParams.get('url');
@@ -23,7 +25,6 @@ export default function BeyondViewer() {
       if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
         setSafeUrl(parsed.toString());
 
-        // Block known iframe-hostile domains
         if (parsed.hostname.endsWith('wikidot.com')) {
           setBlocked(true);
         }
@@ -42,7 +43,7 @@ export default function BeyondViewer() {
 
   if (!safeUrl) {
     return (
-      <div className='p-6 text-sm text-zinc-400'>
+      <div className={styles.message}>
         Invalid or missing URL. This portal could not be opened.
       </div>
     );
@@ -50,24 +51,25 @@ export default function BeyondViewer() {
 
   if (blocked) {
     return (
-      <div className='h-screen w-full bg-zinc-900 text-white flex items-center justify-center p-6'>
-        <div className='max-w-xl text-center text-zinc-400 italic text-sm'>
+      <div className={styles.blocked}>
+        <div className={styles.blockedText}>
           This reality refused the grasp of the Tree of Fate, travelling beyond
           the folds.
         </div>
+        <LibrarySearch />
       </div>
     );
   }
 
   return (
-    <div className='h-screen w-full bg-zinc-900 text-white p-2'>
-      <div className='text-xs text-zinc-500 mb-2 truncate'>
+    <div className={styles.viewer}>
+      <div className={styles.urlBanner}>
         Viewing external archive:
-        <span className='ml-1 text-blue-300'>{safeUrl}</span>
+        <span className={styles.url}>{safeUrl}</span>
       </div>
       <iframe
         src={safeUrl}
-        className='w-full h-[calc(100vh-3rem)] border border-zinc-700 rounded'
+        className={styles.iframe}
         sandbox='allow-scripts allow-same-origin allow-forms'
       />
     </div>
