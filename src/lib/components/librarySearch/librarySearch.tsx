@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { useDebounce } from '../../hooks/useDebounce';
 import { ExternalSearchResults } from '../externalSearchResults/externalSearchResults';
-import styles from './LibrarySearch.module.scss';
+import styles from './librarySearch.module.scss';
 
 /**
  * Represents a single local search result item returned by the internal API.
