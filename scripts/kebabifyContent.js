@@ -9,9 +9,6 @@
 const fs = require('fs');
 const path = require('path');
 
-/** Absolute path to the content root */
-const CONTENT_ROOT = path.join(process.cwd(), 'src', 'content');
-
 /** Folder and file names to ignore */
 const IGNORED = new Set([
   '.git',
@@ -82,7 +79,9 @@ function kebabifyDirectory(dir) {
 console.log('🔁 Kebabifying content folder...\n');
 
 try {
-  kebabifyDirectory(CONTENT_ROOT);
+  ['en', 'es', 'fi'].forEach((locale) =>
+    kebabifyDirectory(path.join(process.cwd(), 'src', 'content', locale))
+  );
   console.log('\n✅ All done.');
 } catch (err) {
   console.error('\n✖ Error during kebabification');
