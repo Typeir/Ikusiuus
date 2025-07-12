@@ -79,7 +79,7 @@ function kebabifyDirectory(dir) {
 console.log('🔁 Kebabifying content folder...\n');
 
 try {
-  ['en', 'es', 'fi'].forEach((locale) =>
+  ['en'].forEach((locale) =>
     kebabifyDirectory(path.join(process.cwd(), 'src', 'content', locale))
   );
   console.log('\n✅ All done.');
