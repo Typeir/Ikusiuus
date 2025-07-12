@@ -54,7 +54,6 @@
 .markdown a {
   color: var(--color-accent);
   text-decoration: underline;
-  transition: color var(--animation-smooth);
 
   &:hover {
     opacity: 0.85;

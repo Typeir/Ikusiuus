@@ -1,15 +1,17 @@
-import Arrow from './icons/arrow.svg';
+import arrow from './icons/arrow.svg';
+import hamburguer from './icons/hamburguer.svg';
 
 import type { FC, SVGProps } from 'react';
 
-export type IconType = 'arrow';
+export type IconType = 'arrow' | 'hamburguer';
 
 export interface IconProps extends SVGProps<SVGSVGElement> {
   type: IconType;
 }
 
 const iconMap: Record<IconType, FC<SVGProps<SVGSVGElement>>> = {
-  arrow: Arrow,
+  arrow,
+  hamburguer,
 };
 
 const Icon: FC<IconProps> = ({ type, className = '', ...rest }) => {

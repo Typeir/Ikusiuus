@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import Icon from '../../lib/components/icon/icon';
 import { Sidebar } from '../../lib/components/sidebar/sidebar';
 import type { Theme } from '../../lib/enums/themes';
 import styles from './responsiveLayoutShell.module.scss';
@@ -32,7 +33,7 @@ export default function ResponsiveLayoutShell({
   children: React.ReactNode;
   theme: Theme;
   tree: Item[];
-}) {
+}): JSX.Element {
   const [open, setOpen] = useState(false);
 
   return (
@@ -42,10 +43,12 @@ export default function ResponsiveLayoutShell({
         onClick={() => setOpen(!open)}
         className='lg:hidden fixed top-4 right-4 z-50 bg-background border p-2 rounded shadow-md'
         aria-label='Toggle Sidebar'>
-        <img
-          src='/icons/menuHamburguer.png'
-          alt='Menu'
-          className={`${styles.hamburguer} w-6 h-6`}
+        <Icon
+          type='hamburguer'
+          className={`${styles.hamburguer} ${
+            open ? styles.isOpen : ''
+          } w-6 h-6`}
+          aria-hidden='true'
         />
       </button>
 
@@ -60,9 +63,9 @@ export default function ResponsiveLayoutShell({
 
       {/* Sidebar */}
       <aside
-        className={`${
-          open ? 'block' : 'hidden'
-        } lg:block w-full lg:w-80 p-6 border-r fixed lg:sticky top-0 h-screen overflow-y-auto solid bg-background z-30`}>
+        className={`${styles.mobileMenu} ${
+          open ? styles.isOpen : ''
+        } lg:translate-x-0 lg:block w-full lg:w-80 p-6 border-r fixed lg:sticky top-0 h-screen overflow-y-auto solid bg-background z-30`}>
         <div className='flex flex-col gap-4'>
           <Link
             href='/'
