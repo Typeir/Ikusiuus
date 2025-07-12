@@ -92,7 +92,6 @@ const resolveContentFilePath = (
   const mdxPath = path.join(rootDir, `${slugPath}.mdx`);
   const sheetMdxPath = path.join(rootDir, `${slugPath}.sheet.mdx`);
   const mdPath = path.join(rootDir, `${slugPath}.md`);
-  console.log(mdxPath, sheetMdxPath, mdPath);
 
   if (fs.existsSync(mdxPath)) return mdxPath;
   if (fs.existsSync(sheetMdxPath)) return sheetMdxPath;
