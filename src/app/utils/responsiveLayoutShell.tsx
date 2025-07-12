@@ -35,7 +35,6 @@ export default function ResponsiveLayoutShell({
   tree: Item[];
 }): JSX.Element {
   const [open, setOpen] = useState(false);
-
   return (
     <div className='sidebar-container flex flex-col lg:flex-row min-h-screen relative'>
       {/* Sticky Hamburger Button */}
@@ -80,7 +79,11 @@ export default function ResponsiveLayoutShell({
             </div>
           </Link>
           <ThemeSelectorLayout defaultTheme={theme} />
-          <Sidebar onNavigate={() => setOpen(false)} items={tree} />
+          <Sidebar
+            onNavigate={() => setOpen(false)}
+            items={tree}
+            collapseSiblings={true}
+          />
         </div>
       </aside>
 

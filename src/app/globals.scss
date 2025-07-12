@@ -58,6 +58,7 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
 ============================================ */
 /* globals.scss or layout global style */
 html {
+  overflow-x: hidden;
   scrollbar-gutter: stable;
 }
 
@@ -191,4 +192,10 @@ aside {
   @media (max-width: 1024px) {
     padding-top: 5rem !important;
   }
+
+  // .noScroll {
+  //   overflow: hidden;
+  //   height: 100vh;
+  //   position: relative;
+  // }
 }

@@ -21,15 +21,53 @@
     }
   }
 }
-
 .mobileMenu {
   transform: translateX(-100%);
   transition: transform 0.6s var(--springy-bezier) 0.1s;
   @apply lg:translate-x-0; // Always visible on large screens
   will-change: transform;
+  padding-top: 5rem !important;
 }
 
 .isOpen {
   transform: translateX(0);
   transition: transform 0.5s var(--springy-bezier);
+}
+.mobileMenu {
+  transform: translateX(-100%);
+  transition: transform 0.6s var(--springy-bezier) 0.1s;
+  will-change: transform;
+  padding-top: 5rem !important;
+  @apply lg:translate-x-0; // Always visible on large screens
+
+  &.isOpen {
+    transform: translateX(0);
+    transition: transform 0.5s var(--springy-bezier);
+  }
+}
+
+@media (max-width: 1024px) {
+  .sidebar {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: 50;
+    background-color: var(--background);
+    border-right: none;
+    padding: 1rem;
+    padding-top: 5rem;
+  }
+
+  .mobileMenu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120vw;
+    z-index: 20;
+    padding-left: 24vw;
+
+    &.isOpen {
+      transform: translateX(-20vw);
+    }
+  }
 }

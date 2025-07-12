@@ -21,7 +21,6 @@ const Icon: FC<IconProps> = ({ type, className = '', ...rest }) => {
     console.warn(`⚠️ Unknown icon type: "${type}"`);
     return null;
   }
-  console.log(SvgIcon);
 
   return <SvgIcon className={className} {...rest} />;
 };
