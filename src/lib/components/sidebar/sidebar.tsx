@@ -151,7 +151,7 @@ const SidebarItem = ({
   return (
     <li className='ml-4'>
       <Link
-        href={`/${locale}/library/${locale}/${item.path}`}
+        href={`/${locale}/library/${item.path}`}
         onClick={onNavigate}
         className={`text-accent hover:underline block ${styles['link-item']}`}>
         {item.name}
