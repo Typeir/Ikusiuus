@@ -36,7 +36,7 @@
 
 @media (max-width: 1024px) {
   .sidebar {
-    position: absolute;
+    position: sticky;
     width: 100%;
     height: auto;
     z-index: 50;
