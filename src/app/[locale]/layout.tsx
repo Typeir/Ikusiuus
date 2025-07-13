@@ -10,13 +10,13 @@ import path from 'path';
 import './globals.scss';
 import ResponsiveLayoutShell from './utils/responsiveLayoutShell';
 
-export default async function RootLayout({
+const RootLayout = async ({
   children,
   params,
 }: {
   children: React.ReactNode;
   params: { locale: string };
-}) {
+}) => {
   const { locale } = await params;
 
   const theme =
@@ -43,4 +43,5 @@ export default async function RootLayout({
       </body>
     </html>
   );
-}
+};
+export default RootLayout;

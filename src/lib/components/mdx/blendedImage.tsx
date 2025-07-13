@@ -3,10 +3,10 @@ import styles from './blendedImage.module.scss';
 /**
  * A custom image component that wraps images in a vignette container.
  */
-export default function BlendedImage(
+const BlendedImage = (
   props: ImgHTMLAttributes<HTMLImageElement>,
   mode = 'square'
-) {
+) => {
   return (
     <div
       className={`${styles['vignette-img']} ${styles[mode]}`}
@@ -14,4 +14,6 @@ export default function BlendedImage(
       <img {...props} />
     </div>
   );
-}
+};
+
+export default BlendedImage;

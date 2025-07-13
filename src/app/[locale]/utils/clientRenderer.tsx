@@ -20,6 +20,8 @@ export default function ClientRenderer({ locale, slug }: Props) {
   useEffect(() => {
     const load = async () => {
       const mod = await import(`@content/${locale}/${slug}.mdx`);
+      console.log(`@content/${locale}/${slug}.mdx`);
+
       setComponent(() => mod.default);
     };
     load();

@@ -3,7 +3,7 @@
 import { ArchiveIntro } from '@/lib/components/archiveIntro/archiveIntro';
 import { LibrarySearch } from '@/lib/components/librarySearch/librarySearch';
 
-export default function Home() {
+const Home = () => {
   return (
     <div className='p-6'>
       <section className='prose max-w-4xl mr-auto px-4 py-8'>
@@ -36,4 +36,6 @@ export default function Home() {
       <LibrarySearch />
     </div>
   );
-}
+};
+
+export default Home;
