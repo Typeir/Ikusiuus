@@ -15,7 +15,7 @@
     "merge-locales": "node scripts/mergeMessages.js",
     "clean-translations": "node scripts/cleanTranslations.js",
     "pre-init": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && npm run merge-locales",
-    "clean": "npm run clean-fullsize && clean-translations",
+    "clean": "npm run clean-fullsize && npm run clean-translations",
     "build": "npm run pre-init && npm run clean && next build"
   },
   "dependencies": {
