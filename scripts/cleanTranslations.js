@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
 
-const MESSAGES_DIR = path.join(__dirname, '..', 'src', 'messages');
+const MESSAGES_DIR = path.join(__dirname, '..', 'messages');
 
 if (process.env.VERCEL !== '1') {
   console.log('🚫 Skipping cleanup: not running in Vercel');
