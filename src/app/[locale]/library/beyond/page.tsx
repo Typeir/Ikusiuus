@@ -1,8 +1,8 @@
 'use client';
 
+import { LibrarySearch } from '@/lib/components/librarySearch/librarySearch';
 import { useSearchParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
-import { LibrarySearch } from '../../../../lib/components/librarySearch/librarySearch';
 import styles from './page.module.scss';
 
 /**

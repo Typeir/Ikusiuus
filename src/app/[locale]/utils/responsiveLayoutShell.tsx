@@ -1,10 +1,11 @@
 'use client';
 
+import Icon from '@/lib/components/icon/icon';
+import { Sidebar } from '@/lib/components/sidebar/sidebar';
+import type { Theme } from '@/lib/enums/themes';
+import { useTranslations } from 'next-intl';
 import Link from 'next/link';
 import { useState } from 'react';
-import Icon from '../../../lib/components/icon/icon';
-import { Sidebar } from '../../../lib/components/sidebar/sidebar';
-import type { Theme } from '../../../lib/enums/themes';
 import styles from './responsiveLayoutShell.module.scss';
 import { ThemeSelectorLayout } from './themeSelectorLayout';
 
@@ -25,7 +26,7 @@ type Item = {
  * @param {Item[]} props.tree - Navigation tree items for sidebar.
  * @returns {JSX.Element} The rendered layout with sidebar and main content.
  */
-export default function ResponsiveLayoutShell({
+function BaseResponsiveLayoutShell({
   children,
   theme,
   tree,
@@ -35,13 +36,15 @@ export default function ResponsiveLayoutShell({
   tree: Item[];
 }): JSX.Element {
   const [open, setOpen] = useState(false);
+  const t = useTranslations('layout');
+
   return (
     <div className='sidebar-container flex flex-col lg:flex-row min-h-screen relative'>
       {/* Sticky Hamburger Button */}
       <button
         onClick={() => setOpen(!open)}
         className='lg:hidden fixed top-4 right-4 z-50 bg-background border p-2 rounded shadow-md'
-        aria-label='Toggle Sidebar'>
+        aria-label={t('toggleSidebar')}>
         <Icon
           type='hamburguer'
           className={`${styles.hamburguer} ${
@@ -56,7 +59,7 @@ export default function ResponsiveLayoutShell({
         <Link
           href='/'
           className='py-8 px-6 text-base font-semibold leading-tight'>
-          Library of Ikuisuus
+          {t('libraryTitle')}
         </Link>
       </div>
 
@@ -70,11 +73,11 @@ export default function ResponsiveLayoutShell({
             href='/'
             className={`text-lg font-semibold hidden lg:block ${styles.title}`}>
             <div className='flex flex-row gap-4'>
-              <img src='/logo.png' alt='Library of Ikuisuus' className='logo' />
+              <img src='/logo.png' alt={t('libraryTitle')} className='logo' />
               <h1 className={`text-xl ${styles.title}`}>
-                <span className='text-sm'>The</span>
+                <span className='text-sm'>{t('libraryTitleSmall')}</span>
                 <br />
-                Library of Ikuisuus
+                {t('libraryTitleLarge')}
               </h1>
             </div>
           </Link>
@@ -92,3 +95,5 @@ export default function ResponsiveLayoutShell({
     </div>
   );
 }
+
+export default BaseResponsiveLayoutShell;

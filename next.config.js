@@ -1,13 +1,13 @@
 const path = require('path');
 const remarkGfm = require('remark-gfm').default || require('remark-gfm');
-
+const createNextIntlPlugin = require('next-intl/plugin');
 const withMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
   options: {
     remarkPlugins: [remarkGfm],
   },
 });
-
+const withNextIntl = createNextIntlPlugin();
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['ts', 'tsx', 'mdx'],
@@ -28,8 +28,9 @@ const nextConfig = {
     });
     config.resolve.alias['@content'] = path.resolve(__dirname, 'src/content');
     config.resolve.alias['@lib'] = path.resolve(__dirname, 'src/lib');
+    config.resolve.alias['@i18n'] = path.resolve(__dirname, 'src/lib/i18n');
     return config;
   },
 };
 
-module.exports = withMDX(nextConfig);
+module.exports = withNextIntl(withMDX(nextConfig));

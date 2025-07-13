@@ -3,10 +3,10 @@
 import {
   ThemeSelector,
   ThemeSelectorProps,
-} from '../../../lib/components/themeSelector/themeSelector';
-import { PersistentData } from '../../../lib/enums/persistentData';
-import { Theme } from '../../../lib/enums/themes';
-import { storePersistentData } from '../../../lib/utils/storePersistentData';
+} from '@/lib/components/themeSelector/themeSelector';
+import { PersistentData } from '@/lib/enums/persistentData';
+import { Theme } from '@/lib/enums/themes';
+import { storePersistentData } from '@/lib/utils/storePersistentData';
 
 /**
  * A layout wrapper around the {@link ThemeSelector} component.
