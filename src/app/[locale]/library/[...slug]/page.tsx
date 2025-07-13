@@ -18,9 +18,12 @@ type PageProps = {
     locale: string;
   }>;
 };
-
 /**
- * Dynamic content renderer for MDX/MD files, using SSG with fallback support.
+ * Dynamic content page renderer based on slug and locale.
+ * Attempts to load `.mdx`, `.sheet.mdx`, or `.md` files from localized folders.
+ *
+ * @param {PageProps} props - Route params
+ * @returns {JSX.Element} Rendered page or 404 message
  */
 const Page = async ({ params }: PageProps) => {
   const { slug, locale } = await params;
