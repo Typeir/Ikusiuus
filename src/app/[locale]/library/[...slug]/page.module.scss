@@ -67,6 +67,12 @@
   opacity: 0.9;
   color: var(--color-text);
   background-color: var(--color-surface);
+  & > *::after {
+    content: none;
+  }
+  & > *::before {
+    content: none;
+  }
 }
 
 .markdown code {
