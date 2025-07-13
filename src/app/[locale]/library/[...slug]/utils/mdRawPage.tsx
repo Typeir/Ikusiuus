@@ -1,4 +1,4 @@
-import { renderMarkdownToHtml } from '@/lib/utils/renderMarkdownToHtml';
+import { renderMarkdownToHtml } from '@/lib/md/renderMarkdownToHtml';
 import matter from 'gray-matter';
 import styles from '../page.module.scss';
 

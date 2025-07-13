@@ -1,10 +1,12 @@
 import fs from 'fs/promises';
-import matter from 'gray-matter';
+import { evaluate, EvaluateOptions } from 'next-mdx-remote-client/rsc';
 import { notFound } from 'next/navigation';
 
+import { isMdFile } from '@/lib/md/isMdFile';
 import { getContentFolder } from '@/lib/utils/getContentFolder';
-import { isMdFile } from '@/lib/utils/isMdFile';
 import { resolveContentFilePath } from '@/lib/utils/resolveContentFilePath';
+import { pathToFileURL } from 'url';
+import { mdxComponents } from '../../../../lib/components/mdx';
 import ClientRenderer from '../../utils/clientRenderer';
 import styles from './page.module.scss';
 import { MDRawPage } from './utils/mdRawPage';
@@ -18,17 +20,17 @@ type PageProps = {
     locale: string;
   }>;
 };
+
 /**
- * Dynamic content page renderer based on slug and locale.
- * Attempts to load `.mdx`, `.sheet.mdx`, or `.md` files from localized folders.
+ * Dynamic content page with fallback to ClientRenderer if MDX precompilation fails.
  *
  * @param {PageProps} props - Route params
- * @returns {JSX.Element} Rendered page or 404 message
+ * @returns {JSX.Element} Rendered page or fallback
  */
 const Page = async ({ params }: PageProps) => {
   const { slug, locale } = await params;
 
-  // Handle accidental locale duplication in slug
+  // Normalize slug: handle accidental locale duplication
   const slugSegments = slug[0] === locale ? slug.slice(1) : slug;
   const slugPath = slugSegments.join('/');
 
@@ -41,19 +43,54 @@ const Page = async ({ params }: PageProps) => {
 
   const rawContent = await fs.readFile(resolvedPath, 'utf8');
 
+  // Render raw .md as-is
   if (isMdFile(resolvedPath)) {
     return <MDRawPage slugPath={slugPath} rawContent={rawContent} />;
   }
 
-  const { data } = matter(rawContent);
+  // Try to precompile MDX via `evaluate`
+  let result;
+  try {
+    result = await evaluate({
+      source: rawContent,
+      components: mdxComponents,
+      options: {
+        parseFrontmatter: true,
+        mdxOptions: {
+          baseUrl: pathToFileURL(resolvedPath).toString(),
+        },
+      } as unknown as EvaluateOptions,
+    });
+  } catch (error) {
+    console.warn(
+      'Catastrophic error when parsing mdx, falling back to client renderer'
+    );
+  } finally {
+    if (!result || result.error) {
+      console.warn(
+        `MDX precompilation failed for ${slugPath}, falling back to ClientRenderer:`,
+        result?.error
+      );
+      return (
+        <div className='prose prose-invert mx-auto p-5'>
+          <h1 className='text-4xl font-mono font-black mb-6'>{slugPath}</h1>
+          <article className={styles.markdown}>
+            <ClientRenderer locale={locale} slug={slugPath} />
+          </article>
+        </div>
+      );
+    }
+  }
+
+  const { content, frontmatter } = result;
+
   return (
     <div className='prose prose-invert mx-auto p-5'>
       <h1 className='text-4xl font-mono font-black mb-6'>
-        {data.title ?? slugPath}
+        {/* @ts-ignore */}
+        {frontmatter?.title ?? slugPath}
       </h1>
-      <article className={styles.markdown}>
-        <ClientRenderer locale={locale} slug={slugPath} />
-      </article>
+      <article className={styles.markdown}>{content}</article>
     </div>
   );
 };
