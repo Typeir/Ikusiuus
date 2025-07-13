@@ -12,7 +12,7 @@ export default function Home() {
           the Library of Ikuisuus stood in solemn grandeur—an impossible
           structure of green-black marble veined like old blood, suspended in
           stillness above the world. It was the Archivist’s greatest pride, a
-          cathedral of silence and memory.{' '}
+          cathedral of silence and memory
           <em>But what is raised high falls hardest.</em>
         </p>
         <p>
@@ -27,7 +27,7 @@ export default function Home() {
         <p>
           Now, deep within the Wound, far from where it once crowned the world,
           a new Ikuisuus stirs. Unfinished, half-sunken, malformed—yet it still
-          glows with a strange beauty. And so the Archivist's dream to document
+          glows with a strange beauty. And so the Archivist’s dream to document
           <em> the vile and beautiful lands of Damocles</em>, may yet be caught.
         </p>
       </section>
