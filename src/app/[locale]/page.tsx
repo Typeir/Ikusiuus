@@ -5,7 +5,7 @@ import { LibrarySearch } from '../../lib/components/librarySearch/librarySearch'
 export default function Home() {
   return (
     <div className='p-6'>
-      <section className='prose max-w-4xl mx-auto px-4 py-8'>
+      <section className='prose max-w-4xl mr-auto px-4 py-8'>
         <h1 className='text-3xl font-bold mb-4'>Welcome To The Archive</h1>
         <p>
           Once held aloft by the trunks of the two mightiest <em>Olivares</em>,

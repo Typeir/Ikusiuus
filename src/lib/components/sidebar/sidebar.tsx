@@ -110,7 +110,7 @@ const SidebarItem = ({
         setOpen(false);
       }
     });
-  }, [collapseSiblings, item.path]);
+  }, [collapseSiblings, item.path, pathStore]);
 
   const toggle = (): void => {
     const nextState = !open;
