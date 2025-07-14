@@ -1,8 +1,11 @@
 import BlendedImage from './blendedImage';
 import FlexRenderer from './flexRenderer';
-// import other custom components here as needed
+import mdxComponents from './mdxComponents';
 
-export const mdxComponents = {
+const components = {
   BlendedImage,
   FlexRenderer,
+  ...mdxComponents,
 };
+
+export default components;

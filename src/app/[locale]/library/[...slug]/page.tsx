@@ -2,11 +2,11 @@ import fs from 'fs/promises';
 import { evaluate, EvaluateOptions } from 'next-mdx-remote-client/rsc';
 import { notFound } from 'next/navigation';
 
+import components from '@/lib/components/mdx';
 import { isMdFile } from '@/lib/md/isMdFile';
 import { getContentFolder } from '@/lib/utils/getContentFolder';
 import { resolveContentFilePath } from '@/lib/utils/resolveContentFilePath';
 import { pathToFileURL } from 'url';
-import { mdxComponents } from '../../../../lib/components/mdx';
 import ClientRenderer from '../../utils/clientRenderer';
 import styles from './page.module.scss';
 import { MDRawPage } from './utils/mdRawPage';
@@ -50,10 +50,11 @@ const Page = async ({ params }: PageProps) => {
 
   // Try to precompile MDX via `evaluate`
   let result;
+
   try {
     result = await evaluate({
       source: rawContent,
-      components: mdxComponents,
+      components,
       options: {
         parseFrontmatter: true,
         mdxOptions: {

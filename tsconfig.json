@@ -28,7 +28,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "scripts/mdToMdx.js"
+    "scripts/mdToMdx.js",
+    "src/lib/mdx/loadCompileMdx.js",
+    "src/lib/mdx/precompileMdx.js"
   ],
   "exclude": ["node_modules"]
 }
