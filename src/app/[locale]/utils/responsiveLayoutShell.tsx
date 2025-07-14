@@ -39,7 +39,7 @@ function BaseResponsiveLayoutShell({
   const t = useTranslations('layout');
 
   return (
-    <div className='sidebar-container flex flex-col lg:flex-row min-h-screen relative'>
+    <div className='sidebar-container flex flex-col lg:flex-row min-h-screen relative max-w-full'>
       {/* Sticky Hamburger Button */}
       <button
         onClick={() => setOpen(!open)}
@@ -55,7 +55,7 @@ function BaseResponsiveLayoutShell({
       </button>
 
       {/* Sticky Mobile Title Bar */}
-      <div className='solid lg:hidden fixed top-0 left-0 w-full h-[72px] z-40 flex items-center px-4 border-b bg-background shadow-sm'>
+      <div className='solid lg:hidden fixed top-0 left-0 w-full h-[72px] z-40 flex items-center px-4 border-b bg-background shadow-sm max-w-full'>
         <Link
           href='/'
           className='py-8 px-6 text-base font-semibold leading-tight'>
