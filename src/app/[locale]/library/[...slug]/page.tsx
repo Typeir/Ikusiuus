@@ -4,14 +4,34 @@ import { notFound } from 'next/navigation';
 
 import components from '@/lib/components/mdx';
 import { isMdFile } from '@/lib/md/isMdFile';
+import findAllMdxFiles from '@/lib/mdx/findAllMdxFiles';
 import { getContentFolder } from '@/lib/utils/getContentFolder';
 import { resolveContentFilePath } from '@/lib/utils/resolveContentFilePath';
+import path from 'path';
 import remarkGfm from 'remark-gfm';
 import { pathToFileURL } from 'url';
 import ClientRenderer from '../../utils/clientRenderer';
 import styles from './page.module.scss';
 import { MDRawPage } from './utils/mdRawPage';
 
+/**
+ * Generates all static params for dynamic `[...slug]` route.
+ *
+ * Next.js uses this at build time to statically generate all MDX pages.
+ *
+ * @returns {Promise<Array<{ slug: string[] }>>} Array of slug params.
+ */
+export async function generateStaticParams(): Promise<
+  Array<{ slug: string[] }>
+> {
+  const CONTENT_ROOT = path.join(process.cwd(), 'src', 'content', 'en');
+  const mdxFiles = await findAllMdxFiles(CONTENT_ROOT);
+  return mdxFiles.map((filePath) => {
+    const relativePath = path.relative(CONTENT_ROOT, filePath);
+    const slug = relativePath.replace(/\.mdx$/, '').split(path.sep);
+    return { slug };
+  });
+}
 /**
  * Props for the dynamic content route.
  */
