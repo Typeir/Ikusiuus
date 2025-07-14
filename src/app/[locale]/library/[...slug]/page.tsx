@@ -6,6 +6,7 @@ import components from '@/lib/components/mdx';
 import { isMdFile } from '@/lib/md/isMdFile';
 import { getContentFolder } from '@/lib/utils/getContentFolder';
 import { resolveContentFilePath } from '@/lib/utils/resolveContentFilePath';
+import remarkGfm from 'remark-gfm';
 import { pathToFileURL } from 'url';
 import ClientRenderer from '../../utils/clientRenderer';
 import styles from './page.module.scss';
@@ -58,6 +59,7 @@ const Page = async ({ params }: PageProps) => {
       options: {
         parseFrontmatter: true,
         mdxOptions: {
+          remarkPlugins: [remarkGfm],
           baseUrl: pathToFileURL(resolvedPath).toString(),
         },
       } as unknown as EvaluateOptions,
