@@ -1,13 +1,45 @@
-/**
- * Auto-generated MDX components. Do not edit manually.
- */
-
 import { jsx as _jsx } from 'react/jsx-runtime';
 
-const mdxComponents: any = {};
+/**
+ * Map of auto-generated MDX components.
+ * Keys are component names.
+ * @property {React.FC<any>} LesserMooncleave Auto-generated component for MDX file. Source: [LesserMooncleave](src/content/en/spells/lesser-mooncleave.mdx)
+ * @property {React.FC<any>} FoldDeduplication Auto-generated component for MDX file. Source: [FoldDeduplication](src/content/en/spells/fold-deduplication.mdx)
+ * Values are React functional components rendering the corresponding MDX content as static HTML.
+ *
+ * @type {Record<string, React.FC<any>>}
+ */
+const mdxComponents: Record<string, React.FC<any>> = {};
 
-mdxComponents.LesserMooncleave = (props: any) => _jsx('div', { dangerouslySetInnerHTML: { __html: "<h1>Lesser Mooncleave</h1>\n<p>This cantrip is not innate to any class, but rather, granted as a boon or a blessing by a <strong>Heirloom</strong> or a <strong>higher power</strong>.\r\nThose who heed the calls of the corpse-god <strong>Küütar</strong> and her master, the <strong>Red Queen</strong>, should find this trick in their repertoire, sooner or later.</p>\n<blockquote>\n<p><strong>Lesser Mooncleave</strong><br/>\n<em>Evocation Cantrip</em><br/>\n<strong>Casting Time:</strong> 1 action<br/>\n<strong>Range:</strong> 120 feet (line)<br/>\n<strong>Components:</strong> V, S, M (the blade itself)<br/>\n<strong>Duration:</strong> Instantaneous</p>\n<p>Unleash a razor-thin crescent of force and frost in a line.<br/>\n<strong>Hit</strong>: 1d6 cold + 1d6 force damage.<br/>\nThis damage <strong>doubles</strong> with each cantrip scaling tier (e.g., 2d6 + 2d6 at level 5, 3d6 + 3d6, etc.)<br/>\nIf a creature is <strong>reduced to 0 HP</strong>, the wave <strong>continues through them</strong>, targeting the next creature in line.</p>\n</blockquote>" }, ...props });
+/**
+ * Auto-generated component for MDX file.
+ * Source: [LesserMooncleave](src/content/en/spells/lesser-mooncleave.mdx)
+ * @param {any} props React props
+ * @returns {JSX.Element}
+ */
+const LesserMooncleave: React.FC<any> = (props: any): JSX.Element =>
+  _jsx('div', {
+    dangerouslySetInnerHTML: {
+      __html:
+        '<h1>Lesser Mooncleave</h1>\n<p>This cantrip is not innate to any class, but rather, granted as a boon or a blessing by a <strong>Heirloom</strong> or a <strong>higher power</strong>.\r\nThose who heed the calls of the corpse-god <strong>Küütar</strong> and her master, the <strong>Red Queen</strong>, should find this trick in their repertoire, sooner or later.</p>\n<blockquote>\n<p><strong>Lesser Mooncleave</strong><br/>\n<em>Evocation Cantrip</em><br/>\n<strong>Casting Time:</strong> 1 action<br/>\n<strong>Range:</strong> 120 feet (line)<br/>\n<strong>Components:</strong> V, S, M (the blade itself)<br/>\n<strong>Duration:</strong> Instantaneous</p>\n<p>Unleash a razor-thin crescent of force and frost in a line.<br/>\n<strong>Hit</strong>: 1d6 cold + 1d6 force damage.<br/>\nThis damage <strong>doubles</strong> with each cantrip scaling tier (e.g., 2d6 + 2d6 at level 5, 3d6 + 3d6, etc.)<br/>\nIf a creature is <strong>reduced to 0 HP</strong>, the wave <strong>continues through them</strong>, targeting the next creature in line.</p>\n</blockquote>',
+    },
+    ...props,
+  });
+mdxComponents['LesserMooncleave'] = LesserMooncleave;
 
-mdxComponents.FoldDeduplication = (props: any) => _jsx('div', { dangerouslySetInnerHTML: { __html: "<h1>Fold Deduplication</h1>\n<p>This spell is not innate to any class, but rather, granted as a boon or a blessing by a <strong>Heirloom</strong> or a <strong>higher power</strong>.</p>\n<blockquote>\n<p>“When you stare long enough into the abyss, the abyss casts <strong>Fold Deduplication</strong> back at you” - Empyrean proverb, unknown origin.</p>\n</blockquote>\n<hr/>\n<blockquote>\n<p><strong>Fold Deduplication</strong><br/>\n<em>5th-Level Abjuration</em><br/>\n<strong>Casting Time:</strong> Reaction (trigger: a creature within 30 feet uses a heirloom of any kind, or casts a spell of 5th level or higher)<br/>\n<strong>Range:</strong> 30 feet\r\n<strong>Components:</strong> S, M (a bag of alchemical precursor worth 50gp)<br/>\n<strong>Duration:</strong> Instantaneous</p>\n<p>The caster compresses Fold energy into a dense tether and launches it at the target, forcing overlap collapse at the point of impact.</p>\n<p><strong>Make a ranged spell attack</strong> against the triggering creature. On a hit:</p>\n<ul>\n<li>The target takes <strong>6d10 damage</strong>, divided evenly between <strong>radiant, necrotic, and force</strong>.</li>\n<li>The heirloom or heirlooms that triggered this reaction is are <strong>forcefully ejected</strong>, landing <strong>5 feet away in random adjacent spaces</strong>.\r\nIf the trigger was a <strong>spell</strong>, the target must make a <strong>DC <em>(10 + the spell level)</em> CON save</strong>, or lose the spell but <strong>not the slot or spell points</strong>.</li>\n</ul>\n<p><strong>On a miss</strong>, the spell fails to connect and no effect occurs.</p>\n<p><strong>At Higher Levels:</strong> When cast using a spell slot of 6th level or higher, increase the damage by <strong>1d10 per slot level</strong> beyond 5th.</p>\n</blockquote>" }, ...props });
-
+/**
+ * Auto-generated component for MDX file.
+ * Source: [FoldDeduplication](src/content/en/spells/fold-deduplication.mdx)
+ * @param {any} props React props
+ * @returns {JSX.Element}
+ */
+const FoldDeduplication: React.FC<any> = (props: any): JSX.Element =>
+  _jsx('div', {
+    dangerouslySetInnerHTML: {
+      __html:
+        '<h1>Fold Deduplication</h1>\n<p>This spell is not innate to any class, but rather, granted as a boon or a blessing by a <strong>Heirloom</strong> or a <strong>higher power</strong>.</p>\n<blockquote>\n<p>“When you stare long enough into the abyss, the abyss casts <strong>Fold Deduplication</strong> back at you” - Empyrean proverb, unknown origin.</p>\n</blockquote>\n<hr/>\n<blockquote>\n<p><strong>Fold Deduplication</strong><br/>\n<em>5th-Level Abjuration</em><br/>\n<strong>Casting Time:</strong> Reaction (trigger: a creature within 30 feet uses a heirloom of any kind, or casts a spell of 5th level or higher)<br/>\n<strong>Range:</strong> 30 feet\r\n<strong>Components:</strong> S, M (a bag of alchemical precursor worth 50gp)<br/>\n<strong>Duration:</strong> Instantaneous</p>\n<p>The caster compresses Fold energy into a dense tether and launches it at the target, forcing overlap collapse at the point of impact.</p>\n<p><strong>Make a ranged spell attack</strong> against the triggering creature. On a hit:</p>\n<ul>\n<li>The target takes <strong>6d10 damage</strong>, divided evenly between <strong>radiant, necrotic, and force</strong>.</li>\n<li>The heirloom or heirlooms that triggered this reaction is are <strong>forcefully ejected</strong>, landing <strong>5 feet away in random adjacent spaces</strong>.\r\nIf the trigger was a <strong>spell</strong>, the target must make a <strong>DC <em>(10 + the spell level)</em> CON save</strong>, or lose the spell but <strong>not the slot or spell points</strong>.</li>\n</ul>\n<p><strong>On a miss</strong>, the spell fails to connect and no effect occurs.</p>\n<p><strong>At Higher Levels:</strong> When cast using a spell slot of 6th level or higher, increase the damage by <strong>1d10 per slot level</strong> beyond 5th.</p>\n</blockquote>',
+    },
+    ...props,
+  });
+mdxComponents['FoldDeduplication'] = FoldDeduplication;
 export default mdxComponents;

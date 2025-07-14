@@ -1,4 +1,4 @@
-const fs = require('fs/promises');
+const fs = require('fs').promises;
 const path = require('path');
 const { evaluate } = require('next-mdx-remote-client/rsc');
 const { compile } = require('@mdx-js/mdx');
@@ -6,6 +6,7 @@ const { pathToFileURL } = require('url');
 const acorn = require('acorn');
 const jsx = require('acorn-jsx');
 const ReactDOMServer = require('react-dom/server');
+const { Project } = require('ts-morph');
 
 const OUTPUT_FILE = path.join(
   process.cwd(),
@@ -14,6 +15,8 @@ const OUTPUT_FILE = path.join(
 
 /**
  * Recursively finds all .mdx files in a directory.
+ * @param {string} dir
+ * @returns {Promise<string[]>}
  */
 const findMdxFiles = async (dir) => {
   const entries = await fs.readdir(dir, { withFileTypes: true });
@@ -32,6 +35,8 @@ const findMdxFiles = async (dir) => {
 
 /**
  * Converts kebab-case or snake_case to PascalCase.
+ * @param {string} str
+ * @returns {string}
  */
 const pascalCase = (str) =>
   str
@@ -41,6 +46,8 @@ const pascalCase = (str) =>
 
 /**
  * Recursively walks the AST and extracts reusable component references.
+ * @param {any} node
+ * @param {Set<string>} tags
  */
 const visitAst = (node, tags) => {
   if (node.type === 'JSXElement') {
@@ -77,6 +84,8 @@ const visitAst = (node, tags) => {
 
 /**
  * Extracts component tags from compiled MDX.
+ * @param {string} compiledJs
+ * @returns {Set<string>}
  */
 const extractTags = (compiledJs) => {
   const Parser = acorn.Parser.extend(jsx());
@@ -95,6 +104,7 @@ const extractTags = (compiledJs) => {
   const mdxFiles = await findMdxFiles(contentRoot);
 
   // Build PascalCase map of .mdx filenames
+  /** @type {Record<string, string>} */
   const mdxMap = {};
   for (const file of mdxFiles) {
     const base = path.basename(file, '.mdx');
@@ -102,6 +112,7 @@ const extractTags = (compiledJs) => {
   }
 
   // Detect outliers
+  /** @type {Set<string>} */
   const outliers = new Set();
 
   for (const file of mdxFiles) {
@@ -122,14 +133,61 @@ const extractTags = (compiledJs) => {
 
   console.log(`Found ${outliers.size} reusable MDX components:\n`);
 
-  let output = `/**
- * Auto-generated MDX components. Do not edit manually.
+  // Delete the output file if it exists, ignore errors if not
+  try {
+    await fs.unlink(OUTPUT_FILE);
+    console.log(`Deleted existing output file: ${OUTPUT_FILE}`);
+  } catch (err) {
+    if (err.code !== 'ENOENT') throw err; // only ignore if file doesn't exist
+  }
+
+  // Setup ts-morph project and source file
+  const project = new Project();
+  const sourceFile = project.createSourceFile(OUTPUT_FILE, '', {
+    overwrite: true,
+  });
+
+  // Import jsx-runtime jsx for _jsx usage
+  sourceFile.addImportDeclaration({
+    namedImports: ['jsx as _jsx'],
+    moduleSpecifier: 'react/jsx-runtime',
+  });
+
+  const componentDocs = [...outliers]
+    .map((tag) => {
+      const filePath = mdxMap[tag];
+      const relativePath = path
+        .relative(process.cwd(), filePath)
+        .replace(/\\/g, '/');
+      // Make sure each line begins with exactly " * " for consistent JSDoc indentation
+      return ` * @property {React.FC<any>} ${tag} Auto-generated component for MDX file. Source: [${tag}](${relativePath})`;
+    })
+    .join('\n');
+
+  sourceFile.addStatements(`
+/**
+ * Map of auto-generated MDX components.
+ * Keys are component names.
+${componentDocs}
+ * Values are React functional components rendering the corresponding MDX content as static HTML.
+ *
+ * @type {Record<string, React.FC<any>>}
  */
+`);
 
-import { jsx as _jsx } from 'react/jsx-runtime';
+  // Initialize mdxComponents object literal with proper typing and JSDoc
+  sourceFile.addVariableStatement({
+    declarationKind: 'const',
+    declarations: [
+      {
+        name: 'mdxComponents',
+        initializer: '{}',
+        type: 'Record<string, React.FC<any>>',
+      },
+    ],
+  });
 
-const mdxComponents: any = {};\n\n`;
-
+  // For each reusable component, add JSDoc and variable declaration, and assign to mdxComponents
   for (const tag of outliers) {
     const filePath = mdxMap[tag];
     const rawContent = await fs.readFile(filePath, 'utf8');
@@ -145,21 +203,50 @@ const mdxComponents: any = {};\n\n`;
       },
     });
 
-    // Render to HTML string
+    // Render static markup
     const html = ReactDOMServer.renderToStaticMarkup(result.content);
 
-    // Create dangerouslySetInnerHTML wrapper
-    output += `mdxComponents.${tag} = (props: any) => _jsx('div', { dangerouslySetInnerHTML: { __html: ${JSON.stringify(
-      html
-    )} }, ...props });\n\n`;
+    // Create a URL-friendly relative path for the JSDoc link
+    const relativePath = path
+      .relative(process.cwd(), filePath)
+      .replace(/\\/g, '/');
+
+    // Add JSDoc comment and variable declaration for the component
+    sourceFile.addStatements(`
+/**
+ * Auto-generated component for MDX file.
+ * Source: [${tag}](${relativePath})
+ * @param {any} props React props
+ * @returns {JSX.Element}
+ */`);
+
+    sourceFile.addVariableStatement({
+      declarationKind: 'const',
+      declarations: [
+        {
+          name: tag,
+          type: 'React.FC<any>',
+          initializer: (writer) => {
+            writer.write(
+              `(props: any): JSX.Element => _jsx('div', { dangerouslySetInnerHTML: { __html: ${JSON.stringify(
+                html
+              )} }, ...props })`
+            );
+          },
+        },
+      ],
+    });
+
+    sourceFile.addStatements(`mdxComponents["${tag}"] = ${tag};`);
 
     console.log(`✅ ${tag}: compiled and rendered from ${filePath}`);
   }
 
-  output += `export default mdxComponents;\n`;
+  // Export mdxComponents as default
+  sourceFile.addStatements(`export default mdxComponents;`);
 
-  await fs.mkdir(path.dirname(OUTPUT_FILE), { recursive: true });
-  await fs.writeFile(OUTPUT_FILE, output, 'utf8');
+  // Save file
+  await sourceFile.save();
 
   console.log(`\n✨ Wrote compiled components to ${OUTPUT_FILE}`);
 })();
