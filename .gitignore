@@ -38,4 +38,4 @@ next-env.d.ts
 /public/library/images
 /messages/**/index.json
 /src/compiled-content
-*/mdx/mdxComponents.tsx
+/src/lib/components/mdx/mdxComponents.tsx
