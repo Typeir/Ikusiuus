@@ -13,3 +13,4 @@ yarn.lock
 
 # Heavy assets not needed server-side
 public/library/resources
+.next/cache/webpack  
