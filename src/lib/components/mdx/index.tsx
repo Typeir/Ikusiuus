@@ -7,7 +7,9 @@ const components = {
   FlexRenderer,
   ...mdxComponents,
   table: ({ children }: any) => (
-    <div className='overflow-x-auto max-w-full'>{children}</div>
+    <div className='overflow-x-auto max-w-full'>
+      <table>{children}</table>
+    </div>
   ),
 };
 
