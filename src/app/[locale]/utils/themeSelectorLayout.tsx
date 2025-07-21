@@ -7,6 +7,14 @@ import {
 import { PersistentData } from '@/lib/enums/persistentData';
 import { Theme } from '@/lib/enums/themes';
 import { storePersistentData } from '@/lib/utils/storePersistentData';
+import { useEffect } from 'react';
+import { fetchPersistentData } from '../../../lib/utils/fetchPersistentData';
+
+const forceTheme = (newTheme: Theme) => {
+  // this is very illegal but it's better than react
+  const b = document.querySelector('body') as HTMLBodyElement | null;
+  b?.setAttribute(PersistentData.Theme, newTheme);
+};
 
 /**
  * A layout wrapper around the {@link ThemeSelector} component.
@@ -22,6 +30,13 @@ import { storePersistentData } from '@/lib/utils/storePersistentData';
 export const ThemeSelectorLayout = ({
   defaultTheme,
 }: ThemeSelectorProps): JSX.Element => {
+  const currentTheme = fetchPersistentData(PersistentData.Theme) as Theme;
+  useEffect(() => {
+    if (currentTheme) {
+      forceTheme(currentTheme);
+    }
+  }, [currentTheme]);
+
   return (
     <ThemeSelector
       /**
@@ -32,9 +47,7 @@ export const ThemeSelectorLayout = ({
        */
       onThemeChange={(newTheme) => {
         storePersistentData(PersistentData.Theme, newTheme);
-        // this is very illegal but it's better than react
-        const b = document.querySelector('body') as HTMLBodyElement | null;
-        b?.setAttribute(PersistentData.Theme, newTheme);
+        forceTheme(newTheme);
       }}
       defaultTheme={defaultTheme as Theme}
     />
