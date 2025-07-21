@@ -1,10 +1,7 @@
 import { routing } from '@/i18n/routing';
-import { PersistentData } from '@/lib/enums/persistentData';
-import { Theme } from '@/lib/enums/themes';
 import { getContentFolder } from '@/lib/utils/getContentFolder';
 import { walk } from '@/lib/utils/walk';
 import { hasLocale, NextIntlClientProvider } from 'next-intl';
-import { cookies } from 'next/headers';
 import { notFound } from 'next/navigation';
 import path from 'path';
 import './globals.scss';
@@ -18,9 +15,6 @@ const RootLayout = async ({
   params: { locale: string };
 }) => {
   const { locale } = await params;
-  const theme =
-    (await cookies()).get(PersistentData.Theme)?.value || Theme.Dark;
-
   const contentDir = path.join(getContentFolder(locale));
   const tree = walk(contentDir);
 
@@ -30,14 +24,12 @@ const RootLayout = async ({
   }
 
   return (
-    <html lang={locale}>
+    <html lang={locale} suppressHydrationWarning>
       {/*  @ts-ignore */}
-      <body theme={theme}>
+      <body suppressHydrationWarning>
         <NextIntlClientProvider locale={locale}>
           {/*  @ts-ignore */}
-          <ResponsiveLayoutShell theme={theme} tree={tree}>
-            {children}
-          </ResponsiveLayoutShell>
+          <ResponsiveLayoutShell tree={tree}>{children}</ResponsiveLayoutShell>
         </NextIntlClientProvider>
       </body>
     </html>

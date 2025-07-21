@@ -28,11 +28,9 @@ type Item = {
  */
 function BaseResponsiveLayoutShell({
   children,
-  theme,
   tree,
 }: {
   children: React.ReactNode;
-  theme: Theme;
   tree: Item[];
 }): JSX.Element {
   const [open, setOpen] = useState(false);
@@ -81,7 +79,7 @@ function BaseResponsiveLayoutShell({
               </h1>
             </div>
           </Link>
-          <ThemeSelectorLayout defaultTheme={theme} />
+          <ThemeSelectorLayout />
           <Sidebar
             onNavigate={() => setOpen(false)}
             items={tree}

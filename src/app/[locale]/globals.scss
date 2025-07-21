@@ -19,8 +19,8 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
 /* ============================================
    THEME DEFINITIONS (replace default colors)
 ============================================ */
-
-[theme='light'] {
+body {
+  // Default light theme as fallback
   --color-bg: #ffffff;
   --color-bg-secondary: #ebebeb;
   --color-text: #1e1e1e;
@@ -33,7 +33,35 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
   --color-emphasis: #ebbb73;
 }
 
-[theme='dark'] {
+@media (prefers-color-scheme: dark) {
+  body {
+    --color-bg: #0f0f0f;
+    --color-bg-secondary: #23272e;
+    --color-text: #f4f4f5;
+    --color-accent: #38bdf8;
+    --color-surface: #18181b;
+
+    --color-primary: #d3a160;
+    --color-secondary: #888888;
+    --color-actionable: #38bdf8;
+    --color-emphasis: #ca9d62;
+  }
+}
+
+[data-theme='light'] {
+  --color-bg: #ffffff;
+  --color-bg-secondary: #ebebeb;
+  --color-text: #1e1e1e;
+  --color-accent: #0070f3;
+  --color-surface: #f4f4f5;
+
+  --color-primary: #77a6ec;
+  --color-secondary: #a0a0a0;
+  --color-actionable: #ebbe7a;
+  --color-emphasis: #ebbb73;
+}
+
+[data-theme='dark'] {
   --color-bg: #0f0f0f;
   --color-bg-secondary: #23272e;
   --color-text: #f4f4f5;
@@ -46,17 +74,17 @@ $transition-ease-springy: cubic-bezier(0.68, -0.6, 0.32, 1.6);
   --color-emphasis: #ca9d62;
 }
 
-[theme='damocles'] {
+[data-theme='damocles'] {
   --color-bg: #111217;
   --color-bg-secondary: #28303b;
   --color-text: #c8ccc7;
   --color-accent: #8fd3a1;
   --color-surface: #1b1d23;
 
-  --color-primary: #7fb79b;
+  --color-primary: #7fc7a3;
   --color-secondary: #545d6a;
   --color-actionable: #b2dfdb;
-  --color-emphasis: #b2dfdb;
+  --color-emphasis: #8acfd4;
 }
 
 /* ============================================
@@ -67,13 +95,24 @@ html {
   overflow-x: hidden;
   scrollbar-gutter: stable;
 }
-
-body[theme] {
+body {
   background-color: var(--color-bg);
   color: var(--color-text);
-
-  scrollbar-color: var(--color-secondary) transparent;
+  border-color: var(--color-secondary);
   scrollbar-width: thin;
+  scrollbar-color: var(--color-secondary) transparent;
+}
+
+body[data-theme] {
+  // Default global text and background
+  background-color: var(--color-bg);
+  border-color: var(--color-secondary);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-secondary) transparent;
+
+  p {
+    color: var(--color-text);
+  }
 
   &::-webkit-scrollbar {
     width: 8px;
@@ -88,18 +127,10 @@ body[theme] {
     background-color: var(--color-accent);
     border-radius: 4px;
     border: 1px solid var(--color-surface);
-  }
-}
-
-body[theme] {
-  // Default global text and background
-  background-color: var(--color-bg);
-  color: var(--color-text);
-  border-color: var(--color-secondary);
-
-  // Core content styling
-  * {
-    border-color: var(--color-secondary);
+    // Core content styling
+    * {
+      border-color: var(--color-secondary);
+    }
   }
 
   // Preserve semantic meaning

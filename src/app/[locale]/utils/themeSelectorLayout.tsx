@@ -7,6 +7,13 @@ import {
 import { PersistentData } from '@/lib/enums/persistentData';
 import { Theme } from '@/lib/enums/themes';
 import { storePersistentData } from '@/lib/utils/storePersistentData';
+import { useEffect } from 'react';
+import { fetchPersistentData } from '../../../lib/utils/fetchPersistentData';
+
+const forceTheme = (newTheme: Theme) => {
+  const b = document.querySelector('body') as HTMLBodyElement | null;
+  b?.setAttribute(PersistentData.Theme, newTheme);
+};
 
 /**
  * A layout wrapper around the {@link ThemeSelector} component.
@@ -19,9 +26,11 @@ import { storePersistentData } from '@/lib/utils/storePersistentData';
  * @param {Theme} props.defaultTheme - The initial theme to use.
  * @returns {JSX.Element} A JSX element rendering the ThemeSelector with persistence logic.
  */
-export const ThemeSelectorLayout = ({
-  defaultTheme,
-}: ThemeSelectorProps): JSX.Element => {
+export const ThemeSelectorLayout = ({}: ThemeSelectorProps): JSX.Element => {
+  const currentTheme = fetchPersistentData(PersistentData.Theme);
+  useEffect(() => {
+    forceTheme(currentTheme as Theme);
+  }, [currentTheme]);
   return (
     <ThemeSelector
       /**
@@ -33,10 +42,8 @@ export const ThemeSelectorLayout = ({
       onThemeChange={(newTheme) => {
         storePersistentData(PersistentData.Theme, newTheme);
         // this is very illegal but it's better than react
-        const b = document.querySelector('body') as HTMLBodyElement | null;
-        b?.setAttribute(PersistentData.Theme, newTheme);
+        forceTheme(newTheme);
       }}
-      defaultTheme={defaultTheme as Theme}
     />
   );
 };

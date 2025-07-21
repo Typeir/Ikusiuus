@@ -1,3 +1,3 @@
 export enum PersistentData {
-  Theme = 'theme',
+  Theme = 'data-theme',
 }

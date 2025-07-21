@@ -15,7 +15,7 @@ const THEMES: Theme[] = Object.values(Theme);
  */
 export type ThemeSelectorProps = {
   onThemeChange?: (newTheme: Theme) => void;
-  defaultTheme: Theme;
+  defaultTheme?: Theme;
 };
 
 /**
@@ -30,7 +30,7 @@ export type ThemeSelectorProps = {
  * @returns {JSX.Element} A themed UI selector button and heading.
  */
 export const ThemeSelector = ({
-  defaultTheme = Theme.Dark,
+  defaultTheme,
   onThemeChange = () => {},
 }: ThemeSelectorProps): JSX.Element => {
   const [themeIndex, setThemeIndex] = useState(
