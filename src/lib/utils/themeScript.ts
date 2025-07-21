@@ -9,7 +9,7 @@ export const getThemeInitScript = () => {
       try {
         var theme = localStorage.getItem('${PersistentData.Theme}');
         var root = document.body;
-        if (theme === '${Theme.Dark}' || theme === '${Theme.Light}' || theme === '${Theme.Sepia}') {
+        if (theme === '${Theme.Dark}' || theme === '${Theme.Light}') {
           root.classList.add(theme);
           root.setAttribute('${PersistentData.Theme}', theme);
         }
