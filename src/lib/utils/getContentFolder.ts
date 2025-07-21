@@ -10,5 +10,10 @@ import { FolderName } from '../enums/constants';
  * @returns {string} The absolute path to the content directory.
  */
 export const getContentFolder = (locale: string = 'en'): string => {
-  return path.join(process.cwd(), FolderName.Src, FolderName.Content, locale);
+  return path.join(
+    process.cwd(),
+    FolderName.Public,
+    FolderName.Content,
+    locale
+  );
 };

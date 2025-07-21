@@ -36,5 +36,5 @@ function renameMarkdownToMdx(dir) {
 
 // Start the recursive rename process
 ['en'].forEach((locale) =>
-  renameMarkdownToMdx(path.join(process.cwd(), 'src', 'content', locale))
+  renameMarkdownToMdx(path.join(process.cwd(), 'public', 'content', locale))
 );

@@ -24,7 +24,7 @@ import { MDRawPage } from './utils/mdRawPage';
 export async function generateStaticParams(): Promise<
   Array<{ slug: string[] }>
 > {
-  const CONTENT_ROOT = path.join(process.cwd(), 'src', 'content', 'en');
+  const CONTENT_ROOT = path.join(process.cwd(), 'public', 'content', 'en');
   const mdxFiles = await findAllMdxFiles(CONTENT_ROOT);
   return mdxFiles.map((filePath) => {
     const relativePath = path.relative(CONTENT_ROOT, filePath);
@@ -116,4 +116,4 @@ const Page = async ({ params }: PageProps) => {
 
 export default Page;
 
-export const dynamic = 'force-static';
+// export const dynamic = 'force-static';

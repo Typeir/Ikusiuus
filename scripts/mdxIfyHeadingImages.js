@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
 
-const ROOT_DIR = path.resolve(process.cwd(), 'src', 'content'); // Adjust as needed
+const ROOT_DIR = path.resolve(process.cwd(), 'public', 'content'); // Adjust as needed
 
 // Regex to match markdown image in first 10 lines: ![AltText](ImagePath)
 const IMAGE_MARKDOWN_REGEX = /^!\[(.*?)\]\((.*?)\)$/;

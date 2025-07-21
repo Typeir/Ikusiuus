@@ -36,6 +36,7 @@ export const RegexPatterns = {
 export enum FolderName {
   Src = 'src',
   Content = 'content',
+  Public = 'public',
 }
 
 // Supported file extensions

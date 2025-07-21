@@ -80,7 +80,7 @@ console.log('🔁 Kebabifying content folder...\n');
 
 try {
   ['en'].forEach((locale) =>
-    kebabifyDirectory(path.join(process.cwd(), 'src', 'content', locale))
+    kebabifyDirectory(path.join(process.cwd(), 'public', 'content', locale))
   );
   console.log('\n✅ All done.');
 } catch (err) {

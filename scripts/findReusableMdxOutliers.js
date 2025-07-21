@@ -100,7 +100,7 @@ const extractTags = (compiledJs) => {
 };
 
 (async () => {
-  const contentRoot = path.join(process.cwd(), 'src/content');
+  const contentRoot = path.join(process.cwd(), 'public', 'content');
   const mdxFiles = await findMdxFiles(contentRoot);
 
   // Build PascalCase map of .mdx filenames

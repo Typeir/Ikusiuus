@@ -26,7 +26,10 @@ const nextConfig = {
       issuer: /\.[jt]sx?$/,
       use: ['@svgr/webpack'],
     });
-    config.resolve.alias['@content'] = path.resolve(__dirname, 'src/content');
+    config.resolve.alias['@content'] = path.resolve(
+      __dirname,
+      'public/content'
+    );
     config.resolve.alias['@lib'] = path.resolve(__dirname, 'src/lib');
     config.resolve.alias['@i18n'] = path.resolve(__dirname, 'src/lib/i18n');
     return config;
