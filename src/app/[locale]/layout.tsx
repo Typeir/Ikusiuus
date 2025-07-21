@@ -47,3 +47,5 @@ const RootLayout = async ({
   );
 };
 export default RootLayout;
+
+export const dynamic = 'force-static';
