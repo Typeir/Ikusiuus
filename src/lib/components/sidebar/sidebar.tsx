@@ -136,6 +136,9 @@ const SidebarItem = ({
   const [open, setOpen] = useState<boolean>(false);
   const params = useParams();
   const locale = params?.locale as string;
+  const index = item?.children?.findIndex(
+    (child) => child.name.toLowerCase() === 'main'
+  );
 
   useEffect(() => {
     return pathStore.subscribe((path: any) => {
@@ -145,17 +148,66 @@ const SidebarItem = ({
     });
   }, [collapseSiblings, item.path, pathStore]);
 
-  const toggle = (): void => {
+  const toggle = (e?: React.MouseEvent): void => {
     const nextState = !open;
     setOpen(nextState);
-
+    e?.preventDefault();
     if (collapseSiblings && nextState) {
       pathStore.set(item.path);
     }
   };
 
+  // if the foler has an index, move it to the top
+  if (index !== undefined && index !== -1) {
+    const children = [...(item.children as LayoutItem[])];
+    const indexedItem = children?.splice(index, 1)[0];
+
+    return (
+      <li
+        className={`ml-2 ${styles.accordion}`}
+        style={{
+          ...(open ? { maxHeight: `${item.expandedHeight}px` } : {}),
+          transition: 'max-height 0.5s var(--springy-bezier)',
+          overflow: 'hidden',
+        }}>
+        <Link
+          href={`/${locale}/library/${indexedItem.path}`}
+          onClick={() => open && onNavigate && onNavigate()}
+          className={`text-accent hover:underline block ${styles['link-item']}`}>
+          <div
+            className={`text-lg ${styles.label} cursor-pointer font-bold ${
+              open ? styles.open : ''
+            }`}
+            onClick={() => !open && toggle()}>
+            <p>{item.name}</p>
+            <Icon
+              onClick={toggle}
+              type='arrow'
+              className={`${styles.arrow} ${open ? styles.open : ''}`}
+            />
+          </div>
+        </Link>
+        <div
+          className={`${styles.content} ${open ? styles.expanded : ''}`}
+          style={{
+            ...(open ? { maxHeight: `${item.expandedHeight}px` } : {}),
+            transition: 'max-height 0.5s var(--springy-bezier)',
+            overflow: 'hidden',
+          }}>
+          <Sidebar
+            items={children as LayoutItem[]}
+            onNavigate={onNavigate}
+            collapseSiblings={collapseSiblings}
+          />
+        </div>
+      </li>
+    );
+  }
+
+  // if the foler has no children, don't render it
   if (item.children?.length === 0) {
     return null;
+    // if the foler has no index, render it as a folder
   } else if (item.children) {
     return (
       <li
@@ -193,6 +245,7 @@ const SidebarItem = ({
     );
   }
 
+  // if the item is not a folder, render it as a link
   return (
     <li className='ml-4'>
       <Link
