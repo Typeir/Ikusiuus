@@ -21,6 +21,42 @@ export type Item = {
   children?: Item[];
 };
 
+export type LayoutItem = Item & {
+  expandedHeight: number;
+  children?: LayoutItem[] | Item[];
+};
+
+const BASE_HEIGHT = 52; // height per sidebar item in px
+
+/**
+ * Recursively calculates collapsed and expanded heights for each sidebar item.
+ *
+ * @param {Item[]} items - The sidebar items.
+ * @returns {Array<LayoutItem | undefined>} Sidebar items with height metadata.
+ */
+const calculateHeights = (items: Item[]): Array<LayoutItem> => {
+  return items.map((item) => {
+    if (!item.children || item.children.length === 0) {
+      return {
+        ...item,
+        expandedHeight: BASE_HEIGHT,
+      };
+    }
+
+    const children = calculateHeights(item.children);
+    const totalChildrenHeight = children.reduce(
+      (sum, child) => sum + child.expandedHeight,
+      0
+    );
+
+    return {
+      ...item,
+      children,
+      expandedHeight: BASE_HEIGHT + totalChildrenHeight,
+    };
+  });
+};
+
 /**
  * Props for the Sidebar component.
  *
@@ -28,8 +64,6 @@ export type Item = {
  * @property {Item[]} items - The root navigation items.
  * @property {() => void=} onNavigate - Optional callback for when a link is clicked.
  * @property {boolean=} collapseSiblings - If true, opening one collapses siblings.
- * @property {SidebarActivePathStore} pathStore - the open/closed path store.
- 
  */
 interface SidebarProps {
   items: Item[];
@@ -41,9 +75,6 @@ interface SidebarProps {
  * Renders a recursive sidebar menu with optional sibling-collapsing behavior.
  *
  * @param {SidebarProps} props - Component props.
- * @param {Item[]} props.items - The root navigation items.
- * @param {() => void=} props.onNavigate - Optional callback for when a link is clicked.
- * @param {boolean=} props.collapseSiblings - If true, opening one collapses siblings.
  * @returns {JSX.Element} The sidebar navigation tree.
  */
 export const Sidebar = ({
@@ -53,9 +84,11 @@ export const Sidebar = ({
 }: SidebarProps): JSX.Element => {
   const shouldCollapse = items.length > 1;
   const [localPathStore] = useState(new SidebarActivePathStore());
+  const layoutItems = calculateHeights(items);
+
   return (
     <ul className='space-y-1 text-sm'>
-      {items.map((item) => (
+      {layoutItems.map((item) => (
         <SidebarItem
           key={item.path}
           item={item}
@@ -72,13 +105,13 @@ export const Sidebar = ({
  * Props for a single SidebarItem component.
  *
  * @typedef {Object} SidebarItemProps
- * @property {Item} item - The item to render.
+ * @property {LayoutItem} item - The item to render.
  * @property {() => void=} onNavigate - Optional navigation callback.
  * @property {boolean} collapseSiblings - Whether to collapse other items.
  * @property {SidebarActivePathStore} pathStore - the open/closed path store.
  */
 interface SidebarItemProps {
-  item: Item;
+  item: LayoutItem;
   onNavigate?: () => void;
   collapseSiblings: boolean;
   pathStore: SidebarActivePathStore;
@@ -125,7 +158,13 @@ const SidebarItem = ({
     return null;
   } else if (item.children) {
     return (
-      <li className={`ml-2 ${styles.accordion}`}>
+      <li
+        className={`ml-2 ${styles.accordion}`}
+        style={{
+          ...(open ? { maxHeight: `${item.expandedHeight}px` } : {}),
+          transition: 'max-height 0.5s var(--springy-bezier)',
+          overflow: 'hidden',
+        }}>
         <div
           className={`text-lg ${styles.label} cursor-pointer font-bold ${
             open ? styles.open : ''
@@ -137,7 +176,13 @@ const SidebarItem = ({
             className={`${styles.arrow} ${open ? styles.open : ''}`}
           />
         </div>
-        <div className={`${styles.content} ${open ? styles.expanded : ''}`}>
+        <div
+          className={`${styles.content} ${open ? styles.expanded : ''}`}
+          style={{
+            ...(open ? { maxHeight: `${item.expandedHeight}px` } : {}),
+            transition: 'max-height 0.5s var(--springy-bezier)',
+            overflow: 'hidden',
+          }}>
           <Sidebar
             items={item.children}
             onNavigate={onNavigate}
