@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { Theme } from '../../enums/themes';
 import { circularClamp } from '../../utils/circularClamp';
+import styles from './themeSelector.module.scss';
 
 const THEMES: Theme[] = Object.values(Theme);
 
@@ -37,16 +38,19 @@ export const ThemeSelector = ({
     circularClamp(THEMES.indexOf(defaultTheme as any), 0, THEMES.length - 1)
   );
 
+  const currentTheme = THEMES[themeIndex % THEMES.length];
+
   return (
-    <div className='flex flex-col items-start gap-2 mb-4 solid'>
+    <div className='flex flex-col items-start gap-2 mb-4'>
       <button
         onClick={() => {
-          const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1); // Cycle within bounds
+          const newTheme = circularClamp(themeIndex + 1, 0, THEMES.length - 1);
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);
         }}
-        className='px-6 py-3 rounded border text-lg font-medium '>
-        Theme: {THEMES[themeIndex % THEMES.length]}
+        className={`${styles['theme-toggle']} px-6 py-3 rounded border text-lg font-medium`}
+        data-theme={currentTheme}>
+        Theme:
       </button>
     </div>
   );

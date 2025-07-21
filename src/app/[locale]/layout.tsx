@@ -4,6 +4,7 @@ import { walk } from '@/lib/utils/walk';
 import { hasLocale, NextIntlClientProvider } from 'next-intl';
 import { notFound } from 'next/navigation';
 import path from 'path';
+import { getThemeInitScript } from '../../lib/utils/themeScript';
 import './globals.scss';
 import ResponsiveLayoutShell from './utils/responsiveLayoutShell';
 
@@ -27,6 +28,7 @@ const RootLayout = async ({
     <html lang={locale} suppressHydrationWarning>
       {/*  @ts-ignore */}
       <body suppressHydrationWarning>
+        <script dangerouslySetInnerHTML={{ __html: getThemeInitScript() }} />
         <NextIntlClientProvider locale={locale}>
           {/*  @ts-ignore */}
           <ResponsiveLayoutShell tree={tree}>{children}</ResponsiveLayoutShell>
