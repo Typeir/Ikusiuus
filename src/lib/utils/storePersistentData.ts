@@ -17,7 +17,7 @@
 export const storePersistentData = (key: string, value: string) => {
   if (typeof window === 'undefined') return;
 
-  document.cookie = `${key}=${value}; path=/; max-age=31536000`;
+  document.cookie = `${key}=${value}; max-age=31536000`;
   sessionStorage.setItem(key, value);
   localStorage.setItem(key, value);
 };

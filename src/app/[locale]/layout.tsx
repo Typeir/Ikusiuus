@@ -18,9 +18,11 @@ const RootLayout = async ({
   params: { locale: string };
 }) => {
   const { locale } = await params;
-
+  const _cookies = await cookies();
+  console.log(_cookies);
   const theme =
     (await cookies()).get(PersistentData.Theme)?.value || Theme.Dark;
+  console.log(theme);
 
   const contentDir = path.join(getContentFolder(locale));
   const tree = walk(contentDir);
@@ -45,5 +47,3 @@ const RootLayout = async ({
   );
 };
 export default RootLayout;
-
-export const dynamic = 'force-static';
