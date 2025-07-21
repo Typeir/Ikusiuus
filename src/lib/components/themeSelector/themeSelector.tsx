@@ -34,7 +34,7 @@ export const ThemeSelector = ({
   onThemeChange = () => {},
 }: ThemeSelectorProps): JSX.Element => {
   const [themeIndex, setThemeIndex] = useState(
-    circularClamp(THEMES.indexOf(defaultTheme), 0, THEMES.length - 1)
+    circularClamp(THEMES.indexOf(defaultTheme as any), 0, THEMES.length - 1)
   );
 
   return (
