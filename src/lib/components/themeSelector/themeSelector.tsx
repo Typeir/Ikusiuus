@@ -48,8 +48,7 @@ export const ThemeSelector = ({
           setThemeIndex(newTheme);
           onThemeChange(THEMES[newTheme]);
         }}
-        className={`${styles['theme-toggle']} px-6 py-3 rounded border text-lg font-medium`}
-        data-theme={currentTheme}>
+        className={`${styles['theme-toggle']} px-6 py-3 rounded border text-lg font-medium`}>
         Theme:
       </button>
     </div>

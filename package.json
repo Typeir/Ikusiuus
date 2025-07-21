@@ -20,7 +20,7 @@
     "pre-init": "npm run compress-assets && npm run kebabify-content && npm run md-to-mdx && npm run merge-locales && npm run find-reusable-mdx-outliers",
     "tree-size": "node ./scripts/treeSize ./src",
     "clean": "npm run clean-fullsize && npm run clean-translations",
-    "build": "npm run pre-init  && next build"
+    "build": "rm -rf .next/cache && npm run pre-init  && next build"
   },
   "dependencies": {
     "19": "^0.0.0",
