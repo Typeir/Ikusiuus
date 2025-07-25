@@ -155,7 +155,7 @@
     border-radius: inherit;
     pointer-events: none;
     z-index: 1;
-    background-color: red;
+    background-color: var(--color-bg);
   }
 
   // Reasonable global height clamp
