@@ -35,7 +35,15 @@ const BASE_HEIGHT = 52; // height per sidebar item in px
  * @returns {Array<LayoutItem | undefined>} Sidebar items with height metadata.
  */
 const calculateHeights = (items: Item[]): Array<LayoutItem> => {
-  return items.map((item) => {
+  // Sort: items without children come first
+  const sorted = [...items].sort((a, b) => {
+    console.log(a.children, b.children);
+    const aIsFolder = a.children && a.children.length > 0;
+    const bIsFolder = b.children && b.children.length > 0;
+    return Number(aIsFolder) - Number(bIsFolder); // false < true
+  });
+
+  return sorted.map((item) => {
     if (!item.children || item.children.length === 0) {
       return {
         ...item,
@@ -84,7 +92,7 @@ export const Sidebar = ({
 }: SidebarProps): JSX.Element => {
   const shouldCollapse = items.length > 1;
   const [localPathStore] = useState(new SidebarActivePathStore());
-  const layoutItems = calculateHeights(items);
+  const [layoutItems] = useState(calculateHeights(items));
 
   return (
     <ul className='space-y-1 text-sm'>
