@@ -241,6 +241,10 @@ body[data-theme] {
    SITE-WIDE CLASSES
 ============================================ */
 
+.prose {
+  max-width: 125ch !important;
+}
+
 .hamburger.is-open .bar-top {
   transform: translateY(25px) rotate(45deg);
 }
