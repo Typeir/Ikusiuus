@@ -37,7 +37,6 @@ const BASE_HEIGHT = 52; // height per sidebar item in px
 const calculateHeights = (items: Item[]): Array<LayoutItem> => {
   // Sort: items without children come first
   const sorted = [...items].sort((a, b) => {
-    console.log(a.children, b.children);
     const aIsFolder = a.children && a.children.length > 0;
     const bIsFolder = b.children && b.children.length > 0;
     return Number(aIsFolder) - Number(bIsFolder); // false < true
